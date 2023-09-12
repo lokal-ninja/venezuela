@@ -1,0 +1,1 @@
+Venezuela, oficialmente República Bolivariana de Venezuela,​ es un país soberano situado en la parte septentrional de América del Sur, constituido por un área continental y por un gran número de islas e islotes en el mar Caribe, cuya capital y mayor aglomeración urbana es la ciudad de Caracas. (Wikipedia)
