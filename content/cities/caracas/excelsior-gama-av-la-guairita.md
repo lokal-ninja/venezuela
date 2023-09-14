@@ -1,5 +1,5 @@
 ---
 title: "Excelsior Gama"
-url: /caracas/excelsior-gama/
+url: /caracas/excelsior-gama-av-la-guairita/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
-url: /maracaibo/conviasa/
+url: /maracaibo/conviasa-av-el-milagro/
 shop: agencia de viajes
 ---

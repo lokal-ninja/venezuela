@@ -1,5 +1,5 @@
 ---
 title: "Multimax Store"
-url: /caracas/multimax-store/
+url: /caracas/multimax-store-av-francisco-de-miranda/
 shop: electrónica
 ---

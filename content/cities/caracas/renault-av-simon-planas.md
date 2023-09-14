@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /caracas/renault/
+url: /caracas/renault-av-simon-planas/
 shop: coche
 ---

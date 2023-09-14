@@ -1,5 +1,5 @@
 ---
 title: "Chocolates St.Moritz"
-url: /caracas/chocolates-st-moritz/
+url: /caracas/chocolates-st-moritz-av-francisco-de-miranda/
 shop: chocolate
 ---

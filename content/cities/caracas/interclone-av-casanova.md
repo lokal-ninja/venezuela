@@ -1,5 +1,5 @@
 ---
 title: "Interclone"
-url: /caracas/interclone/
+url: /caracas/interclone-av-casanova/
 shop: ordenador
 ---

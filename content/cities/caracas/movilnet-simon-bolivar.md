@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
-url: /caracas/movilnet/
+url: /caracas/movilnet-simon-bolivar/
 shop: teléfono móvil
 ---

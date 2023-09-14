@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
-url: /caracas/movilnet/
+url: /caracas/movilnet-av-libertador/
 shop: teléfono móvil
 ---

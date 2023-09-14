@@ -1,5 +1,5 @@
 ---
 title: "BBcitos"
-url: /caracas/bbcitos/
+url: /caracas/bbcitos-av-libertador/
 shop: artículos para bebés
 ---

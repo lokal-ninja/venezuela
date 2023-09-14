@@ -1,5 +1,5 @@
 ---
 title: "LG"
-url: /caracas/lg/
+url: /caracas/lg-av-principal-de-buena-vista/
 shop: electrónica
 ---

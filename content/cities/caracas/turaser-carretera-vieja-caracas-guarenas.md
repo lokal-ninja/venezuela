@@ -1,5 +1,5 @@
 ---
 title: "Turaser"
-url: /caracas/turaser/
+url: /caracas/turaser-carretera-vieja-caracas-guarenas/
 shop: agencia de viajes
 ---

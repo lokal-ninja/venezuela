@@ -1,5 +1,5 @@
 ---
 title: "Keops"
-url: /caracas/keops/
+url: /caracas/keops-av-luis-roche/
 shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prosein"
-url: /caracas/prosein/
+url: /caracas/prosein-av-sanatorio-del-avila/
 shop: comercio
 ---

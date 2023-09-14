@@ -1,5 +1,5 @@
 ---
 title: "Colchones Regal"
-url: /caracas/colchones-regal/
+url: /caracas/colchones-regal-av-del-avila/
 shop: cama
 ---

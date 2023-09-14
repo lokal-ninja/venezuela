@@ -1,5 +1,5 @@
 ---
 title: "Chery"
-url: /caracas/chery/
+url: /caracas/chery-amana/
 shop: piezas de automóviles
 ---

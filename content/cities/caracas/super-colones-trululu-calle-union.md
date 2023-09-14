@@ -1,5 +1,5 @@
 ---
 title: "Super Colonés Trululu"
-url: /caracas/super-colones-trululu/
+url: /caracas/super-colones-trululu-calle-union/
 shop: confitería
 ---

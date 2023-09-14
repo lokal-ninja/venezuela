@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /caracas/firestone/
+url: /caracas/firestone-avenida-los-mangos/
 shop: neumáticos
 ---

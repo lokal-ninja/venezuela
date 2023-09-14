@@ -1,5 +1,5 @@
 ---
 title: "Razas"
-url: /caracas/razas/
+url: /caracas/razas-california/
 shop: mascotas
 ---

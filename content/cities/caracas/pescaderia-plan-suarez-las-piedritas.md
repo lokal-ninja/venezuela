@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Plan Suarez"
-url: /caracas/pescaderia-plan-suarez/
+url: /caracas/pescaderia-plan-suarez-las-piedritas/
 shop: marisco
 ---

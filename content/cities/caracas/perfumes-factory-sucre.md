@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Factory"
-url: /caracas/perfumes-factory/
+url: /caracas/perfumes-factory-sucre/
 shop: perfumería
 ---

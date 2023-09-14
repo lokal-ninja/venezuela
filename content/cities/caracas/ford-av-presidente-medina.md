@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /caracas/ford/
+url: /caracas/ford-av-presidente-medina/
 shop: coche
 ---

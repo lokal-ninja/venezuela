@@ -1,5 +1,5 @@
 ---
 title: "EPA"
-url: /barquisimeto/epa/
+url: /barquisimeto/epa-avenida-hernan-garmendia/
 shop: hardware
 ---

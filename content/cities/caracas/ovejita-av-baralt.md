@@ -1,5 +1,5 @@
 ---
 title: "Ovejita"
-url: /caracas/ovejita/
+url: /caracas/ovejita-av-baralt/
 shop: ropa
 ---

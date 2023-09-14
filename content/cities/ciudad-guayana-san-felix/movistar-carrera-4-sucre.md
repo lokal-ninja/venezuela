@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /ciudad-guayana-san-felix/movistar/
+url: /ciudad-guayana-san-felix/movistar-carrera-4-sucre/
 shop: teléfono móvil
 ---

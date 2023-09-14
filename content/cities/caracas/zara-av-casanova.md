@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /caracas/zara/
+url: /caracas/zara-av-casanova/
 shop: ropa
 ---

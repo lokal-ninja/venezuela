@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /caracas/firestone/
+url: /caracas/firestone-av-principal-de-bello-monte/
 shop: neumáticos
 ---

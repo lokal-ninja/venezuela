@@ -1,5 +1,5 @@
 ---
 title: "Licorería Prolicor"
-url: /caracas/licoreria-prolicor/
+url: /caracas/licoreria-prolicor-av-principal-de-mariperez/
 shop: alcohol
 ---

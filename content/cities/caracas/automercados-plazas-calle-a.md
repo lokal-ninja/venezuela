@@ -1,5 +1,5 @@
 ---
 title: "Automercados Plaza's"
-url: /caracas/automercados-plazas/
+url: /caracas/automercados-plazas-calle-a/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trajes Montecristo"
-url: /caracas/trajes-montecristo/
+url: /caracas/trajes-montecristo-boulevard-de-catia/
 shop: ropa
 ---

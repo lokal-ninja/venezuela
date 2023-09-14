@@ -1,5 +1,5 @@
 ---
 title: "Traki"
-url: /caracas/traki/
+url: /caracas/traki-av-san-martin/
 shop: grandes almacenes
 ---

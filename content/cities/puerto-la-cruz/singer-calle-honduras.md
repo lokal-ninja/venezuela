@@ -1,5 +1,5 @@
 ---
 title: "Singer"
-url: /puerto-la-cruz/singer/
+url: /puerto-la-cruz/singer-calle-honduras/
 shop: coser
 ---

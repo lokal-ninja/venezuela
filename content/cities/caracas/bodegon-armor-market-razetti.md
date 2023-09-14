@@ -1,5 +1,5 @@
 ---
 title: "Bodegón Armor Market"
-url: /caracas/bodegon-armor-market/
+url: /caracas/bodegon-armor-market-razetti/
 shop: comodidad
 ---

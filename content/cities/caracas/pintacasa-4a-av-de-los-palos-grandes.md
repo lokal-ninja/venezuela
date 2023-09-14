@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
-url: /caracas/pintacasa/
+url: /caracas/pintacasa-4a-av-de-los-palos-grandes/
 shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
-url: /barcelona/movilnet/
+url: /barcelona/movilnet-boulevard-de-barcelona/
 shop: teléfono móvil
 ---

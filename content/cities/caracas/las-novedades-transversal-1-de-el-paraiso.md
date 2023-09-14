@@ -1,5 +1,5 @@
 ---
 title: "Las Novedades"
-url: /caracas/las-novedades/
+url: /caracas/las-novedades-transversal-1-de-el-paraiso/
 shop: libros
 ---

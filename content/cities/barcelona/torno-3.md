@@ -1,5 +1,5 @@
 ---
 title: "Torno"
-url: /barcelona/torno/
+url: /barcelona/torno-3/
 shop: reparación de automóviles
 ---

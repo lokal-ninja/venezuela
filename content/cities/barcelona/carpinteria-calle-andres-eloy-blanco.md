@@ -1,5 +1,5 @@
 ---
 title: "carpintería"
-url: /barcelona/carpinteria/
+url: /barcelona/carpinteria-calle-andres-eloy-blanco/
 shop: general
 ---

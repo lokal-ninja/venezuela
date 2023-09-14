@@ -1,5 +1,5 @@
 ---
 title: "Dorsay"
-url: /caracas/dorsay/
+url: /caracas/dorsay-av-este-2/
 shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automercado Supremo"
-url: /caracas/automercado-supremo/
+url: /caracas/automercado-supremo-av-roosevelt/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colchonar"
-url: /caracas/colchonar/
+url: /caracas/colchonar-comercio/
 shop: cama
 ---

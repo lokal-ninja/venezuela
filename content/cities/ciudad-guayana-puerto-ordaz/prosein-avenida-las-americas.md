@@ -1,5 +1,5 @@
 ---
 title: "Prosein"
-url: /ciudad-guayana-puerto-ordaz/prosein/
+url: /ciudad-guayana-puerto-ordaz/prosein-avenida-las-americas/
 shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rapidfot"
-url: /caracas/rapidfot/
+url: /caracas/rapidfot-av-francisco-de-miranda/
 shop: foto
 ---

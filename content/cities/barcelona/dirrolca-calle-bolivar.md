@@ -1,5 +1,5 @@
 ---
 title: "dirrolca"
-url: /barcelona/dirrolca/
+url: /barcelona/dirrolca-calle-bolivar/
 shop: carnicero
 ---

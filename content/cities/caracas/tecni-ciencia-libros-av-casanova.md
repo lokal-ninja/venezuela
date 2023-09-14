@@ -1,5 +1,5 @@
 ---
 title: "Tecni-Ciencia Libros"
-url: /caracas/tecni-ciencia-libros/
+url: /caracas/tecni-ciencia-libros-av-casanova/
 shop: libros
 ---

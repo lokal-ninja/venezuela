@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
-url: /caracas/movilnet/
+url: /caracas/movilnet-av-la-estancia-2/
 shop: teléfono móvil
 ---

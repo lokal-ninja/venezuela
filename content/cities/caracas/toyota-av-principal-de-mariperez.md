@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
-url: /caracas/toyota/
+url: /caracas/toyota-av-principal-de-mariperez/
 shop: coche
 ---

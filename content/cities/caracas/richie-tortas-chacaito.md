@@ -1,5 +1,5 @@
 ---
 title: "Richie Tortas"
-url: /caracas/richie-tortas/
+url: /caracas/richie-tortas-chacaito/
 shop: pastelería
 ---

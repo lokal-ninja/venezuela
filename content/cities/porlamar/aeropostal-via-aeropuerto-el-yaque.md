@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
-url: /porlamar/aeropostal/
+url: /porlamar/aeropostal-via-aeropuerto-el-yaque/
 shop: agencia de viajes
 ---

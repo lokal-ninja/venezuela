@@ -1,5 +1,5 @@
 ---
 title: "Alza Tus Ojos"
-url: /ciudad-guayana-puerto-ordaz/alza-tus-ojos/
+url: /ciudad-guayana-puerto-ordaz/alza-tus-ojos-avenida-guayana/
 shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Concesionario CMKAutos"
-url: /caracas/concesionario-cmkautos/
+url: /caracas/concesionario-cmkautos-avenida-el-bosque/
 shop: coche
 ---

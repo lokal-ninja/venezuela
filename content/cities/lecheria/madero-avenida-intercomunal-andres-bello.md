@@ -1,5 +1,5 @@
 ---
 title: "Madero"
-url: /lecheria/madero/
+url: /lecheria/madero-avenida-intercomunal-andres-bello/
 shop: supermercado
 ---

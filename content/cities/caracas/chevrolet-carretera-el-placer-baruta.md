@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /caracas/chevrolet/
+url: /caracas/chevrolet-carretera-el-placer-baruta/
 shop: coche
 ---

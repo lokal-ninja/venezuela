@@ -1,5 +1,5 @@
 ---
 title: "Estación de Servicios Avilago"
-url: /caracas/estacion-de-servicios-avilago/
+url: /caracas/estacion-de-servicios-avilago-av-baralt/
 shop: comodidad
 ---

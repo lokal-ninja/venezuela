@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
-url: /caracas/movilnet/
+url: /caracas/movilnet-calle-2-de-terrazas-del-avila/
 shop: teléfono móvil
 ---

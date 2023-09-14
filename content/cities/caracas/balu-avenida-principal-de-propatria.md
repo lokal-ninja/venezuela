@@ -1,5 +1,5 @@
 ---
 title: "Balú"
-url: /caracas/balu/
+url: /caracas/balu-avenida-principal-de-propatria/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /caracas/ford/
+url: /caracas/ford-avenida-andres-galarraga/
 shop: coche
 ---

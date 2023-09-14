@@ -1,5 +1,5 @@
 ---
 title: "Razas"
-url: /caracas/razas/
+url: /caracas/razas-av-las-fuentes/
 shop: mascotas
 ---

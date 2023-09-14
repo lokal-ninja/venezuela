@@ -1,5 +1,5 @@
 ---
 title: "Daka"
-url: /caracas/daka/
+url: /caracas/daka-luis-de-canoens/
 shop: electrónica
 ---

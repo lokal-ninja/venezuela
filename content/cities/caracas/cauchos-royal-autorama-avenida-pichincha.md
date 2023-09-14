@@ -1,5 +1,5 @@
 ---
 title: "Cauchos Royal Autorama"
-url: /caracas/cauchos-royal-autorama/
+url: /caracas/cauchos-royal-autorama-avenida-pichincha/
 shop: neumáticos
 ---

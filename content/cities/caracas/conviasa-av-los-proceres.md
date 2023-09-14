@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
-url: /caracas/conviasa/
+url: /caracas/conviasa-av-los-proceres/
 shop: agencia de viajes
 ---

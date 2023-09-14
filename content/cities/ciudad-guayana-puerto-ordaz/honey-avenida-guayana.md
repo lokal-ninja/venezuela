@@ -1,5 +1,5 @@
 ---
 title: "Honey"
-url: /ciudad-guayana-puerto-ordaz/honey/
+url: /ciudad-guayana-puerto-ordaz/honey-avenida-guayana/
 shop: pastelería
 ---

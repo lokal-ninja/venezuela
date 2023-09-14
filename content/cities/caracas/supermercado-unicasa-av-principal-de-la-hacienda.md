@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Unicasa"
-url: /caracas/supermercado-unicasa/
+url: /caracas/supermercado-unicasa-av-principal-de-la-hacienda/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dipofres"
-url: /barcelona/dipofres/
+url: /barcelona/dipofres-2/
 shop: carnicero
 ---

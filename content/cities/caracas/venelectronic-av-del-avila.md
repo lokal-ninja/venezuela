@@ -1,5 +1,5 @@
 ---
 title: "Venelectronic"
-url: /caracas/venelectronic/
+url: /caracas/venelectronic-av-del-avila/
 shop: electrónica
 ---

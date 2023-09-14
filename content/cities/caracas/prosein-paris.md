@@ -1,5 +1,5 @@
 ---
 title: "Prosein"
-url: /caracas/prosein/
+url: /caracas/prosein-paris/
 shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercal"
-url: /cumana/mercal/
+url: /cumana/mercal-2/
 shop: supermercado
 ---

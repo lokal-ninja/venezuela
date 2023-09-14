@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
-url: /caracas/hyundai/
+url: /caracas/hyundai-av-orinoco/
 shop: coche
 ---

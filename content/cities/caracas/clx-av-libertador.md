@@ -1,5 +1,5 @@
 ---
 title: "CLX"
-url: /caracas/clx/
+url: /caracas/clx-av-libertador/
 shop: electrónica
 ---

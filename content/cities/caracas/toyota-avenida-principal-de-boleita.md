@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
-url: /caracas/toyota/
+url: /caracas/toyota-avenida-principal-de-boleita/
 shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ivoo"
-url: /caracas/ivoo/
+url: /caracas/ivoo-avenida-las-acacias/
 shop: electrónica
 ---

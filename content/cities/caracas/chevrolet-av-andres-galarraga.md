@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /caracas/chevrolet/
+url: /caracas/chevrolet-av-andres-galarraga/
 shop: coche
 ---

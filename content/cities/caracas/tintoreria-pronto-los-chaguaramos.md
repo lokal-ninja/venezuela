@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Pronto"
-url: /caracas/tintoreria-pronto/
+url: /caracas/tintoreria-pronto-los-chaguaramos/
 shop: lavandería
 ---

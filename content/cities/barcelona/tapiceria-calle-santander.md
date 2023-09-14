@@ -1,5 +1,5 @@
 ---
 title: "tapicería"
-url: /barcelona/tapiceria/
+url: /barcelona/tapiceria-calle-santander/
 shop: alfombra
 ---

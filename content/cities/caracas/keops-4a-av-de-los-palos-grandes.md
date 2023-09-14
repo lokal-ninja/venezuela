@@ -1,5 +1,5 @@
 ---
 title: "Keops"
-url: /caracas/keops/
+url: /caracas/keops-4a-av-de-los-palos-grandes/
 shop: comercio
 ---

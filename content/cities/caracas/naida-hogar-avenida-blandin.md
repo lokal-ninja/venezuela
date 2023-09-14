@@ -1,5 +1,5 @@
 ---
 title: "Naida Hogar"
-url: /caracas/naida-hogar/
+url: /caracas/naida-hogar-avenida-blandin/
 shop: electrónica
 ---

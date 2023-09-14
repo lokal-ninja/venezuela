@@ -1,5 +1,5 @@
 ---
 title: "Dipofres"
-url: /barcelona/dipofres/
+url: /barcelona/dipofres-avenida-miranda/
 shop: carnicero
 ---

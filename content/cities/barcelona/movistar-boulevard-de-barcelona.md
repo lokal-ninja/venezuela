@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /barcelona/movistar/
+url: /barcelona/movistar-boulevard-de-barcelona/
 shop: teléfono móvil
 ---

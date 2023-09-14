@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /puerto-la-cruz/movistar/
+url: /puerto-la-cruz/movistar-calle-maneiro/
 shop: teléfono móvil
 ---
