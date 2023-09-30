@@ -1,5 +1,5 @@
 ---
 title: "Wrangler Jeans"
 url: /caracas/wrangler-jeans/
-shop: mascotas
+shop: ropa
 ---

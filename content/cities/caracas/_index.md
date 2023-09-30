@@ -1,6 +1,6 @@
 ---
 title: Caracas
 url: /caracas/
-latitude: 10.465
-longitude: -66.981
+latitude: 10.494
+longitude: -66.856
 ---
