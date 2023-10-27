@@ -1,5 +1,5 @@
 ---
 title: "Venetur"
-url: /caracas/venetur-av-juan-uslar/
+url: /caracas/venetur-av-este-6/
 shop: agencia de viajes
 ---
