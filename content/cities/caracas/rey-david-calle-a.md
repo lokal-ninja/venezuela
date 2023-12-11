@@ -1,5 +1,5 @@
 ---
 title: "Rey David"
-url: /caracas/rey-david-fermin-toro/
+url: /caracas/rey-david-calle-a/
 shop: charcutería
 ---
