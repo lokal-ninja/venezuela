@@ -1,5 +1,5 @@
 ---
-title: "Centro comercial las garzas"
+title: "Centro Comercial Las Garzas"
 url: /lecheria/centro-comercial-las-garzas/
 shop: centro comercial
 ---

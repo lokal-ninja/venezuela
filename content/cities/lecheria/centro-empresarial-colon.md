@@ -1,5 +1,5 @@
 ---
-title: "Centro empresarial Colón"
+title: "Centro Empresarial Colón"
 url: /lecheria/centro-empresarial-colon/
 shop: centro comercial
 ---

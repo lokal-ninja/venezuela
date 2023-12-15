@@ -1,5 +1,5 @@
 ---
-title: "bodegon don cesar"
+title: "Bodegón Don César"
 url: /puerto-la-cruz/bodegon-don-cesar/
 shop: comodidad
 ---
