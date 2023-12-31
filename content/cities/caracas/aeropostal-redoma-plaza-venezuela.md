@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
-url: /caracas/aeropostal-av-eugenio-mendoza/
+url: /caracas/aeropostal-redoma-plaza-venezuela/
 shop: agencia de viajes
 ---
