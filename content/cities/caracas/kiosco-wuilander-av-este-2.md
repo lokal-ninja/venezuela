@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Wuilander"
-url: /caracas/kiosco-wuilander-avenida-vollmer/
+url: /caracas/kiosco-wuilander-av-este-2/
 shop: confitería
 ---

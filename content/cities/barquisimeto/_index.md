@@ -1,6 +1,6 @@
 ---
-title: barquisimeto
+title: Barquisimeto
 url: /barquisimeto/
-latitude: 10.062
-longitude: -69.286
+latitude: 10.137
+longitude: -69.313
 ---
