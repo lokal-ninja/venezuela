@@ -1,5 +1,5 @@
 ---
 title: "Damasco (DA+CO)"
-url: /caracas/damasco-da-co-av-san-martin-2/
+url: /caracas/damasco-da-co-av-libertador/
 shop: electrónica
 ---

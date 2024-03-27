@@ -1,6 +1,6 @@
 ---
-title: San Antonio de Los Altos
+title: San Antonio de los Altos
 url: /san-antonio-de-los-altos/
-latitude: 10.374
-longitude: -66.968
+latitude: 10.373
+longitude: -66.973
 ---
