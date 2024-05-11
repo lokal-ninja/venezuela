@@ -1,5 +1,5 @@
 ---
 title: "Avior Airlines"
-url: /maracaibo/avior-airlines-calle-68/
+url: /maracaibo/avior-airlines-av-don-manuel-belloso/
 shop: agencia de viajes
 ---
