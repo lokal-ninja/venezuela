@@ -1,5 +1,5 @@
 ---
 title: "EPA"
-url: /caracas/epa-adriana-johanna/
+url: /caracas/epa-los-guayabitos/
 shop: hágalo usted mismo
 ---
