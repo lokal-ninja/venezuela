@@ -1,5 +1,5 @@
 ---
-title: "la regional"
+title: "La regional"
 url: /puerto-la-cruz/la-regional/
 shop: alcohol
 ---

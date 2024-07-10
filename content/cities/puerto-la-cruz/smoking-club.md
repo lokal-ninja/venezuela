@@ -1,5 +1,5 @@
 ---
-title: "smoking club"
+title: "Smoking club"
 url: /puerto-la-cruz/smoking-club/
 shop: ropa
 ---
