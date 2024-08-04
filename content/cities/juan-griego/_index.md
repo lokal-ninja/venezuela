@@ -1,6 +1,6 @@
 ---
 title: Juan Griego
 url: /juan-griego/
-latitude: 11.079
-longitude: -63.971
+latitude: 11.083
+longitude: -63.969
 ---
