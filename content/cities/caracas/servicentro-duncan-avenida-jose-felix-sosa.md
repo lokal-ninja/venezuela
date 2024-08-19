@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Duncan"
-url: /caracas/servicentro-duncan-av-sur-altamira/
+url: /caracas/servicentro-duncan-avenida-jose-felix-sosa/
 shop: piezas de automóviles
 ---
