@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Factory"
-url: /caracas/perfumes-factory-av-este-2-2/
+url: /caracas/perfumes-factory-avenida-este-2/
 shop: perfumería
 ---
