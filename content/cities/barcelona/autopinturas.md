@@ -1,5 +1,5 @@
 ---
 title: "autopinturas"
 url: /barcelona/autopinturas/
-shop: pintura
+shop: Farben
 ---

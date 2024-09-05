@@ -1,5 +1,5 @@
 ---
 title: "VIP"
 url: /lecheria/vip/
-shop: comodidad
+shop: Lebensmittel
 ---

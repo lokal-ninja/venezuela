@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Supercentro Petare"
 url: /caracas/centro-comercial-supercentro-petare/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

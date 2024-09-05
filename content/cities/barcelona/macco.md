@@ -1,5 +1,5 @@
 ---
 title: "Macco"
 url: /barcelona/macco/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tapiluz"
 url: /lecheria/tapiluz/
-shop: cortina
+shop: Gardinen
 ---

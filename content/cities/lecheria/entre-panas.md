@@ -1,5 +1,5 @@
 ---
 title: "Entre panas"
 url: /lecheria/entre-panas/
-shop: alcohol
+shop: Spirituosen
 ---

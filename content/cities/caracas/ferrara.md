@@ -1,5 +1,5 @@
 ---
 title: "Ferrara"
 url: /caracas/ferrara/
-shop: cocina
+shop: Küchen
 ---

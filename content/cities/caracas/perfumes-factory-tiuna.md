@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Factory"
 url: /caracas/perfumes-factory-tiuna/
-shop: perfumería
+shop: Parfümerie
 ---

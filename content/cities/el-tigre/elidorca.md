@@ -1,5 +1,5 @@
 ---
 title: "Elidorca"
 url: /el-tigre/elidorca/
-shop: eléctrico
+shop: Elektrisch
 ---

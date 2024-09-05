@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /caracas/makro/
-shop: mayorista
+shop: Großhandel
 ---

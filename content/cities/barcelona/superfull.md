@@ -1,5 +1,5 @@
 ---
 title: "Superfull"
 url: /barcelona/superfull/
-shop: supermercado
+shop: Supermarkt
 ---

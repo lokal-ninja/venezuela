@@ -1,5 +1,5 @@
 ---
 title: "Protinal"
 url: /punto-fijo/protinal/
-shop: granja
+shop: Hofladen
 ---

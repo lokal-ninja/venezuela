@@ -1,5 +1,5 @@
 ---
 title: "Charcutería Embutidos Madeira's"
 url: /caracas/charcuteria-embutidos-madeiras/
-shop: carnicero
+shop: Metzgerei
 ---

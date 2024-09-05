@@ -1,5 +1,5 @@
 ---
 title: "PDVAL (Tipo I)"
 url: /caracas/pdval-tipo-i/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benelli"
 url: /caracas/benelli/
-shop: motocicleta
+shop: Motorrad
 ---

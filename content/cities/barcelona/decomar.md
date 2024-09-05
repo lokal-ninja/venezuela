@@ -1,5 +1,5 @@
 ---
 title: "Decomar"
 url: /barcelona/decomar/
-shop: hardware
+shop: Eisenwaren
 ---

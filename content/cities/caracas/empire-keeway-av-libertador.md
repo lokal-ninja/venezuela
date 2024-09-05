@@ -1,5 +1,5 @@
 ---
 title: "Empire Keeway"
 url: /caracas/empire-keeway-av-libertador/
-shop: motocicleta
+shop: Motorrad
 ---

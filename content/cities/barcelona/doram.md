@@ -1,5 +1,5 @@
 ---
 title: "doram"
 url: /barcelona/doram/
-shop: comodidad
+shop: Lebensmittel
 ---

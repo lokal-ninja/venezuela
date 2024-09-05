@@ -1,5 +1,5 @@
 ---
 title: "Automercados Plaza's"
 url: /caracas/automercados-plazas-av-principal-del-cafetal/
-shop: supermercado
+shop: Supermarkt
 ---

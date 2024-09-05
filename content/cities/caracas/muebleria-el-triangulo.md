@@ -1,5 +1,5 @@
 ---
 title: "Mueblería El Triangulo"
 url: /caracas/muebleria-el-triangulo/
-shop: muebles
+shop: Möbel
 ---

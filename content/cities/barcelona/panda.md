@@ -1,5 +1,5 @@
 ---
 title: "panda"
 url: /barcelona/panda/
-shop: comodidad
+shop: Lebensmittel
 ---

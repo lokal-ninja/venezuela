@@ -1,5 +1,5 @@
 ---
 title: "Sabaneta"
 url: /barcelona/sabaneta/
-shop: alcohol
+shop: Spirituosen
 ---

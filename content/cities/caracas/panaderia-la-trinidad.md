@@ -1,5 +1,5 @@
 ---
 title: "Panadería La Trinidad"
 url: /caracas/panaderia-la-trinidad/
-shop: panadería
+shop: Bäckerei
 ---

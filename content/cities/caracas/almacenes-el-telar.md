@@ -1,5 +1,5 @@
 ---
 title: "Almacenes El Telar"
 url: /caracas/almacenes-el-telar/
-shop: tela
+shop: Textil
 ---

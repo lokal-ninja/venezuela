@@ -1,5 +1,5 @@
 ---
 title: "Kamasutra"
 url: /caracas/kamasutra/
-shop: erótico
+shop: Erotik
 ---

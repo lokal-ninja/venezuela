@@ -1,5 +1,5 @@
 ---
 title: "Mercal"
 url: /barcelona/mercal/
-shop: comodidad
+shop: Lebensmittel
 ---

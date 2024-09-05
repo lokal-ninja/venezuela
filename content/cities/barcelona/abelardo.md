@@ -1,5 +1,5 @@
 ---
 title: "Abelardo"
 url: /barcelona/abelardo/
-shop: comodidad
+shop: Lebensmittel
 ---

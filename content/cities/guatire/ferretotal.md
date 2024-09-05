@@ -1,5 +1,5 @@
 ---
 title: "Ferretotal"
 url: /guatire/ferretotal/
-shop: hardware
+shop: Eisenwaren
 ---

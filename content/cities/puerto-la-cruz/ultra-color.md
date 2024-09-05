@@ -1,5 +1,5 @@
 ---
 title: "ultra color"
 url: /puerto-la-cruz/ultra-color/
-shop: pintura
+shop: Farben
 ---

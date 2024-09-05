@@ -1,5 +1,5 @@
 ---
 title: "Superpets"
 url: /lecheria/superpets/
-shop: mascotas
+shop: Tiere
 ---

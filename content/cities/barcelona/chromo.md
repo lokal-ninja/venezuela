@@ -1,5 +1,5 @@
 ---
 title: "chromo"
 url: /barcelona/chromo/
-shop: ordenador
+shop: Computer
 ---

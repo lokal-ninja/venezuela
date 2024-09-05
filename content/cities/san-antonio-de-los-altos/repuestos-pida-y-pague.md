@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Pida y Pague"
 url: /san-antonio-de-los-altos/repuestos-pida-y-pague/
-shop: piezas de automóviles
+shop: Autoteile
 ---

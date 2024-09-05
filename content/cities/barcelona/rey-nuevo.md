@@ -1,5 +1,5 @@
 ---
 title: "Rey Nuevo"
 url: /barcelona/rey-nuevo/
-shop: comodidad
+shop: Lebensmittel
 ---

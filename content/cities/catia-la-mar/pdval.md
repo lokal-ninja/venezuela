@@ -1,5 +1,5 @@
 ---
 title: "PDVal"
 url: /catia-la-mar/pdval/
-shop: supermercado
+shop: Supermarkt
 ---

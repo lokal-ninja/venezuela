@@ -1,5 +1,5 @@
 ---
 title: "Styllo"
 url: /lecheria/styllo/
-shop: muebles
+shop: Möbel
 ---

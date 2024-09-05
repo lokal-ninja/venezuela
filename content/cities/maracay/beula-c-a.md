@@ -1,5 +1,5 @@
 ---
 title: "BEULA, C.A."
 url: /maracay/beula-c-a/
-shop: supermercado
+shop: Supermarkt
 ---

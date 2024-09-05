@@ -1,5 +1,5 @@
 ---
 title: "BICENTENARIO"
 url: /barquisimeto/bicentenario/
-shop: supermercado
+shop: Supermarkt
 ---

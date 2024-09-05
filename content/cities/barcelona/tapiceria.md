@@ -1,5 +1,5 @@
 ---
 title: "tapicería"
 url: /barcelona/tapiceria/
-shop: alfombra
+shop: Teppiche
 ---

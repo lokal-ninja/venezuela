@@ -1,5 +1,5 @@
 ---
 title: "Bodegón donde si"
 url: /barcelona/bodegon-donde-si/
-shop: comodidad
+shop: Lebensmittel
 ---

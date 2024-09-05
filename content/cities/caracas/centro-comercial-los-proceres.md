@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Los Próceres"
 url: /caracas/centro-comercial-los-proceres/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

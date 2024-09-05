@@ -1,5 +1,5 @@
 ---
 title: "lastres"
 url: /barcelona/lastres/
-shop: comodidad
+shop: Lebensmittel
 ---

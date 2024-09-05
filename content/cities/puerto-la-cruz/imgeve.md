@@ -1,5 +1,5 @@
 ---
 title: "Imgeve"
 url: /puerto-la-cruz/imgeve/
-shop: electrónica
+shop: Elektronik
 ---

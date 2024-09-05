@@ -1,5 +1,5 @@
 ---
 title: "carnes fe"
 url: /barcelona/carnes-fe/
-shop: carnicero
+shop: Metzgerei
 ---

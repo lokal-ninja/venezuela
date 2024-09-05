@@ -1,5 +1,5 @@
 ---
 title: "Epsilon"
 url: /lecheria/epsilon/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centrolit"
 url: /lecheria/centrolit/
-shop: hágalo usted mismo
+shop: Baumarkt
 ---

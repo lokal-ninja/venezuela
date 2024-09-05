@@ -1,5 +1,5 @@
 ---
 title: "Ferrehomes"
 url: /lecheria/ferrehomes/
-shop: hardware
+shop: Eisenwaren
 ---

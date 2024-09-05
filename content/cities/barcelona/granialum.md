@@ -1,5 +1,5 @@
 ---
 title: "Granialum"
 url: /barcelona/granialum/
-shop: general
+shop: Allgemein
 ---

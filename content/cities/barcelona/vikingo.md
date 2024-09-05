@@ -1,5 +1,5 @@
 ---
 title: "vikingo"
 url: /barcelona/vikingo/
-shop: alcohol
+shop: Spirituosen
 ---

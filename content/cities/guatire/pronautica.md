@@ -1,5 +1,5 @@
 ---
 title: "Pronautica"
 url: /guatire/pronautica/
-shop: barco
+shop: Boot
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreayuda"
 url: /calabozo/ferreayuda/
-shop: hardware
+shop: Eisenwaren
 ---

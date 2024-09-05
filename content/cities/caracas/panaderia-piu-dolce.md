@@ -1,5 +1,5 @@
 ---
 title: "Panadería Piu Dolce"
 url: /caracas/panaderia-piu-dolce/
-shop: panadería
+shop: Bäckerei
 ---

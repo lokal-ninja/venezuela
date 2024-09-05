@@ -1,5 +1,5 @@
 ---
 title: "Kim market"
 url: /puerto-la-cruz/kim-market/
-shop: comodidad
+shop: Lebensmittel
 ---

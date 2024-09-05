@@ -1,5 +1,5 @@
 ---
 title: "E/S La Peñita"
 url: /charallave/e-s-la-penita/
-shop: general
+shop: Allgemein
 ---

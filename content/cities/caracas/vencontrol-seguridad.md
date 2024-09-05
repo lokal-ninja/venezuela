@@ -1,5 +1,5 @@
 ---
 title: "Vencontrol Seguridad"
 url: /caracas/vencontrol-seguridad/
-shop: seguridad
+shop: Sicherheit
 ---

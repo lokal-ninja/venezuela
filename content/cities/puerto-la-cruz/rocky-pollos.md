@@ -1,5 +1,5 @@
 ---
 title: "Rocky pollos"
 url: /puerto-la-cruz/rocky-pollos/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /caracas/mg/
-shop: coche
+shop: Autohaus
 ---

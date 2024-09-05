@@ -1,5 +1,5 @@
 ---
 title: "santipan"
 url: /barcelona/santipan/
-shop: carnicero
+shop: Metzgerei
 ---

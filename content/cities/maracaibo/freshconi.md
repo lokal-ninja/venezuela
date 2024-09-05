@@ -1,5 +1,5 @@
 ---
 title: "Freshconi"
 url: /maracaibo/freshconi/
-shop: frutería
+shop: Gemüse & Obst
 ---

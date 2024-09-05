@@ -1,5 +1,5 @@
 ---
 title: "Ferre hogar"
 url: /puerto-la-cruz/ferre-hogar/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza 75"
 url: /maracaibo/plaza-75/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

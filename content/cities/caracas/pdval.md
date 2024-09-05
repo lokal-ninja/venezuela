@@ -1,5 +1,5 @@
 ---
 title: "PDVAL"
 url: /caracas/pdval/
-shop: comodidad
+shop: Lebensmittel
 ---

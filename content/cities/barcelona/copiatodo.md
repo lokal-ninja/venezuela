@@ -1,5 +1,5 @@
 ---
 title: "Copiatodo"
 url: /barcelona/copiatodo/
-shop: material de oficina
+shop: Schreibwaren
 ---

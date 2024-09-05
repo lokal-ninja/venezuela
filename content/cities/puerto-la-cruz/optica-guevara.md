@@ -1,5 +1,5 @@
 ---
 title: "Óptica Guevara"
 url: /puerto-la-cruz/optica-guevara/
-shop: óptico
+shop: Optiker
 ---

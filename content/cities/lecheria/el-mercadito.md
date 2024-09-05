@@ -1,5 +1,5 @@
 ---
 title: "El mercadito"
 url: /lecheria/el-mercadito/
-shop: comodidad
+shop: Lebensmittel
 ---

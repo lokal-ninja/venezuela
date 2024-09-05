@@ -1,5 +1,5 @@
 ---
 title: "Meditron"
 url: /caracas/meditron/
-shop: suministros médicos
+shop: Sanitätshaus
 ---

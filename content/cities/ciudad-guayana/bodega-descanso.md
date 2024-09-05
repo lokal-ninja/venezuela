@@ -1,5 +1,5 @@
 ---
 title: "Bodega Descanso"
 url: /ciudad-guayana/bodega-descanso/
-shop: comodidad
+shop: Lebensmittel
 ---

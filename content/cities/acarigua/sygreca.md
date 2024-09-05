@@ -1,5 +1,5 @@
 ---
 title: "SYGRECA"
 url: /acarigua/sygreca/
-shop: ordenador
+shop: Computer
 ---

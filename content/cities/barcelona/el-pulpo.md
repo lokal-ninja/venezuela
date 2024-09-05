@@ -1,5 +1,5 @@
 ---
 title: "El pulpo"
 url: /barcelona/el-pulpo/
-shop: zapatos
+shop: Schuhe
 ---

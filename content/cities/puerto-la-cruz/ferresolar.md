@@ -1,5 +1,5 @@
 ---
 title: "ferresolar"
 url: /puerto-la-cruz/ferresolar/
-shop: hardware
+shop: Eisenwaren
 ---

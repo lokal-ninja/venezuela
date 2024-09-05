@@ -1,5 +1,5 @@
 ---
 title: "vicmar"
 url: /barcelona/vicmar/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
 url: /guatire/movilnet/
-shop: teléfono móvil
+shop: Handy
 ---

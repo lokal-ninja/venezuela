@@ -1,5 +1,5 @@
 ---
 title: "Agrotienda"
 url: /barcelona/agrotienda/
-shop: hardware
+shop: Eisenwaren
 ---

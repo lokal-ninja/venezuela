@@ -1,5 +1,5 @@
 ---
 title: "Autopremium"
 url: /caracas/autopremium/
-shop: coche
+shop: Autohaus
 ---

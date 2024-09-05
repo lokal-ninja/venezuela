@@ -1,5 +1,5 @@
 ---
 title: "distrifresh"
 url: /barcelona/distrifresh/
-shop: carnicero
+shop: Metzgerei
 ---

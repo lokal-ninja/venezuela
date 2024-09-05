@@ -1,5 +1,5 @@
 ---
 title: "Café D' Marco"
 url: /ciudad-guayana-puerto-ordaz/cafe-d-marco/
-shop: pastelería
+shop: Konditorei
 ---

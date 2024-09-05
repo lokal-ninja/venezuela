@@ -1,5 +1,5 @@
 ---
 title: "Chocolates Noble"
 url: /caracas/chocolates-noble/
-shop: confitería
+shop: Süßwaren
 ---

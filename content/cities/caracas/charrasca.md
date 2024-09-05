@@ -1,5 +1,5 @@
 ---
 title: "Charrasca"
 url: /caracas/charrasca/
-shop: tienda
+shop: Modehaus
 ---

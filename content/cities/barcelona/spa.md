@@ -1,5 +1,5 @@
 ---
 title: "Spa"
 url: /barcelona/spa/
-shop: general
+shop: Allgemein
 ---

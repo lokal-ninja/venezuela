@@ -1,5 +1,5 @@
 ---
 title: "Automercados Plaza's"
 url: /caracas/automercados-plazas-sojo/
-shop: supermercado
+shop: Supermarkt
 ---

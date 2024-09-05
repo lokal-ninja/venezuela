@@ -1,5 +1,5 @@
 ---
 title: "Óptica Sánchez"
 url: /valera/optica-sanchez/
-shop: óptico
+shop: Optiker
 ---

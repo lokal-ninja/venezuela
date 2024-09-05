@@ -1,5 +1,5 @@
 ---
 title: "PDVAL"
 url: /barracas/pdval/
-shop: comodidad
+shop: Lebensmittel
 ---

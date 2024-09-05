@@ -1,5 +1,5 @@
 ---
 title: "la rosado"
 url: /barcelona/la-rosado/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RE-RECA"
 url: /ciudad-guayana-san-felix/re-reca/
-shop: electrónica
+shop: Elektronik
 ---

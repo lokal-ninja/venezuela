@@ -1,5 +1,5 @@
 ---
 title: "OptiVisual"
 url: /ciudad-guayana-san-felix/optivisual/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andcag"
 url: /barcelona/andcag/
-shop: ropa
+shop: Kleidung
 ---

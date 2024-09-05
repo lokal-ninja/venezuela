@@ -1,5 +1,5 @@
 ---
 title: "C.C. Caribean Country"
 url: /barcelona/c-c-caribean-country/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

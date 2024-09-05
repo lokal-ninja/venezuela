@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /maracay/makro/
-shop: mayorista
+shop: Großhandel
 ---

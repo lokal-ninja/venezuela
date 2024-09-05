@@ -1,5 +1,5 @@
 ---
 title: "Saras"
 url: /barcelona/saras/
-shop: peluquería
+shop: Friseur
 ---

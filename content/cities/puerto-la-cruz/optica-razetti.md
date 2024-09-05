@@ -1,5 +1,5 @@
 ---
 title: "Óptica Razetti"
 url: /puerto-la-cruz/optica-razetti/
-shop: óptico
+shop: Optiker
 ---

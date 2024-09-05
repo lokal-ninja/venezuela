@@ -1,5 +1,5 @@
 ---
 title: "Micro CN"
 url: /barcelona/micro-cn/
-shop: aparato
+shop: Haushaltsgeräte
 ---

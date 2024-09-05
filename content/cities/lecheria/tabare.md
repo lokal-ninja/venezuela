@@ -1,5 +1,5 @@
 ---
 title: "Tabare"
 url: /lecheria/tabare/
-shop: carnicero
+shop: Metzgerei
 ---

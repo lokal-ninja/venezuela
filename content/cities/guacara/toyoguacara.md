@@ -1,5 +1,5 @@
 ---
 title: "ToyoGuacara"
 url: /guacara/toyoguacara/
-shop: coche
+shop: Autohaus
 ---

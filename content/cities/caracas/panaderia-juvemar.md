@@ -1,5 +1,5 @@
 ---
 title: "Panadería Juvemar"
 url: /caracas/panaderia-juvemar/
-shop: panadería
+shop: Bäckerei
 ---

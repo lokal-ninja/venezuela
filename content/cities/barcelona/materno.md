@@ -1,5 +1,5 @@
 ---
 title: "Materno"
 url: /barcelona/materno/
-shop: ropa
+shop: Kleidung
 ---

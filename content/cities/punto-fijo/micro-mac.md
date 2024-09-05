@@ -1,5 +1,5 @@
 ---
 title: "Micro Mac"
 url: /punto-fijo/micro-mac/
-shop: ordenador
+shop: Computer
 ---

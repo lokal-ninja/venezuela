@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Gran Muro"
 url: /caracas/panaderia-el-gran-muro/
-shop: panadería
+shop: Bäckerei
 ---

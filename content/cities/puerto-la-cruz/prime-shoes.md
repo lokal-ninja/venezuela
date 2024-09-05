@@ -1,5 +1,5 @@
 ---
 title: "Prime shoes"
 url: /puerto-la-cruz/prime-shoes/
-shop: zapatos
+shop: Schuhe
 ---

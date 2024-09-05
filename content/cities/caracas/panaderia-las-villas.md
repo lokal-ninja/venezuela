@@ -1,5 +1,5 @@
 ---
 title: "Panadería Las Villas"
 url: /caracas/panaderia-las-villas/
-shop: panadería
+shop: Bäckerei
 ---

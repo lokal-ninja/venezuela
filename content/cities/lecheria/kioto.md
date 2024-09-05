@@ -1,5 +1,5 @@
 ---
 title: "Kioto"
 url: /lecheria/kioto/
-shop: ropa
+shop: Kleidung
 ---

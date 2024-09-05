@@ -1,5 +1,5 @@
 ---
 title: "Zona frio express"
 url: /barcelona/zona-frio-express/
-shop: electrónica
+shop: Elektronik
 ---

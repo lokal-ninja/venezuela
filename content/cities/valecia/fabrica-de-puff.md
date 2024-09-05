@@ -1,5 +1,5 @@
 ---
 title: "Fabrica de Puff"
 url: /valecia/fabrica-de-puff/
-shop: cama
+shop: Betten
 ---

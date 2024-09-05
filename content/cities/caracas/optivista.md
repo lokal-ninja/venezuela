@@ -1,5 +1,5 @@
 ---
 title: "Optivista"
 url: /caracas/optivista/
-shop: óptico
+shop: Optiker
 ---

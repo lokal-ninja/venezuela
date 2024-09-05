@@ -1,5 +1,5 @@
 ---
 title: "disprosub"
 url: /barcelona/disprosub/
-shop: carnicero
+shop: Metzgerei
 ---

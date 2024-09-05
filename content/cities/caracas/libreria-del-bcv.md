@@ -1,5 +1,5 @@
 ---
 title: "Librería del BCV"
 url: /caracas/libreria-del-bcv/
-shop: libros
+shop: Bücher
 ---

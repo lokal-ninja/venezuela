@@ -1,5 +1,5 @@
 ---
 title: "Ferreco"
 url: /lecheria/ferreco/
-shop: hardware
+shop: Eisenwaren
 ---

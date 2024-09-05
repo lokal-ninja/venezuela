@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /el-tigre/makro/
-shop: mayorista
+shop: Großhandel
 ---

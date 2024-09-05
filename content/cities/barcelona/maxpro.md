@@ -1,5 +1,5 @@
 ---
 title: "maxpro"
 url: /barcelona/maxpro/
-shop: piezas de automóviles
+shop: Autoteile
 ---

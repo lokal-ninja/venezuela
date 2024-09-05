@@ -1,5 +1,5 @@
 ---
 title: "Estación de Servicios Bella Vista"
 url: /caracas/estacion-de-servicios-bella-vista/
-shop: comodidad
+shop: Lebensmittel
 ---

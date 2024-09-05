@@ -1,5 +1,5 @@
 ---
 title: "Naiot"
 url: /ciudad-guayana-puerto-ordaz/naiot/
-shop: peluquería
+shop: Friseur
 ---

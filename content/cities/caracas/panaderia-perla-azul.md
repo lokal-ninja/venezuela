@@ -1,5 +1,5 @@
 ---
 title: "Panadería Perla Azul"
 url: /caracas/panaderia-perla-azul/
-shop: panadería
+shop: Bäckerei
 ---

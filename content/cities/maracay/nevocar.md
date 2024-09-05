@@ -1,5 +1,5 @@
 ---
 title: "Nevocar"
 url: /maracay/nevocar/
-shop: general
+shop: Allgemein
 ---

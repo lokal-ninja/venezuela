@@ -1,5 +1,5 @@
 ---
 title: "SVAT"
 url: /caracas/svat/
-shop: lámparas
+shop: Lampen
 ---

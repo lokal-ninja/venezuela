@@ -1,5 +1,5 @@
 ---
 title: "Mabelpa"
 url: /socopo/mabelpa/
-shop: supermercado
+shop: Supermarkt
 ---

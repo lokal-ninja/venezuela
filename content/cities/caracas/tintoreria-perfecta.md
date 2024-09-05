@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Perfecta"
 url: /caracas/tintoreria-perfecta/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refrioriente"
 url: /barcelona/refrioriente/
-shop: electrónica
+shop: Elektronik
 ---

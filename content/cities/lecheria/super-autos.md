@@ -1,5 +1,5 @@
 ---
 title: "Super autos"
 url: /lecheria/super-autos/
-shop: coche
+shop: Autohaus
 ---

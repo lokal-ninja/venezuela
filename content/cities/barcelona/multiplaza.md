@@ -1,5 +1,5 @@
 ---
 title: "multiplaza"
 url: /barcelona/multiplaza/
-shop: hardware
+shop: Eisenwaren
 ---

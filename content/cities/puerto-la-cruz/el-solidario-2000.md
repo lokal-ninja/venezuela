@@ -1,5 +1,5 @@
 ---
 title: "el solidario 2000"
 url: /puerto-la-cruz/el-solidario-2000/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

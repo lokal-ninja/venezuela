@@ -1,5 +1,5 @@
 ---
 title: "Central Madeirense"
 url: /porlamar/central-madeirense/
-shop: supermercado
+shop: Supermarkt
 ---

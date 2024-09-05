@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris"
 url: /barcelona/arcoiris/
-shop: comodidad
+shop: Lebensmittel
 ---

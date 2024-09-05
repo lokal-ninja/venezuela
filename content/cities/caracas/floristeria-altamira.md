@@ -1,5 +1,5 @@
 ---
 title: "Floristería Altamira"
 url: /caracas/floristeria-altamira/
-shop: floristería
+shop: Blumen
 ---

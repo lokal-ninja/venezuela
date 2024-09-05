@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ferrel"
 url: /caracas/ferreteria-ferrel/
-shop: hardware
+shop: Eisenwaren
 ---

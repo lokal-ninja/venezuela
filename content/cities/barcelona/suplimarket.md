@@ -1,5 +1,5 @@
 ---
 title: "suplimarket"
 url: /barcelona/suplimarket/
-shop: comodidad
+shop: Lebensmittel
 ---

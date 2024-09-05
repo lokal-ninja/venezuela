@@ -1,5 +1,5 @@
 ---
 title: "Don diego"
 url: /barcelona/don-diego/
-shop: comodidad
+shop: Lebensmittel
 ---

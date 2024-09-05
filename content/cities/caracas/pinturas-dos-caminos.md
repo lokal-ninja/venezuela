@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Dos Caminos"
 url: /caracas/pinturas-dos-caminos/
-shop: pintura
+shop: Farben
 ---

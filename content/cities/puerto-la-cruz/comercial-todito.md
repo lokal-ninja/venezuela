@@ -1,5 +1,5 @@
 ---
 title: "Comercial todito"
 url: /puerto-la-cruz/comercial-todito/
-shop: comodidad
+shop: Lebensmittel
 ---

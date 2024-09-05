@@ -1,5 +1,5 @@
 ---
 title: "Lilean"
 url: /barcelona/lilean/
-shop: peluquería
+shop: Friseur
 ---

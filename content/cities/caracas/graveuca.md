@@ -1,5 +1,5 @@
 ---
 title: "Graveuca"
 url: /caracas/graveuca/
-shop: hardware
+shop: Eisenwaren
 ---

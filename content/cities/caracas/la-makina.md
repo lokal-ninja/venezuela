@@ -1,5 +1,5 @@
 ---
 title: "La Makina"
 url: /caracas/la-makina/
-shop: coche
+shop: Autohaus
 ---

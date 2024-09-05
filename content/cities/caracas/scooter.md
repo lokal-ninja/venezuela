@@ -1,5 +1,5 @@
 ---
 title: "Scooter"
 url: /caracas/scooter/
-shop: motocicleta
+shop: Motorrad
 ---

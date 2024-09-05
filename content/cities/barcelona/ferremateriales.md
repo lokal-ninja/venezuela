@@ -1,5 +1,5 @@
 ---
 title: "ferremateriales"
 url: /barcelona/ferremateriales/
-shop: hardware
+shop: Eisenwaren
 ---

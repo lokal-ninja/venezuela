@@ -1,5 +1,5 @@
 ---
 title: "Greka"
 url: /ciudad-guayana-puerto-ordaz/greka/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "This family market"
 url: /barcelona/this-family-market/
-shop: comodidad
+shop: Lebensmittel
 ---

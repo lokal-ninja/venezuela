@@ -1,5 +1,5 @@
 ---
 title: "Colmatrex"
 url: /san-cristobal/colmatrex/
-shop: cama
+shop: Betten
 ---

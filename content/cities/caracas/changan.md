@@ -1,5 +1,5 @@
 ---
 title: "Changan"
 url: /caracas/changan/
-shop: coche
+shop: Autohaus
 ---

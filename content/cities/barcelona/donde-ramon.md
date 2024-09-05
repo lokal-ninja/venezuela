@@ -1,5 +1,5 @@
 ---
 title: "donde Ramón"
 url: /barcelona/donde-ramon/
-shop: frutería
+shop: Gemüse & Obst
 ---

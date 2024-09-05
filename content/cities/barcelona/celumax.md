@@ -1,5 +1,5 @@
 ---
 title: "Celumax"
 url: /barcelona/celumax/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CLX"
 url: /caracas/clx/
-shop: electrónica
+shop: Elektronik
 ---

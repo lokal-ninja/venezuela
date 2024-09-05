@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Piñango"
 url: /calabozo/funeraria-pinango/
-shop: directores de funerarias
+shop: Bestattungen
 ---

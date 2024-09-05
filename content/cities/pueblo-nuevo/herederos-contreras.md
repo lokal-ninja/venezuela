@@ -1,5 +1,5 @@
 ---
 title: "Herederos Contreras"
 url: /pueblo-nuevo/herederos-contreras/
-shop: comodidad
+shop: Lebensmittel
 ---

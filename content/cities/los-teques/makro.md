@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /los-teques/makro/
-shop: supermercado
+shop: Supermarkt
 ---

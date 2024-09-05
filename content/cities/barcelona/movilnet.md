@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
 url: /barcelona/movilnet/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Novo Punto"
 url: /caracas/novo-punto/
-shop: comodidad
+shop: Lebensmittel
 ---

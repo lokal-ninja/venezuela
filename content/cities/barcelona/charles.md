@@ -1,5 +1,5 @@
 ---
 title: "Charles"
 url: /barcelona/charles/
-shop: alcohol
+shop: Spirituosen
 ---

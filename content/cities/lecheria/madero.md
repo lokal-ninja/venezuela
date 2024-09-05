@@ -1,5 +1,5 @@
 ---
 title: "Madero"
 url: /lecheria/madero/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crash"
 url: /porlamar/crash/
-shop: muebles
+shop: Möbel
 ---

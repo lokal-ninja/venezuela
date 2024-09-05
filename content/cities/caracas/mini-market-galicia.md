@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Galicia"
 url: /caracas/mini-market-galicia/
-shop: comodidad
+shop: Lebensmittel
 ---

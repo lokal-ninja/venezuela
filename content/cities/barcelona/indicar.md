@@ -1,5 +1,5 @@
 ---
 title: "Indicar"
 url: /barcelona/indicar/
-shop: comodidad
+shop: Lebensmittel
 ---

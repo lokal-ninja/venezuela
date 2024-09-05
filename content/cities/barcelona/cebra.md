@@ -1,5 +1,5 @@
 ---
 title: "cebra"
 url: /barcelona/cebra/
-shop: hardware
+shop: Eisenwaren
 ---

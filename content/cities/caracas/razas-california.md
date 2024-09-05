@@ -1,5 +1,5 @@
 ---
 title: "Razas"
 url: /caracas/razas-california/
-shop: mascotas
+shop: Tiere
 ---

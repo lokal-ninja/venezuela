@@ -1,5 +1,5 @@
 ---
 title: "esperanza"
 url: /barcelona/esperanza/
-shop: comodidad
+shop: Lebensmittel
 ---

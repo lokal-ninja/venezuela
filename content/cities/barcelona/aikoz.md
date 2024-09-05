@@ -1,5 +1,5 @@
 ---
 title: "Aikoz"
 url: /barcelona/aikoz/
-shop: supermercado
+shop: Supermarkt
 ---

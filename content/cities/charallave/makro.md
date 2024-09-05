@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /charallave/makro/
-shop: supermercado
+shop: Supermarkt
 ---

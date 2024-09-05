@@ -1,5 +1,5 @@
 ---
 title: "la corte"
 url: /barcelona/la-corte/
-shop: perfumería
+shop: Parfümerie
 ---

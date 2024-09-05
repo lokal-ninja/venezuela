@@ -1,5 +1,5 @@
 ---
 title: "Pandoro"
 url: /caracas/pandoro/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Galerías Ávila"
 url: /caracas/centro-comercial-galerias-avila/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /ocumare/toyota/
-shop: coche
+shop: Autohaus
 ---

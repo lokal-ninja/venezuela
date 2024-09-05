@@ -1,5 +1,5 @@
 ---
 title: "Imprecolor"
 url: /maracaibo/imprecolor/
-shop: copyshop
+shop: Kopieren
 ---

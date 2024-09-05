@@ -1,5 +1,5 @@
 ---
 title: "Churromania"
 url: /el-tigre/churromania/
-shop: confitería
+shop: Süßwaren
 ---

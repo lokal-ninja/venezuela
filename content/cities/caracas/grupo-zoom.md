@@ -1,5 +1,5 @@
 ---
 title: "Grupo ZOOM"
 url: /caracas/grupo-zoom/
-shop: copyshop
+shop: Kopieren
 ---

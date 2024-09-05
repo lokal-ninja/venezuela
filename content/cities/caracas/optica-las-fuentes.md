@@ -1,5 +1,5 @@
 ---
 title: "Óptica Las Fuentes"
 url: /caracas/optica-las-fuentes/
-shop: óptico
+shop: Optiker
 ---

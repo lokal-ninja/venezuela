@@ -1,5 +1,5 @@
 ---
 title: "oficentro"
 url: /barcelona/oficentro/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

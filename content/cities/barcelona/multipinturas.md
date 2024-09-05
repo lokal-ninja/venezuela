@@ -1,5 +1,5 @@
 ---
 title: "multipinturas"
 url: /barcelona/multipinturas/
-shop: pintura
+shop: Farben
 ---

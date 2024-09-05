@@ -1,5 +1,5 @@
 ---
 title: "Cauchomanía"
 url: /caracas/cauchomania/
-shop: neumáticos
+shop: Reifen
 ---

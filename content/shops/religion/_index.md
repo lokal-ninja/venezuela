@@ -1,5 +1,5 @@
 ---
-title: religión
+title: Religion
 url: /religion/
 icon: other
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CompuRAM"
 url: /ciudad-guayana-puerto-ordaz/compuram/
-shop: ordenador
+shop: Computer
 ---

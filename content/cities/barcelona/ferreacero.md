@@ -1,5 +1,5 @@
 ---
 title: "Ferreacero"
 url: /barcelona/ferreacero/
-shop: hardware
+shop: Eisenwaren
 ---

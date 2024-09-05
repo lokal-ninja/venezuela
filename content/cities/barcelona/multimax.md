@@ -1,5 +1,5 @@
 ---
 title: "Multimax"
 url: /barcelona/multimax/
-shop: electrónica
+shop: Elektronik
 ---

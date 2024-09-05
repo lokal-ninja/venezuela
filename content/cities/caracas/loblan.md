@@ -1,5 +1,5 @@
 ---
 title: "Loblan"
 url: /caracas/loblan/
-shop: ropa
+shop: Kleidung
 ---

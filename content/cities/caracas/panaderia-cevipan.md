@@ -1,5 +1,5 @@
 ---
 title: "Panadería Cevipan"
 url: /caracas/panaderia-cevipan/
-shop: panadería
+shop: Bäckerei
 ---

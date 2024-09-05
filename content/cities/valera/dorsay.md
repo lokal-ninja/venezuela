@@ -1,5 +1,5 @@
 ---
 title: "Dorsay"
 url: /valera/dorsay/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covencaucho"
 url: /guatire/covencaucho/
-shop: neumáticos
+shop: Reifen
 ---

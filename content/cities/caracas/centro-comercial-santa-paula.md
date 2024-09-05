@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Santa Paula"
 url: /caracas/centro-comercial-santa-paula/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "romy"
 url: /barcelona/romy/
-shop: comodidad
+shop: Lebensmittel
 ---

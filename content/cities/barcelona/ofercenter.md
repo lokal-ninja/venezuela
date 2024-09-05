@@ -1,5 +1,5 @@
 ---
 title: "Ofercenter"
 url: /barcelona/ofercenter/
-shop: confitería
+shop: Süßwaren
 ---

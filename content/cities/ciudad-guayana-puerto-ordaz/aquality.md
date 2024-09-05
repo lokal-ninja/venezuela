@@ -1,5 +1,5 @@
 ---
 title: "Aquality"
 url: /ciudad-guayana-puerto-ordaz/aquality/
-shop: agua
+shop: Wasser
 ---

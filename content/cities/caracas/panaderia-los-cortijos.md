@@ -1,5 +1,5 @@
 ---
 title: "Panadería Los Cortijos"
 url: /caracas/panaderia-los-cortijos/
-shop: panadería
+shop: Bäckerei
 ---

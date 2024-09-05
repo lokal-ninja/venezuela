@@ -1,5 +1,5 @@
 ---
 title: "After Five, C.A."
 url: /ciudad-guayana-puerto-ordaz/after-five-c-a/
-shop: ordenador
+shop: Computer
 ---

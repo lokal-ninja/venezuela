@@ -1,5 +1,5 @@
 ---
 title: "Frenos y Auto Servicio CRH"
 url: /caracas/frenos-y-auto-servicio-crh/
-shop: piezas de automóviles
+shop: Autoteile
 ---

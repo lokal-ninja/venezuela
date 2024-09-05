@@ -1,5 +1,5 @@
 ---
 title: "Motimarket"
 url: /lecheria/motimarket/
-shop: comodidad
+shop: Lebensmittel
 ---

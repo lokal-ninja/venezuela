@@ -1,5 +1,5 @@
 ---
 title: "licorería obatala"
 url: /puerto-la-cruz/licoreria-obatala/
-shop: alcohol
+shop: Spirituosen
 ---

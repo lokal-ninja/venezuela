@@ -1,5 +1,5 @@
 ---
 title: "Bikezone"
 url: /caracas/bikezone/
-shop: bicicleta
+shop: Fahrrad
 ---

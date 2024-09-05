@@ -1,5 +1,5 @@
 ---
 title: "Bambino"
 url: /caracas/bambino/
-shop: ropa
+shop: Kleidung
 ---

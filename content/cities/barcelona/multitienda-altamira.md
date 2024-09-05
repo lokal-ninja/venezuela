@@ -1,5 +1,5 @@
 ---
 title: "Multitienda altamira"
 url: /barcelona/multitienda-altamira/
-shop: general
+shop: Allgemein
 ---

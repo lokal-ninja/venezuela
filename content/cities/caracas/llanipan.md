@@ -1,5 +1,5 @@
 ---
 title: "Llanipan"
 url: /caracas/llanipan/
-shop: panadería
+shop: Bäckerei
 ---

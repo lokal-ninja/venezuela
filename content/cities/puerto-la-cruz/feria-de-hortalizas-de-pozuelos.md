@@ -1,5 +1,5 @@
 ---
 title: "feria de hortalizas de pozuelos"
 url: /puerto-la-cruz/feria-de-hortalizas-de-pozuelos/
-shop: frutería
+shop: Gemüse & Obst
 ---

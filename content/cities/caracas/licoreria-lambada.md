@@ -1,5 +1,5 @@
 ---
 title: "Licorería Lambada"
 url: /caracas/licoreria-lambada/
-shop: alcohol
+shop: Spirituosen
 ---

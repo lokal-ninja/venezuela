@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Inversiones Laurymar"
 url: /caracas/ferreteria-inversiones-laurymar/
-shop: hardware
+shop: Eisenwaren
 ---

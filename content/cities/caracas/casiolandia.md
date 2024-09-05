@@ -1,5 +1,5 @@
 ---
 title: "Casiolandia"
 url: /caracas/casiolandia/
-shop: relojes
+shop: Uhren
 ---

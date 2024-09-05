@@ -1,5 +1,5 @@
 ---
 title: "LagoMar Fiestas"
 url: /maracaibo/lagomar-fiestas/
-shop: fiesta
+shop: Partyzubehör
 ---

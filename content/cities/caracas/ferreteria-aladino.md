@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Aladino"
 url: /caracas/ferreteria-aladino/
-shop: hardware
+shop: Eisenwaren
 ---

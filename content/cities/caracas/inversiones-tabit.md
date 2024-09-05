@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Tabit"
 url: /caracas/inversiones-tabit/
-shop: vidriería
+shop: Glaserei
 ---

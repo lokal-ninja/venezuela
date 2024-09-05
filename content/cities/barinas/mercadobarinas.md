@@ -1,5 +1,5 @@
 ---
 title: "MercadoBarinas"
 url: /barinas/mercadobarinas/
-shop: supermercado
+shop: Supermarkt
 ---

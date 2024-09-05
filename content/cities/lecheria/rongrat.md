@@ -1,5 +1,5 @@
 ---
 title: "Rongrat"
 url: /lecheria/rongrat/
-shop: comodidad
+shop: Lebensmittel
 ---

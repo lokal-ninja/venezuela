@@ -1,5 +1,5 @@
 ---
 title: "Shopping China"
 url: /ciudad-guayana-puerto-ordaz/shopping-china/
-shop: ropa
+shop: Kleidung
 ---

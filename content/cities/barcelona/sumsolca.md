@@ -1,5 +1,5 @@
 ---
 title: "sumsolca"
 url: /barcelona/sumsolca/
-shop: hardware
+shop: Eisenwaren
 ---

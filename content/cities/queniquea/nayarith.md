@@ -1,5 +1,5 @@
 ---
 title: "Nayarith"
 url: /queniquea/nayarith/
-shop: panadería
+shop: Bäckerei
 ---

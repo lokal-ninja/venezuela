@@ -1,5 +1,5 @@
 ---
 title: "Perfumería don Antonio"
 url: /barcelona/perfumeria-don-antonio/
-shop: perfumería
+shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería grill house"
 url: /puerto-la-cruz/panaderia-grill-house/
-shop: panadería
+shop: Bäckerei
 ---

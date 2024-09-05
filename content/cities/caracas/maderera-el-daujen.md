@@ -1,5 +1,5 @@
 ---
 title: "Maderera El Daujen"
 url: /caracas/maderera-el-daujen/
-shop: comercio
+shop: Baustoffe
 ---

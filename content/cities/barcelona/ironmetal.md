@@ -1,5 +1,5 @@
 ---
 title: "ironmetal"
 url: /barcelona/ironmetal/
-shop: hardware
+shop: Eisenwaren
 ---

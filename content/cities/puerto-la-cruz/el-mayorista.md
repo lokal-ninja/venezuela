@@ -1,5 +1,5 @@
 ---
 title: "El mayorista"
 url: /puerto-la-cruz/el-mayorista/
-shop: comodidad
+shop: Lebensmittel
 ---

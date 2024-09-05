@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Centro Plaza"
 url: /caracas/centro-comercial-centro-plaza/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

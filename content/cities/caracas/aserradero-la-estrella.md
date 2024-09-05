@@ -1,5 +1,5 @@
 ---
 title: "Aserradero La Estrella"
 url: /caracas/aserradero-la-estrella/
-shop: comercio
+shop: Baustoffe
 ---

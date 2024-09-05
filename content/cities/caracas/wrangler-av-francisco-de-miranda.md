@@ -1,5 +1,5 @@
 ---
 title: "Wrangler"
 url: /caracas/wrangler-av-francisco-de-miranda/
-shop: ropa
+shop: Kleidung
 ---

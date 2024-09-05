@@ -1,5 +1,5 @@
 ---
 title: "Bodega Rita"
 url: /caracas/bodega-rita/
-shop: comodidad
+shop: Lebensmittel
 ---

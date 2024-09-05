@@ -1,5 +1,5 @@
 ---
 title: "Ferrehogar"
 url: /barcelona/ferrehogar/
-shop: hardware
+shop: Eisenwaren
 ---

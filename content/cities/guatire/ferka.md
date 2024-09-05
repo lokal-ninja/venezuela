@@ -1,5 +1,5 @@
 ---
 title: "FERKA"
 url: /guatire/ferka/
-shop: hardware
+shop: Eisenwaren
 ---

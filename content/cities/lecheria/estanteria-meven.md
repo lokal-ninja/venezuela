@@ -1,5 +1,5 @@
 ---
 title: "Estantería meven"
 url: /lecheria/estanteria-meven/
-shop: muebles
+shop: Möbel
 ---

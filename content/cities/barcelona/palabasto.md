@@ -1,5 +1,5 @@
 ---
 title: "Palabasto"
 url: /barcelona/palabasto/
-shop: comodidad
+shop: Lebensmittel
 ---

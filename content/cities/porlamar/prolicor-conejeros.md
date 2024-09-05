@@ -1,5 +1,5 @@
 ---
 title: "PROLICOR Conejeros"
 url: /porlamar/prolicor-conejeros/
-shop: alcohol
+shop: Spirituosen
 ---

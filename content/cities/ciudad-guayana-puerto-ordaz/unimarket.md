@@ -1,5 +1,5 @@
 ---
 title: "Unimarket"
 url: /ciudad-guayana-puerto-ordaz/unimarket/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "los aurinegros"
 url: /barcelona/los-aurinegros/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Las Novedades"
 url: /caracas/libreria-las-novedades-bolivar/
-shop: libros
+shop: Bücher
 ---

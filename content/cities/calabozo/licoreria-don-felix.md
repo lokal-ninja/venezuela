@@ -1,5 +1,5 @@
 ---
 title: "Licorería Don Félix"
 url: /calabozo/licoreria-don-felix/
-shop: alcohol
+shop: Spirituosen
 ---

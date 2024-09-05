@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial El Dorado"
 url: /caracas/centro-comercial-el-dorado/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

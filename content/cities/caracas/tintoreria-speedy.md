@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Speedy"
 url: /caracas/tintoreria-speedy/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Donde Leo"
 url: /san-cristobal-sector-los-kioscos/donde-leo/
-shop: supermercado
+shop: Supermarkt
 ---

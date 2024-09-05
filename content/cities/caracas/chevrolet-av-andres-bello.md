@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /caracas/chevrolet-av-andres-bello/
-shop: coche
+shop: Autohaus
 ---

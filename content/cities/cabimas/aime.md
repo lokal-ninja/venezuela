@@ -1,5 +1,5 @@
 ---
 title: "Aime"
 url: /cabimas/aime/
-shop: supermercado
+shop: Supermarkt
 ---

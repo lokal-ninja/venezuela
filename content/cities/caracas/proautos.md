@@ -1,5 +1,5 @@
 ---
 title: "Proautos"
 url: /caracas/proautos/
-shop: coche
+shop: Autohaus
 ---

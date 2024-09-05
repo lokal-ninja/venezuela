@@ -1,5 +1,5 @@
 ---
 title: "Spectra"
 url: /caracas/spectra/
-shop: suministros de peluquería
+shop: Friseurbedarf
 ---

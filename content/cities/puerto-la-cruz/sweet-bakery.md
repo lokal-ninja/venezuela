@@ -1,5 +1,5 @@
 ---
 title: "Sweet bakery"
 url: /puerto-la-cruz/sweet-bakery/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El rincón guariqueño"
 url: /lecheria/el-rincon-guariqueno/
-shop: comodidad
+shop: Lebensmittel
 ---

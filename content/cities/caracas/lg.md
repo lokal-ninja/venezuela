@@ -1,5 +1,5 @@
 ---
 title: "LG"
 url: /caracas/lg/
-shop: electrónica
+shop: Elektronik
 ---

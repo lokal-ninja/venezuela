@@ -1,5 +1,5 @@
 ---
 title: "Ivis carnicería"
 url: /puerto-la-cruz/ivis-carniceria/
-shop: carnicero
+shop: Metzgerei
 ---

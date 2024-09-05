@@ -1,5 +1,5 @@
 ---
 title: "trios"
 url: /barcelona/trios/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "afitin"
 url: /puerto-la-cruz/afitin/
-shop: comodidad
+shop: Lebensmittel
 ---

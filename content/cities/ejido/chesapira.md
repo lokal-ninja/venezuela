@@ -1,5 +1,5 @@
 ---
 title: "ChesApira"
 url: /ejido/chesapira/
-shop: copyshop
+shop: Kopieren
 ---

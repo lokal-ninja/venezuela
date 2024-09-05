@@ -1,5 +1,5 @@
 ---
 title: "Ferreahorro"
 url: /barcelona/ferreahorro/
-shop: hardware
+shop: Eisenwaren
 ---

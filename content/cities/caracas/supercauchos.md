@@ -1,5 +1,5 @@
 ---
 title: "Supercauchos"
 url: /caracas/supercauchos/
-shop: neumáticos
+shop: Reifen
 ---

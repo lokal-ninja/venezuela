@@ -1,5 +1,5 @@
 ---
 title: "Dada Cucine"
 url: /caracas/dada-cucine/
-shop: cocina
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REPAEX"
 url: /calabozo/repaex/
-shop: eléctrico
+shop: Elektrisch
 ---

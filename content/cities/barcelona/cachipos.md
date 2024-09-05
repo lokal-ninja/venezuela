@@ -1,5 +1,5 @@
 ---
 title: "cachipos"
 url: /barcelona/cachipos/
-shop: comodidad
+shop: Lebensmittel
 ---

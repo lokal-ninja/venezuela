@@ -1,5 +1,5 @@
 ---
 title: "Estación de Servicios Tauro"
 url: /caracas/estacion-de-servicios-tauro/
-shop: comodidad
+shop: Lebensmittel
 ---

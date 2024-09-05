@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Danubio"
 url: /caracas/pasteleria-danubio-luis-de-canoens/
-shop: pastelería
+shop: Konditorei
 ---

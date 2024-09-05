@@ -1,5 +1,5 @@
 ---
 title: "jireh"
 url: /barcelona/jireh/
-shop: frutería
+shop: Gemüse & Obst
 ---

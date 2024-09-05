@@ -1,5 +1,5 @@
 ---
 title: "Shoes five color"
 url: /barcelona/shoes-five-color/
-shop: zapatos
+shop: Schuhe
 ---

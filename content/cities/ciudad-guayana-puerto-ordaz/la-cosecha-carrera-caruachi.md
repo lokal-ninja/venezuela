@@ -1,5 +1,5 @@
 ---
 title: "La Cosecha"
 url: /ciudad-guayana-puerto-ordaz/la-cosecha-carrera-caruachi/
-shop: frutería
+shop: Gemüse & Obst
 ---

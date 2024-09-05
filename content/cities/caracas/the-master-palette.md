@@ -1,5 +1,5 @@
 ---
 title: "The Master Palette"
 url: /caracas/the-master-palette/
-shop: pintura
+shop: Farben
 ---

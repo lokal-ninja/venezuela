@@ -1,5 +1,5 @@
 ---
 title: "advance"
 url: /barcelona/advance/
-shop: ordenador
+shop: Computer
 ---

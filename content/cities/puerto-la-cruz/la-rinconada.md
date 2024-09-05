@@ -1,5 +1,5 @@
 ---
 title: "La rinconada"
 url: /puerto-la-cruz/la-rinconada/
-shop: alcohol
+shop: Spirituosen
 ---

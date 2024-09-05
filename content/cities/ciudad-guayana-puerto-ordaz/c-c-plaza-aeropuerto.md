@@ -1,5 +1,5 @@
 ---
 title: "C.C. Plaza Aeropuerto"
 url: /ciudad-guayana-puerto-ordaz/c-c-plaza-aeropuerto/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

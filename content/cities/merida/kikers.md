@@ -1,5 +1,5 @@
 ---
 title: "Kikers"
 url: /merida/kikers/
-shop: zapatos
+shop: Schuhe
 ---

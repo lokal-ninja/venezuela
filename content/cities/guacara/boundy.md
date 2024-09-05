@@ -1,5 +1,5 @@
 ---
 title: "Boundy"
 url: /guacara/boundy/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rongrat III"
 url: /puerto-la-cruz/rongrat-iii/
-shop: carnicero
+shop: Metzgerei
 ---

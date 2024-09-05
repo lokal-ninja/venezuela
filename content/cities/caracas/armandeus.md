@@ -1,5 +1,5 @@
 ---
 title: "Armandeus"
 url: /caracas/armandeus/
-shop: cosméticos
+shop: Kosmetik
 ---

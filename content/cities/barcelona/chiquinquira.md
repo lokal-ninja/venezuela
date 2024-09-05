@@ -1,5 +1,5 @@
 ---
 title: "Chiquinquira"
 url: /barcelona/chiquinquira/
-shop: comodidad
+shop: Lebensmittel
 ---

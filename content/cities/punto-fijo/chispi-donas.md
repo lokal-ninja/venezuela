@@ -1,5 +1,5 @@
 ---
 title: "Chispi Donas"
 url: /punto-fijo/chispi-donas/
-shop: confitería
+shop: Süßwaren
 ---

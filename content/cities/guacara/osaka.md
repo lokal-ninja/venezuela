@@ -1,5 +1,5 @@
 ---
 title: "Osaka"
 url: /guacara/osaka/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

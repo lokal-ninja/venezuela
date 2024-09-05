@@ -1,5 +1,5 @@
 ---
 title: "Librerías Latina"
 url: /ciudad-guayana-puerto-ordaz/librerias-latina-calle-cuchivero/
-shop: libros
+shop: Bücher
 ---

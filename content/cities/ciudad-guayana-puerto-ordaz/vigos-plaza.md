@@ -1,5 +1,5 @@
 ---
 title: "Vigo's Plaza"
 url: /ciudad-guayana-puerto-ordaz/vigos-plaza/
-shop: supermercado
+shop: Supermarkt
 ---

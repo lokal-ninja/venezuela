@@ -1,5 +1,5 @@
 ---
 title: "Bodegón el bijao"
 url: /puerto-la-cruz/bodegon-el-bijao/
-shop: comodidad
+shop: Lebensmittel
 ---

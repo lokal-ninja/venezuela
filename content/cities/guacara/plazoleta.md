@@ -1,5 +1,5 @@
 ---
 title: "Plazoleta"
 url: /guacara/plazoleta/
-shop: general
+shop: Allgemein
 ---

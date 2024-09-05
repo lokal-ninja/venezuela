@@ -1,5 +1,5 @@
 ---
 title: "Country Motors"
 url: /los-teques/country-motors/
-shop: coche
+shop: Autohaus
 ---

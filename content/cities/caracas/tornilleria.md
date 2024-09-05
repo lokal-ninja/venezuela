@@ -1,5 +1,5 @@
 ---
 title: "Tornillería"
 url: /caracas/tornilleria/
-shop: hardware
+shop: Eisenwaren
 ---

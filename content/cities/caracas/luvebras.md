@@ -1,5 +1,5 @@
 ---
 title: "Luvebras"
 url: /caracas/luvebras/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Equipiscinas"
 url: /caracas/equipiscinas/
-shop: piscina
+shop: Pool
 ---

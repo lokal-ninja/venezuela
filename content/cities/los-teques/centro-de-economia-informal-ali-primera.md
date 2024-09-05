@@ -1,5 +1,5 @@
 ---
 title: "Centro de Economia Informal Ali Primera"
 url: /los-teques/centro-de-economia-informal-ali-primera/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

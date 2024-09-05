@@ -1,5 +1,5 @@
 ---
 title: "JVG"
 url: /caracas/jvg/
-shop: electrónica
+shop: Elektronik
 ---

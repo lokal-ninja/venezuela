@@ -1,5 +1,5 @@
 ---
 title: "comercial zou"
 url: /barcelona/comercial-zou/
-shop: comodidad
+shop: Lebensmittel
 ---

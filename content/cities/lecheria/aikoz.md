@@ -1,5 +1,5 @@
 ---
 title: "Aikoz"
 url: /lecheria/aikoz/
-shop: supermercado
+shop: Supermarkt
 ---

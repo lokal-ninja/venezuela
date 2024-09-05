@@ -1,5 +1,5 @@
 ---
 title: "lesbia"
 url: /barcelona/lesbia/
-shop: peluquería
+shop: Friseur
 ---

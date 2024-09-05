@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Doris"
 url: /caracas/pasteleria-doris/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market San Judas Tadeo"
 url: /calabozo/market-san-judas-tadeo/
-shop: supermercado
+shop: Supermarkt
 ---

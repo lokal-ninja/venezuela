@@ -1,5 +1,5 @@
 ---
 title: "ferrecolor"
 url: /barcelona/ferrecolor/
-shop: hardware
+shop: Eisenwaren
 ---

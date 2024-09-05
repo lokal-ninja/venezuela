@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Junior"
 url: /merida/supermercado-junior/
-shop: supermercado
+shop: Supermarkt
 ---

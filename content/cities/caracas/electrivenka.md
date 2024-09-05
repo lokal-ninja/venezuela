@@ -1,5 +1,5 @@
 ---
 title: "Electrivenka"
 url: /caracas/electrivenka/
-shop: eléctrico
+shop: Elektrisch
 ---

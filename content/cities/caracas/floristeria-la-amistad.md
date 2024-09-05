@@ -1,5 +1,5 @@
 ---
 title: "Floristería La Amistad"
 url: /caracas/floristeria-la-amistad/
-shop: floristería
+shop: Blumen
 ---

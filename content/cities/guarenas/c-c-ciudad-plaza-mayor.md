@@ -1,5 +1,5 @@
 ---
 title: "C.C. Ciudad Plaza Mayor"
 url: /guarenas/c-c-ciudad-plaza-mayor/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

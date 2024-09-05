@@ -1,5 +1,5 @@
 ---
 title: "Barbería"
 url: /ciudad-guayana-puerto-ordaz/barberia/
-shop: peluquería
+shop: Friseur
 ---

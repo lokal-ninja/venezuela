@@ -1,5 +1,5 @@
 ---
 title: "Carbón"
 url: /lecheria/carbon/
-shop: comodidad
+shop: Lebensmittel
 ---

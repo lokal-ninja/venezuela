@@ -1,5 +1,5 @@
 ---
 title: "C.C. Parque del Centro"
 url: /ciudad-guayana-puerto-ordaz/c-c-parque-del-centro/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

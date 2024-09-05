@@ -1,5 +1,5 @@
 ---
 title: "Óptica HD"
 url: /barcelona/optica-hd/
-shop: óptico
+shop: Optiker
 ---

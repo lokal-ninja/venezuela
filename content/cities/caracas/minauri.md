@@ -1,5 +1,5 @@
 ---
 title: "Minauri"
 url: /caracas/minauri/
-shop: sastre
+shop: Schneiderei
 ---

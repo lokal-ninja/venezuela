@@ -1,5 +1,5 @@
 ---
 title: "Pinto Correia"
 url: /las-tunitas/pinto-correia/
-shop: supermercado
+shop: Supermarkt
 ---

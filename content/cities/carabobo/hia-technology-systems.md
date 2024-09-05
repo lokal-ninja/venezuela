@@ -1,5 +1,5 @@
 ---
 title: "Hia Technology Systems"
 url: /carabobo/hia-technology-systems/
-shop: ordenador
+shop: Computer
 ---

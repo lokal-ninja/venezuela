@@ -1,5 +1,5 @@
 ---
 title: "C.C. Topacio"
 url: /ciudad-guayana-puerto-ordaz/c-c-topacio/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

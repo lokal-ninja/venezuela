@@ -1,5 +1,5 @@
 ---
 title: "Obralux"
 url: /caracas/obralux/
-shop: eléctrico
+shop: Elektrisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dijimeca"
 url: /barcelona/dijimeca/
-shop: comodidad
+shop: Lebensmittel
 ---

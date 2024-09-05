@@ -1,5 +1,5 @@
 ---
 title: "Óptica Caroní"
 url: /ciudad-guayana-puerto-ordaz/optica-caroni/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería J. Kelly"
 url: /caracas/panaderia-j-kelly/
-shop: panadería
+shop: Bäckerei
 ---

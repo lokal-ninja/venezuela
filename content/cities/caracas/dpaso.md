@@ -1,5 +1,5 @@
 ---
 title: "DPaso"
 url: /caracas/dpaso/
-shop: comodidad
+shop: Lebensmittel
 ---

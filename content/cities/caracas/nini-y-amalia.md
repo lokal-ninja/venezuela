@@ -1,5 +1,5 @@
 ---
 title: "Nini y Amalia"
 url: /caracas/nini-y-amalia/
-shop: comodidad
+shop: Lebensmittel
 ---

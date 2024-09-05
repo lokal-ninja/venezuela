@@ -1,5 +1,5 @@
 ---
 title: "Muebles Bima"
 url: /caracas/muebles-bima/
-shop: muebles
+shop: Möbel
 ---

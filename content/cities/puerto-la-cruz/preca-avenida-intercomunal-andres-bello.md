@@ -1,5 +1,5 @@
 ---
 title: "preca"
 url: /puerto-la-cruz/preca-avenida-intercomunal-andres-bello/
-shop: hardware
+shop: Eisenwaren
 ---

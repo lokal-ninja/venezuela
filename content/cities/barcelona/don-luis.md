@@ -1,5 +1,5 @@
 ---
 title: "don Luis"
 url: /barcelona/don-luis/
-shop: carnicero
+shop: Metzgerei
 ---

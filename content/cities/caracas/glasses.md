@@ -1,5 +1,5 @@
 ---
 title: "Glasses"
 url: /caracas/glasses/
-shop: óptico
+shop: Optiker
 ---

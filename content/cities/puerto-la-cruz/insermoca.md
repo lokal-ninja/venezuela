@@ -1,5 +1,5 @@
 ---
 title: "insermoca"
 url: /puerto-la-cruz/insermoca/
-shop: frutería
+shop: Gemüse & Obst
 ---

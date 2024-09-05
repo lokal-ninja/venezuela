@@ -1,5 +1,5 @@
 ---
 title: "Cambur shop center"
 url: /puerto-la-cruz/cambur-shop-center/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cristalvalle"
 url: /caracas/cristalvalle/
-shop: vidriería
+shop: Glaserei
 ---

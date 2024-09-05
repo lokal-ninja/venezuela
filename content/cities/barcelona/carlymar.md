@@ -1,5 +1,5 @@
 ---
 title: "carlymar"
 url: /barcelona/carlymar/
-shop: comodidad
+shop: Lebensmittel
 ---

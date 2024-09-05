@@ -1,5 +1,5 @@
 ---
 title: "Optileader"
 url: /caracas/optileader/
-shop: óptico
+shop: Optiker
 ---

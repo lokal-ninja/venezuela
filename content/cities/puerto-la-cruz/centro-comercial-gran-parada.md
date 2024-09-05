@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial gran parada"
 url: /puerto-la-cruz/centro-comercial-gran-parada/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

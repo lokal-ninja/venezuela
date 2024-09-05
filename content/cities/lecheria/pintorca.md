@@ -1,5 +1,5 @@
 ---
 title: "Pintorca"
 url: /lecheria/pintorca/
-shop: pintura
+shop: Farben
 ---

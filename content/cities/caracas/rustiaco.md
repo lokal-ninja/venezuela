@@ -1,5 +1,5 @@
 ---
 title: "Rustiaco"
 url: /caracas/rustiaco/
-shop: coche
+shop: Autohaus
 ---

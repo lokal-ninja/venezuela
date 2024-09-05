@@ -1,5 +1,5 @@
 ---
 title: "Cauchos del Sur"
 url: /caracas/cauchos-del-sur/
-shop: neumáticos
+shop: Reifen
 ---

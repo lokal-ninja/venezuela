@@ -1,5 +1,5 @@
 ---
 title: "TOFIRCA"
 url: /ciudad-guayana-puerto-ordaz/tofirca/
-shop: hardware
+shop: Eisenwaren
 ---

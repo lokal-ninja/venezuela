@@ -1,5 +1,5 @@
 ---
 title: "Tecnoluz"
 url: /puerto-la-cruz/tecnoluz/
-shop: eléctrico
+shop: Elektrisch
 ---

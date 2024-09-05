@@ -1,5 +1,5 @@
 ---
 title: "Javata"
 url: /caracas/javata/
-shop: joyería
+shop: Schmuck
 ---

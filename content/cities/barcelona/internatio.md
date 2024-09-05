@@ -1,5 +1,5 @@
 ---
 title: "Internatio"
 url: /barcelona/internatio/
-shop: coche
+shop: Autohaus
 ---

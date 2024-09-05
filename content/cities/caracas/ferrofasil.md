@@ -1,5 +1,5 @@
 ---
 title: "Ferrofasil"
 url: /caracas/ferrofasil/
-shop: comercio
+shop: Baustoffe
 ---

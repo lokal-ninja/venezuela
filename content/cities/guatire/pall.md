@@ -1,5 +1,5 @@
 ---
 title: "Pall"
 url: /guatire/pall/
-shop: hardware
+shop: Eisenwaren
 ---

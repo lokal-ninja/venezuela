@@ -1,5 +1,5 @@
 ---
 title: "MRW"
 url: /caracas/mrw/
-shop: general
+shop: Allgemein
 ---

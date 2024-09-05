@@ -1,5 +1,5 @@
 ---
 title: "Licorería Leidy"
 url: /caracas/licoreria-leidy/
-shop: alcohol
+shop: Spirituosen
 ---
