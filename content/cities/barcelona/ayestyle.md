@@ -1,5 +1,5 @@
 ---
 title: "Ayestyle"
 url: /barcelona/ayestyle/
-shop: Friseur
+shop: peluquería
 ---

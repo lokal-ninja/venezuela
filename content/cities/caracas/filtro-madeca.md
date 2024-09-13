@@ -1,5 +1,5 @@
 ---
 title: "Filtro Madeca"
 url: /caracas/filtro-madeca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

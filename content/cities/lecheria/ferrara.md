@@ -1,5 +1,5 @@
 ---
 title: "Ferrara"
 url: /lecheria/ferrara/
-shop: Eisenwaren
+shop: hardware
 ---

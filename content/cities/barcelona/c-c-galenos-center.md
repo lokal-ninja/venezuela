@@ -1,5 +1,5 @@
 ---
 title: "C.C. Galenos Center"
 url: /barcelona/c-c-galenos-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

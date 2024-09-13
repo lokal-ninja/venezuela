@@ -1,5 +1,5 @@
 ---
 title: "ToyoMercedes"
 url: /caracas/toyomercedes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

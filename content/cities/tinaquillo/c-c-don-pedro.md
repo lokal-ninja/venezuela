@@ -1,5 +1,5 @@
 ---
 title: "C.C. Don Pedro"
 url: /tinaquillo/c-c-don-pedro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frenos Barrera"
 url: /caracas/frenos-barrera/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

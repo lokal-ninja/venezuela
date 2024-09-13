@@ -1,5 +1,5 @@
 ---
 title: "Mario studio belleza"
 url: /barcelona/mario-studio-belleza/
-shop: Friseur
+shop: peluquería
 ---

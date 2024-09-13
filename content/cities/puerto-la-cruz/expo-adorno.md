@@ -1,5 +1,5 @@
 ---
 title: "Expo adorno"
 url: /puerto-la-cruz/expo-adorno/
-shop: Kramladen
+shop: tienda de variedades
 ---

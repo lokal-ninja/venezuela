@@ -1,5 +1,5 @@
 ---
 title: "C.C. Costa Granada"
 url: /ciudad-guayana-puerto-ordaz/c-c-costa-granada/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

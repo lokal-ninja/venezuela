@@ -1,5 +1,5 @@
 ---
 title: "Macrica"
 url: /lecheria/macrica/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /barcelona/movistar-avenida-miranda/
-shop: Handy
+shop: teléfono móvil
 ---

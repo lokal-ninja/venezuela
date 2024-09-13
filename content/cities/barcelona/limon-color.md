@@ -1,5 +1,5 @@
 ---
 title: "Limón color"
 url: /barcelona/limon-color/
-shop: Kleidung
+shop: ropa
 ---

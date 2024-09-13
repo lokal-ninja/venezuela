@@ -1,5 +1,5 @@
 ---
 title: "Elreca"
 url: /barcelona/elreca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

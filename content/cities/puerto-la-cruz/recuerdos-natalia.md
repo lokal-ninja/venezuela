@@ -1,5 +1,5 @@
 ---
 title: "Recuerdos Natalia"
 url: /puerto-la-cruz/recuerdos-natalia/
-shop: Kramladen
+shop: tienda de variedades
 ---

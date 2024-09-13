@@ -1,5 +1,5 @@
 ---
 title: "Cellmanía"
 url: /barcelona/cellmania/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /guatire/pintacasa/
-shop: Farben
+shop: pintura
 ---

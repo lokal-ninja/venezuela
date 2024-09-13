@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Parque Cristal"
 url: /caracas/centro-comercial-parque-cristal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

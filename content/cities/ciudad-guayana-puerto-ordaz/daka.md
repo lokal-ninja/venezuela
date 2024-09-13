@@ -1,5 +1,5 @@
 ---
 title: "Daka"
 url: /ciudad-guayana-puerto-ordaz/daka/
-shop: Haushaltsgeräte
+shop: aparato
 ---

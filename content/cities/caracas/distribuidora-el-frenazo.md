@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora El Frenazo"
 url: /caracas/distribuidora-el-frenazo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

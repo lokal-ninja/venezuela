@@ -1,5 +1,5 @@
 ---
 title: "Taller Caribe"
 url: /barcelona/taller-caribe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

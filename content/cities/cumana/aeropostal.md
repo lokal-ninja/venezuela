@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /cumana/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

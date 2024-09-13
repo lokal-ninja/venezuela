@@ -1,5 +1,5 @@
 ---
 title: "rectiserca"
 url: /barcelona/rectiserca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

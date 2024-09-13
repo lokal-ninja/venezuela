@@ -1,5 +1,5 @@
 ---
 title: "Panadería Coimbra"
 url: /caracas/panaderia-coimbra/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marmoleria Granitec C.A"
 url: /charallave/marmoleria-granitec-c-a/
-shop: Eisenwaren
+shop: hardware
 ---

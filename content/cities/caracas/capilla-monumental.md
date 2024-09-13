@@ -1,5 +1,5 @@
 ---
 title: "Capilla Monumental"
 url: /caracas/capilla-monumental/
-shop: Bestattungen
+shop: directores de funerarias
 ---

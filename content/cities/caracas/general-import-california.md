@@ -1,5 +1,5 @@
 ---
 title: "General Import"
 url: /caracas/general-import-california/
-shop: Spielzeug
+shop: juguetes
 ---

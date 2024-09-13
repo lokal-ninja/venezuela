@@ -1,5 +1,5 @@
 ---
 title: "Librería Txiki"
 url: /el-tigre/libreria-txiki/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "coloriente"
 url: /barcelona/coloriente/
-shop: Farben
+shop: pintura
 ---

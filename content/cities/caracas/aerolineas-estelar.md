@@ -1,5 +1,5 @@
 ---
 title: "Aerolineas Estelar"
 url: /caracas/aerolineas-estelar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

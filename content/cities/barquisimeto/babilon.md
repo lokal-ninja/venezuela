@@ -1,5 +1,5 @@
 ---
 title: "BABILON"
 url: /barquisimeto/babilon/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

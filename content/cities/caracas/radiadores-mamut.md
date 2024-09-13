@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Mamut"
 url: /caracas/radiadores-mamut/
-shop: Autoteile
+shop: piezas de automóviles
 ---

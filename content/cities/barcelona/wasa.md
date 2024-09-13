@@ -1,5 +1,5 @@
 ---
 title: "wasa"
 url: /barcelona/wasa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

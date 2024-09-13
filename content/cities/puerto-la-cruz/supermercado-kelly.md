@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Kelly"
 url: /puerto-la-cruz/supermercado-kelly/
-shop: Lebensmittel
+shop: comodidad
 ---

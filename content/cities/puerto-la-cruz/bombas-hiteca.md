@@ -1,5 +1,5 @@
 ---
 title: "bombas hiteca"
 url: /puerto-la-cruz/bombas-hiteca/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

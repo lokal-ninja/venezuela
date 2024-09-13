@@ -1,5 +1,5 @@
 ---
 title: "Quick Press"
 url: /caracas/quick-press-los-mangos/
-shop: Wäscherei
+shop: lavandería
 ---

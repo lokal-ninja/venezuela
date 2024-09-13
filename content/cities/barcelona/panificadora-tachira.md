@@ -1,5 +1,5 @@
 ---
 title: "Panificadora Táchira"
 url: /barcelona/panificadora-tachira/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Cliogol"
 url: /caracas/repuestos-cliogol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

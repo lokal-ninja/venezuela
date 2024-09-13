@@ -1,5 +1,5 @@
 ---
 title: "Vidrios automotriz"
 url: /barcelona/vidrios-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

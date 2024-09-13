@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /caracas/abc/
-shop: Reisebüro
+shop: agencia de viajes
 ---

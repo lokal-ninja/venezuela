@@ -1,5 +1,5 @@
 ---
 title: "toyonippon"
 url: /puerto-la-cruz/toyonippon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

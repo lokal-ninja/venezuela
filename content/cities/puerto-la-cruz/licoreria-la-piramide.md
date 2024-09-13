@@ -1,5 +1,5 @@
 ---
 title: "Licoreria la pirámide"
 url: /puerto-la-cruz/licoreria-la-piramide/
-shop: Spirituosen
+shop: alcohol
 ---

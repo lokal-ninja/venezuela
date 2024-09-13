@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Odalyn"
 url: /caracas/autopartes-odalyn/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wingo Airlines"
 url: /caracas/wingo-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

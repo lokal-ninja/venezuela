@@ -1,5 +1,5 @@
 ---
 title: "Betcris"
 url: /caracas/betcris/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

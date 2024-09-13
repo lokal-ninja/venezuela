@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial plaza Miranda"
 url: /barcelona/centro-comercial-plaza-miranda/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

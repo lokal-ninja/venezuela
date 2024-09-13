@@ -1,5 +1,5 @@
 ---
 title: "autoservicios evolución"
 url: /puerto-la-cruz/autoservicios-evolucion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

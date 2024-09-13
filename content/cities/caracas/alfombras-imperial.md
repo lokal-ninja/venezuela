@@ -1,5 +1,5 @@
 ---
 title: "Alfombras Imperial"
 url: /caracas/alfombras-imperial/
-shop: Teppiche
+shop: alfombra
 ---

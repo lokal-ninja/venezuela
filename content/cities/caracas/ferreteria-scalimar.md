@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Scalimar"
 url: /caracas/ferreteria-scalimar/
-shop: Eisenwaren
+shop: hardware
 ---

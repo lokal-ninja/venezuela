@@ -1,5 +1,5 @@
 ---
 title: "Sambil Margarita"
 url: /pampatar/sambil-margarita/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

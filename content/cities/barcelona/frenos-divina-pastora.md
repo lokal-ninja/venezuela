@@ -1,5 +1,5 @@
 ---
 title: "Frenos divina pastora"
 url: /barcelona/frenos-divina-pastora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

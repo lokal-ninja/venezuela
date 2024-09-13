@@ -1,5 +1,5 @@
 ---
 title: "Tulipan"
 url: /barcelona/tulipan/
-shop: Bäckerei
+shop: panadería
 ---

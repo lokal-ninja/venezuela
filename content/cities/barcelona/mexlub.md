@@ -1,5 +1,5 @@
 ---
 title: "mexlub"
 url: /barcelona/mexlub/
-shop: Autoteile
+shop: piezas de automóviles
 ---

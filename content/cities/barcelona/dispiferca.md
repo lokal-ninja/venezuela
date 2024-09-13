@@ -1,5 +1,5 @@
 ---
 title: "dispiferca"
 url: /barcelona/dispiferca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

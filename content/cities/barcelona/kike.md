@@ -1,5 +1,5 @@
 ---
 title: "Kike"
 url: /barcelona/kike/
-shop: Spirituosen
+shop: alcohol
 ---

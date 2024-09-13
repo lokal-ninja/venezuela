@@ -1,5 +1,5 @@
 ---
 title: "Electrorojas"
 url: /puerto-la-cruz/electrorojas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

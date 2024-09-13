@@ -1,5 +1,5 @@
 ---
 title: "Enbolsa"
 url: /el-tigre/enbolsa/
-shop: Schreibwaren
+shop: material de oficina
 ---

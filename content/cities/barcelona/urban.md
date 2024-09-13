@@ -1,5 +1,5 @@
 ---
 title: "urban"
 url: /barcelona/urban/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Licoreria Hnos W"
 url: /piar/licoreria-hnos-w/
-shop: Spirituosen
+shop: alcohol
 ---

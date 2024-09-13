@@ -1,5 +1,5 @@
 ---
 title: "Quick Press"
 url: /caracas/quick-press-av-la-guairita/
-shop: Wäscherei
+shop: lavandería
 ---

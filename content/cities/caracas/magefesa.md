@@ -1,5 +1,5 @@
 ---
 title: "Magefesa"
 url: /caracas/magefesa/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

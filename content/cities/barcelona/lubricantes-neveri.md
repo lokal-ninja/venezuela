@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Neverí"
 url: /barcelona/lubricantes-neveri/
-shop: Autoteile
+shop: piezas de automóviles
 ---

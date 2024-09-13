@@ -1,5 +1,5 @@
 ---
 title: "Andracars"
 url: /caracas/andracars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

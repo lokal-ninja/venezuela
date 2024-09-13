@@ -1,5 +1,5 @@
 ---
 title: "Aiko Repuestos"
 url: /caracas/aiko-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

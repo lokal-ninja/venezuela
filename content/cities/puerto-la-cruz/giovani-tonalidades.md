@@ -1,5 +1,5 @@
 ---
 title: "giovani tonalidades"
 url: /puerto-la-cruz/giovani-tonalidades/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keops"
 url: /caracas/keops/
-shop: Baustoffe
+shop: comercio
 ---

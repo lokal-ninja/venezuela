@@ -1,5 +1,5 @@
 ---
 title: "Pintofertas"
 url: /caracas/pintofertas/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bodegón la fortaleza"
 url: /puerto-la-cruz/bodegon-la-fortaleza/
-shop: Lebensmittel
+shop: comodidad
 ---

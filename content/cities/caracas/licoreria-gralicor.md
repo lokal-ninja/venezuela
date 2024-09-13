@@ -1,5 +1,5 @@
 ---
 title: "Licorería Gralicor"
 url: /caracas/licoreria-gralicor/
-shop: Spirituosen
+shop: alcohol
 ---

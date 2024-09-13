@@ -1,5 +1,5 @@
 ---
 title: "Ungri"
 url: /caracas/ungri/
-shop: Wäscherei
+shop: lavandería
 ---

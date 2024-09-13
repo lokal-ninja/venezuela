@@ -1,5 +1,5 @@
 ---
 title: "Comercial mayor"
 url: /puerto-la-cruz/comercial-mayor/
-shop: Lebensmittel
+shop: comodidad
 ---

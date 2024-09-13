@@ -1,5 +1,5 @@
 ---
 title: "Comercial SF"
 url: /puerto-la-cruz/comercial-sf/
-shop: Kramladen
+shop: tienda de variedades
 ---

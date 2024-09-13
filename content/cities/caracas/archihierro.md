@@ -1,5 +1,5 @@
 ---
 title: "Archihierro"
 url: /caracas/archihierro/
-shop: Baustoffe
+shop: comercio
 ---

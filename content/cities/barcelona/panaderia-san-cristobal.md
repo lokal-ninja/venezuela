@@ -1,5 +1,5 @@
 ---
 title: "Panadería san Cristobal"
 url: /barcelona/panaderia-san-cristobal/
-shop: Bäckerei
+shop: panadería
 ---

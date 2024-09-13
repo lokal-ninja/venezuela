@@ -1,5 +1,5 @@
 ---
 title: "Canta claro"
 url: /barcelona/canta-claro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

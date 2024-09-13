@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /caracas/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

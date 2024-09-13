@@ -1,5 +1,5 @@
 ---
 title: "El Gran Escape"
 url: /ciudad-guayana-puerto-ordaz/el-gran-escape/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyoalfa"
 url: /caracas/toyoalfa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

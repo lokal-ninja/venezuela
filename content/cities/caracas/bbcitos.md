@@ -1,5 +1,5 @@
 ---
 title: "BBcitos"
 url: /caracas/bbcitos/
-shop: Babysachen
+shop: artículos para bebés
 ---

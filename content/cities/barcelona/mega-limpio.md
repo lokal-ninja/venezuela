@@ -1,5 +1,5 @@
 ---
 title: "Mega limpio"
 url: /barcelona/mega-limpio/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minitiendas"
 url: /caracas/minitiendas/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estación de Servicios Sexta Avenida"
 url: /caracas/estacion-de-servicios-sexta-avenida/
-shop: Autoteile
+shop: piezas de automóviles
 ---

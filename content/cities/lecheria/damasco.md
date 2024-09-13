@@ -1,5 +1,5 @@
 ---
 title: "Damasco"
 url: /lecheria/damasco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

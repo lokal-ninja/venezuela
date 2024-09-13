@@ -1,5 +1,5 @@
 ---
 title: "repuestos Canache"
 url: /barcelona/repuestos-canache/
-shop: Autoteile
+shop: piezas de automóviles
 ---

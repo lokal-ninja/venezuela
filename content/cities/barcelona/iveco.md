@@ -1,5 +1,5 @@
 ---
 title: "Iveco"
 url: /barcelona/iveco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

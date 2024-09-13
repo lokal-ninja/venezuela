@@ -1,5 +1,5 @@
 ---
 title: "St. Honore"
 url: /catia-la-mar/st-honore/
-shop: Konditorei
+shop: pastelería
 ---

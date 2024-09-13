@@ -1,5 +1,5 @@
 ---
 title: "Loja market"
 url: /lecheria/loja-market/
-shop: Lebensmittel
+shop: comodidad
 ---

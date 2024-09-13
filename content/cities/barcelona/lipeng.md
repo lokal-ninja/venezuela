@@ -1,5 +1,5 @@
 ---
 title: "Lipeng"
 url: /barcelona/lipeng/
-shop: Lebensmittel
+shop: comodidad
 ---

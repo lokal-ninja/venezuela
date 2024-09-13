@@ -1,5 +1,5 @@
 ---
 title: "monarca"
 url: /barcelona/monarca/
-shop: Lebensmittel
+shop: comodidad
 ---

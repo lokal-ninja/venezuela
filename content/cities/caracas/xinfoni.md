@@ -1,5 +1,5 @@
 ---
 title: "Xinfoni"
 url: /caracas/xinfoni/
-shop: Kleidung
+shop: ropa
 ---

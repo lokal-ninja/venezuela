@@ -1,5 +1,5 @@
 ---
 title: "Centro Repuesto"
 url: /caracas/centro-repuesto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

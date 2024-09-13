@@ -1,5 +1,5 @@
 ---
 title: "bonprix"
 url: /barcelona/bonprix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

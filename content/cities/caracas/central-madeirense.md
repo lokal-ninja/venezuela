@@ -1,5 +1,5 @@
 ---
 title: "Central Madeirense"
 url: /caracas/central-madeirense/
-shop: Supermarkt
+shop: supermercado
 ---

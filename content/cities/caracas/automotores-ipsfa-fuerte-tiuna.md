@@ -1,5 +1,5 @@
 ---
 title: "Automotores Ipsfa Fuerte Tiuna"
 url: /caracas/automotores-ipsfa-fuerte-tiuna/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

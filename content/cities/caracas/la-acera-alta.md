@@ -1,5 +1,5 @@
 ---
 title: "La Acera Alta"
 url: /caracas/la-acera-alta/
-shop: Lebensmittel
+shop: comodidad
 ---

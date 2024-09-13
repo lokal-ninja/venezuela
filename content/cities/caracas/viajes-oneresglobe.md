@@ -1,5 +1,5 @@
 ---
 title: "Viajes Oneresglobe"
 url: /caracas/viajes-oneresglobe/
-shop: Reisebüro
+shop: agencia de viajes
 ---

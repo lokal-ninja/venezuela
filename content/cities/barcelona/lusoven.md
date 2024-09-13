@@ -1,5 +1,5 @@
 ---
 title: "lusoven"
 url: /barcelona/lusoven/
-shop: Autoteile
+shop: piezas de automóviles
 ---

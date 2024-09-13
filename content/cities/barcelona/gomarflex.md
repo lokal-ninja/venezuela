@@ -1,5 +1,5 @@
 ---
 title: "gomarflex"
 url: /barcelona/gomarflex/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial City Center"
 url: /barcelona/comercial-city-center/
-shop: Allgemein
+shop: general
 ---

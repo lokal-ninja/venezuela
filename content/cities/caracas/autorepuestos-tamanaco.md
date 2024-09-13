@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Tamanaco"
 url: /caracas/autorepuestos-tamanaco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

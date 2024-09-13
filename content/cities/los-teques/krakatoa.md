@@ -1,5 +1,5 @@
 ---
 title: "Krakatoa"
 url: /los-teques/krakatoa/
-shop: Metzgerei
+shop: carnicero
 ---

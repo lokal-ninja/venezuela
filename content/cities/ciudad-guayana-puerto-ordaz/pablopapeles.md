@@ -1,5 +1,5 @@
 ---
 title: "Pablopapeles"
 url: /ciudad-guayana-puerto-ordaz/pablopapeles/
-shop: Bücher
+shop: libros
 ---

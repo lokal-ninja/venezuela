@@ -1,5 +1,5 @@
 ---
 title: "Ferretería La Tinaja"
 url: /caracas/ferreteria-la-tinaja/
-shop: Eisenwaren
+shop: hardware
 ---

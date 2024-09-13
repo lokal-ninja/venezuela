@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Orinokia Pzo"
 url: /ciudad-guayana-puerto-ordaz/distribuidora-orinokia-pzo/
-shop: Großhandel
+shop: mayorista
 ---

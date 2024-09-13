@@ -1,5 +1,5 @@
 ---
 title: "Generator electric"
 url: /lecheria/generator-electric/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacobo Motors"
 url: /guatire/jacobo-motors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unifot"
 url: /caracas/unifot/
-shop: Foto
+shop: foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial Marina"
 url: /lecheria/centro-comercial-marina/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brotcars"
 url: /barcelona/brotcars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

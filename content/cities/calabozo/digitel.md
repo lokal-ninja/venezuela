@@ -1,5 +1,5 @@
 ---
 title: "Digitel"
 url: /calabozo/digitel/
-shop: Handy
+shop: teléfono móvil
 ---

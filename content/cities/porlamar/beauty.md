@@ -1,5 +1,5 @@
 ---
 title: "BEAUTY"
 url: /porlamar/beauty/
-shop: Kosmetik
+shop: cosméticos
 ---

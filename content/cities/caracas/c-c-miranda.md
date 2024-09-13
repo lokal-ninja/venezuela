@@ -1,5 +1,5 @@
 ---
 title: "C.C. Miranda"
 url: /caracas/c-c-miranda/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

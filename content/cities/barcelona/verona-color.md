@@ -1,5 +1,5 @@
 ---
 title: "Verona color"
 url: /barcelona/verona-color/
-shop: Farben
+shop: pintura
 ---

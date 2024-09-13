@@ -1,5 +1,5 @@
 ---
 title: "Italoficina"
 url: /caracas/italoficina/
-shop: Schreibwaren
+shop: material de oficina
 ---

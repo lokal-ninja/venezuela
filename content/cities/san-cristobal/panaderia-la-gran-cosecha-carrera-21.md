@@ -1,5 +1,5 @@
 ---
 title: "Panadería La Gran Cosecha"
 url: /san-cristobal/panaderia-la-gran-cosecha-carrera-21/
-shop: Bäckerei
+shop: panadería
 ---

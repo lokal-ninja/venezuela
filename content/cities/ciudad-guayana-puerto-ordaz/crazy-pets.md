@@ -1,5 +1,5 @@
 ---
 title: "Crazy Pets"
 url: /ciudad-guayana-puerto-ordaz/crazy-pets/
-shop: Tiere
+shop: mascotas
 ---

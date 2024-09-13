@@ -1,5 +1,5 @@
 ---
 title: "Aerolineas Estelar"
 url: /san-cristobal/aerolineas-estelar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

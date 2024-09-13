@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Forma"
 url: /caracas/repuestos-forma/
-shop: Autoteile
+shop: piezas de automóviles
 ---

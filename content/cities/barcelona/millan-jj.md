@@ -1,5 +1,5 @@
 ---
 title: "Millan JJ"
 url: /barcelona/millan-jj/
-shop: Autoteile
+shop: piezas de automóviles
 ---

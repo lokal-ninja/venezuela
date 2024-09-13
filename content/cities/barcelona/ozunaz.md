@@ -1,5 +1,5 @@
 ---
 title: "ozunaz"
 url: /barcelona/ozunaz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

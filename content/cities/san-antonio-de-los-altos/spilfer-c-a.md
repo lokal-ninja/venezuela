@@ -1,5 +1,5 @@
 ---
 title: "Spilfer, C.A."
 url: /san-antonio-de-los-altos/spilfer-c-a/
-shop: Autoteile
+shop: piezas de automóviles
 ---

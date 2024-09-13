@@ -1,5 +1,5 @@
 ---
 title: "Turaser"
 url: /pampatar/turaser/
-shop: Reisebüro
+shop: agencia de viajes
 ---

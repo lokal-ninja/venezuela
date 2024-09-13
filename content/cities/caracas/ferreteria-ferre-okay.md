@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ferre Okay"
 url: /caracas/ferreteria-ferre-okay/
-shop: Eisenwaren
+shop: hardware
 ---

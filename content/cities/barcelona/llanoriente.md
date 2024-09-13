@@ -1,5 +1,5 @@
 ---
 title: "Llanoriente"
 url: /barcelona/llanoriente/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

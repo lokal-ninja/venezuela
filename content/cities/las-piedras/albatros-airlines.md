@@ -1,5 +1,5 @@
 ---
 title: "Albatros Airlines"
 url: /las-piedras/albatros-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

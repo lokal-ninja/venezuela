@@ -1,5 +1,5 @@
 ---
 title: "Mundo Total"
 url: /caracas/mundo-total-bulevar-de-catia/
-shop: Warenhaus
+shop: grandes almacenes
 ---

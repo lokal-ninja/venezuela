@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /las-piedras/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

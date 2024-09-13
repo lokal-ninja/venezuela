@@ -1,5 +1,5 @@
 ---
 title: "El Vaquiano"
 url: /ciudad-guayana-puerto-ordaz/el-vaquiano/
-shop: Metzgerei
+shop: carnicero
 ---

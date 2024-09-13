@@ -1,5 +1,5 @@
 ---
 title: "Artiplan"
 url: /lecheria/artiplan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

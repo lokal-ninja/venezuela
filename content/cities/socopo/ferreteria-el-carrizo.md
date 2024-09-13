@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria El Carrizo"
 url: /socopo/ferreteria-el-carrizo/
-shop: Eisenwaren
+shop: hardware
 ---

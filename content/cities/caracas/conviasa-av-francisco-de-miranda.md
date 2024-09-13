@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /caracas/conviasa-av-francisco-de-miranda/
-shop: Reisebüro
+shop: agencia de viajes
 ---

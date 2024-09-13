@@ -1,5 +1,5 @@
 ---
 title: "Doña Teresa"
 url: /barcelona/dona-teresa/
-shop: Spirituosen
+shop: alcohol
 ---

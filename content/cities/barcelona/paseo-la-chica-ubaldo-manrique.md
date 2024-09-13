@@ -1,5 +1,5 @@
 ---
 title: "Paseo la chica Ubaldo Manrique"
 url: /barcelona/paseo-la-chica-ubaldo-manrique/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

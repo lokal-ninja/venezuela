@@ -1,5 +1,5 @@
 ---
 title: "Rivalnay"
 url: /caracas/rivalnay/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

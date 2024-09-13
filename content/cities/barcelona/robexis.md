@@ -1,5 +1,5 @@
 ---
 title: "Robexis"
 url: /barcelona/robexis/
-shop: Kleidung
+shop: ropa
 ---

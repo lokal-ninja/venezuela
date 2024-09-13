@@ -1,5 +1,5 @@
 ---
 title: "tecni frenos el frio"
 url: /puerto-la-cruz/tecni-frenos-el-frio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

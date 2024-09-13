@@ -1,5 +1,5 @@
 ---
 title: "Magestik"
 url: /punto-fijo/magestik/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Factory"
 url: /caracas/perfumes-factory-av-principal-del-cafetal/
-shop: Parfümerie
+shop: perfumería
 ---

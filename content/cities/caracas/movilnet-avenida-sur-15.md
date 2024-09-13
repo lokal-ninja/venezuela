@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
 url: /caracas/movilnet-avenida-sur-15/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multimax"
 url: /lecheria/multimax/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grenobil"
 url: /barcelona/grenobil/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luu Studio"
 url: /ciudad-guayana-puerto-ordaz/luu-studio/
-shop: Kosmetik
+shop: cosméticos
 ---

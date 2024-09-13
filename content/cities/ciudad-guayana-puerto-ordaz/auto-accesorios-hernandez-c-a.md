@@ -1,5 +1,5 @@
 ---
 title: "Auto Accesorios Hernández, C.A."
 url: /ciudad-guayana-puerto-ordaz/auto-accesorios-hernandez-c-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

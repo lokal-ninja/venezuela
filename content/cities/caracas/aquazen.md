@@ -1,5 +1,5 @@
 ---
 title: "Aquazen"
 url: /caracas/aquazen/
-shop: Tiere
+shop: mascotas
 ---

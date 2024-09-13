@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Twingo"
 url: /caracas/repuestos-twingo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

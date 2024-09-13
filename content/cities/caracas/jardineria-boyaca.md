@@ -1,5 +1,5 @@
 ---
 title: "Jardinería Boyacá"
 url: /caracas/jardineria-boyaca/
-shop: Garten-Center
+shop: centro de jardinería
 ---

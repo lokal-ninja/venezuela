@@ -1,5 +1,5 @@
 ---
 title: "Spinetto"
 url: /lecheria/spinetto/
-shop: Dorfladen
+shop: tienda rural
 ---

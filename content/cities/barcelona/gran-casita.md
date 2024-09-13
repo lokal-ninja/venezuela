@@ -1,5 +1,5 @@
 ---
 title: "Gran Casita"
 url: /barcelona/gran-casita/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Famoso"
 url: /lecheria/famoso/
-shop: Supermarkt
+shop: supermercado
 ---

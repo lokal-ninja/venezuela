@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /cumana/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

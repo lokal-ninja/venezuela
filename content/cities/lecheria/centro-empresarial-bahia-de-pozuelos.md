@@ -1,5 +1,5 @@
 ---
 title: "Centro Empresarial Bahía de Pozuelos"
 url: /lecheria/centro-empresarial-bahia-de-pozuelos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

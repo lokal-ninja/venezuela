@@ -1,5 +1,5 @@
 ---
 title: "Repuestos LF"
 url: /puerto-la-cruz/repuestos-lf/
-shop: Autoteile
+shop: piezas de automóviles
 ---

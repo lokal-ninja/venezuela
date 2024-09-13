@@ -1,5 +1,5 @@
 ---
 title: "bodegon doña rosa"
 url: /puerto-la-cruz/bodegon-dona-rosa/
-shop: Spirituosen
+shop: alcohol
 ---

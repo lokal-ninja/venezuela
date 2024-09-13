@@ -1,5 +1,5 @@
 ---
 title: "Chivera Autopartes Giovanni"
 url: /caracas/chivera-autopartes-giovanni/
-shop: Autoteile
+shop: piezas de automóviles
 ---

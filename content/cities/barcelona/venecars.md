@@ -1,5 +1,5 @@
 ---
 title: "venecars"
 url: /barcelona/venecars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

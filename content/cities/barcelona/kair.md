@@ -1,5 +1,5 @@
 ---
 title: "kair"
 url: /barcelona/kair/
-shop: Friseur
+shop: peluquería
 ---

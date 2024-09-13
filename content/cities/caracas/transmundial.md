@@ -1,5 +1,5 @@
 ---
 title: "Transmundial"
 url: /caracas/transmundial/
-shop: Reisebüro
+shop: agencia de viajes
 ---

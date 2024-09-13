@@ -1,5 +1,5 @@
 ---
 title: "Rori"
 url: /caracas/rori/
-shop: Kleidung
+shop: ropa
 ---

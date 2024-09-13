@@ -1,5 +1,5 @@
 ---
 title: "Oncordio"
 url: /puerto-la-cruz/oncordio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

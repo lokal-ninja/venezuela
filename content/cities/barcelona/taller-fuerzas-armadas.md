@@ -1,5 +1,5 @@
 ---
 title: "taller fuerzas armadas"
 url: /barcelona/taller-fuerzas-armadas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

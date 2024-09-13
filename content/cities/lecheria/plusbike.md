@@ -1,5 +1,5 @@
 ---
 title: "Plusbike"
 url: /lecheria/plusbike/
-shop: Fahrrad
+shop: bicicleta
 ---

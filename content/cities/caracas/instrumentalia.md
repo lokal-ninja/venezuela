@@ -1,5 +1,5 @@
 ---
 title: "Instrumentalia"
 url: /caracas/instrumentalia/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

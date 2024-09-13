@@ -1,5 +1,5 @@
 ---
 title: "Megavista"
 url: /catia-la-mar/megavista/
-shop: Optiker
+shop: óptico
 ---

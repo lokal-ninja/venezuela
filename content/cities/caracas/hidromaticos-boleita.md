@@ -1,5 +1,5 @@
 ---
 title: "Hidromáticos Boleita"
 url: /caracas/hidromaticos-boleita/
-shop: Autoteile
+shop: piezas de automóviles
 ---

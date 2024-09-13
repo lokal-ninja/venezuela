@@ -1,5 +1,5 @@
 ---
 title: "multimangueras el puerto"
 url: /puerto-la-cruz/multimangueras-el-puerto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

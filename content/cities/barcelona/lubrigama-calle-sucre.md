@@ -1,5 +1,5 @@
 ---
 title: "lubrigama"
 url: /barcelona/lubrigama-calle-sucre/
-shop: Autoteile
+shop: piezas de automóviles
 ---

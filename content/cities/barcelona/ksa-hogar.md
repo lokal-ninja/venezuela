@@ -1,5 +1,5 @@
 ---
 title: "ksa hogar"
 url: /barcelona/ksa-hogar/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EuroCiencias"
 url: /caracas/eurociencias/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

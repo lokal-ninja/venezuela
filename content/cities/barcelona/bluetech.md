@@ -1,5 +1,5 @@
 ---
 title: "bluetech"
 url: /barcelona/bluetech/
-shop: Autoteile
+shop: piezas de automóviles
 ---

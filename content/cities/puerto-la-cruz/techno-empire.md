@@ -1,5 +1,5 @@
 ---
 title: "Techno empire"
 url: /puerto-la-cruz/techno-empire/
-shop: Handy
+shop: teléfono móvil
 ---

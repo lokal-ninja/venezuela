@@ -1,5 +1,5 @@
 ---
 title: "Gabriel Chacon"
 url: /caracas/gabriel-chacon/
-shop: Kleidung
+shop: ropa
 ---

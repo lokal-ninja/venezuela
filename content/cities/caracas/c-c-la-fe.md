@@ -1,5 +1,5 @@
 ---
 title: "C.C. La Fe"
 url: /caracas/c-c-la-fe/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amazon Depot"
 url: /caracas/amazon-depot/
-shop: Kramladen
+shop: tienda de variedades
 ---

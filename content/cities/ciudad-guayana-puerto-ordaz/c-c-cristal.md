@@ -1,5 +1,5 @@
 ---
 title: "C.C. Cristal"
 url: /ciudad-guayana-puerto-ordaz/c-c-cristal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

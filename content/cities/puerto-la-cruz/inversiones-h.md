@@ -1,5 +1,5 @@
 ---
 title: "Inversiones H"
 url: /puerto-la-cruz/inversiones-h/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /ciudad-guayana/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

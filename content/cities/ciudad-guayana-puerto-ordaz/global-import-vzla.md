@@ -1,5 +1,5 @@
 ---
 title: "Global Import Vzla"
 url: /ciudad-guayana-puerto-ordaz/global-import-vzla/
-shop: Kramladen
+shop: tienda de variedades
 ---

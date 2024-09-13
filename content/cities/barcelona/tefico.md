@@ -1,5 +1,5 @@
 ---
 title: "tefico"
 url: /barcelona/tefico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

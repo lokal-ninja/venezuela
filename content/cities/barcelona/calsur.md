@@ -1,5 +1,5 @@
 ---
 title: "calsur"
 url: /barcelona/calsur/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "seacars"
 url: /barcelona/seacars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

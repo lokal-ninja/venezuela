@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Morrocoy Plaza"
 url: /tucacas/centro-comercial-morrocoy-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

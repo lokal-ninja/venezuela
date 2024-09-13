@@ -1,5 +1,5 @@
 ---
 title: "Sisos Gourmet"
 url: /carupano/sisos-gourmet/
-shop: Metzgerei
+shop: carnicero
 ---

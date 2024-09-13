@@ -1,5 +1,5 @@
 ---
 title: "Confimarket"
 url: /puerto-la-cruz/confimarket/
-shop: Spielzeug
+shop: juguetes
 ---

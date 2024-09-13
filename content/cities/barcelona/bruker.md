@@ -1,5 +1,5 @@
 ---
 title: "bruker"
 url: /barcelona/bruker/
-shop: Autoteile
+shop: piezas de automóviles
 ---

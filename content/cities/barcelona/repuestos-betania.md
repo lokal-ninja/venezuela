@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Betania"
 url: /barcelona/repuestos-betania/
-shop: Autoteile
+shop: piezas de automóviles
 ---

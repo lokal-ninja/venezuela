@@ -1,5 +1,5 @@
 ---
 title: "Loira Servicios Funerarios"
 url: /caracas/loira-servicios-funerarios/
-shop: Bestattungen
+shop: directores de funerarias
 ---

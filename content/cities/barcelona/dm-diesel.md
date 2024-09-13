@@ -1,5 +1,5 @@
 ---
 title: "DM Diesel"
 url: /barcelona/dm-diesel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

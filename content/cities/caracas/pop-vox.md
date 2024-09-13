@@ -1,5 +1,5 @@
 ---
 title: "Pop Vox"
 url: /caracas/pop-vox/
-shop: Hifi
+shop: hifi
 ---

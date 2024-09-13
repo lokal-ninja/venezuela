@@ -1,5 +1,5 @@
 ---
 title: "cauchos salazar"
 url: /barcelona/cauchos-salazar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

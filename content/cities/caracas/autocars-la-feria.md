@@ -1,5 +1,5 @@
 ---
 title: "Autocars La Feria"
 url: /caracas/autocars-la-feria/
-shop: Autohaus
+shop: coche
 ---

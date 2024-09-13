@@ -1,5 +1,5 @@
 ---
 title: "saimos"
 url: /barcelona/saimos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

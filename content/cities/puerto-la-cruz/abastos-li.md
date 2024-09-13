@@ -1,5 +1,5 @@
 ---
 title: "abastos li"
 url: /puerto-la-cruz/abastos-li/
-shop: Lebensmittel
+shop: comodidad
 ---

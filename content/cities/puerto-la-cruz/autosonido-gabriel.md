@@ -1,5 +1,5 @@
 ---
 title: "autosonido gabriel"
 url: /puerto-la-cruz/autosonido-gabriel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

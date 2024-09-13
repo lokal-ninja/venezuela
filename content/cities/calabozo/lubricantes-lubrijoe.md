@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes LubriJoe"
 url: /calabozo/lubricantes-lubrijoe/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cakawa"
 url: /carac/cakawa/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baterias LLC"
 url: /caracas/baterias-llc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

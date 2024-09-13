@@ -1,5 +1,5 @@
 ---
 title: "Ultraled"
 url: /puerto-la-cruz/ultraled/
-shop: Elektronik
+shop: electrónica
 ---

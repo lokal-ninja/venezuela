@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Duncan"
 url: /caracas/servicentro-duncan-av-principal-de-mariperez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

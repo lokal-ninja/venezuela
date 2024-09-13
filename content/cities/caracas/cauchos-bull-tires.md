@@ -1,5 +1,5 @@
 ---
 title: "Cauchos Bull Tires"
 url: /caracas/cauchos-bull-tires/
-shop: Reifen
+shop: neumáticos
 ---

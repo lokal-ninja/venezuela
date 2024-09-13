@@ -1,5 +1,5 @@
 ---
 title: "Flores Jade"
 url: /puerto-la-cruz/flores-jade/
-shop: Blumen
+shop: floristería
 ---

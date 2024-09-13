@@ -1,5 +1,5 @@
 ---
 title: "Venelectronic"
 url: /caracas/venelectronic/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricatia"
 url: /caracas/lubricatia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

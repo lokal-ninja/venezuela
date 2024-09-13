@@ -1,5 +1,5 @@
 ---
 title: "suplimansu"
 url: /puerto-la-cruz/suplimansu/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

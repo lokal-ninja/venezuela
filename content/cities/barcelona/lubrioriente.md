@@ -1,5 +1,5 @@
 ---
 title: "Lubrioriente"
 url: /barcelona/lubrioriente/
-shop: Autoteile
+shop: piezas de automóviles
 ---

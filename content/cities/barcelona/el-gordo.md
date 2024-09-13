@@ -1,5 +1,5 @@
 ---
 title: "el gordo"
 url: /barcelona/el-gordo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

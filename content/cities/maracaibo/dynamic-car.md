@@ -1,5 +1,5 @@
 ---
 title: "Dynamic Car"
 url: /maracaibo/dynamic-car/
-shop: Autoteile
+shop: piezas de automóviles
 ---

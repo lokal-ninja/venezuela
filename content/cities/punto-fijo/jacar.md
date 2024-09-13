@@ -1,5 +1,5 @@
 ---
 title: "Jacar"
 url: /punto-fijo/jacar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

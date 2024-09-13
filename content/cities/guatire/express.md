@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /guatire/express/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cerámicas caribe"
 url: /barcelona/ceramicas-caribe/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

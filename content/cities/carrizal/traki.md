@@ -1,5 +1,5 @@
 ---
 title: "Traki"
 url: /carrizal/traki/
-shop: Warenhaus
+shop: grandes almacenes
 ---

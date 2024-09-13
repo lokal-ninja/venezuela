@@ -1,5 +1,5 @@
 ---
 title: "Lar"
 url: /barcelona/lar/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mi Auto Market (Lubricantes)"
 url: /caracas/mi-auto-market-lubricantes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

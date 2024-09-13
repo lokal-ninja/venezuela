@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Iberia"
 url: /caracas/ferreteria-iberia/
-shop: Eisenwaren
+shop: hardware
 ---

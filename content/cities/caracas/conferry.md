@@ -1,5 +1,5 @@
 ---
 title: "Conferry"
 url: /caracas/conferry/
-shop: Reisebüro
+shop: agencia de viajes
 ---

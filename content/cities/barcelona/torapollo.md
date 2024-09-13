@@ -1,5 +1,5 @@
 ---
 title: "torapollo"
 url: /barcelona/torapollo/
-shop: Lebensmittel
+shop: comodidad
 ---

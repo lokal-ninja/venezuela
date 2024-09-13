@@ -1,5 +1,5 @@
 ---
 title: "La Rosa Blanca"
 url: /punto-fijo/la-rosa-blanca/
-shop: Kleidung
+shop: ropa
 ---

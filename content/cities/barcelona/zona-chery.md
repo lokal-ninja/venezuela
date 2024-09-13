@@ -1,5 +1,5 @@
 ---
 title: "zona chery"
 url: /barcelona/zona-chery/
-shop: Autoteile
+shop: piezas de automóviles
 ---

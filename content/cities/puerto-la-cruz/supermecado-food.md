@@ -1,5 +1,5 @@
 ---
 title: "supermecado food"
 url: /puerto-la-cruz/supermecado-food/
-shop: Supermarkt
+shop: supermercado
 ---

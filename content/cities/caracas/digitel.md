@@ -1,5 +1,5 @@
 ---
 title: "Digitel"
 url: /caracas/digitel/
-shop: Handy
+shop: teléfono móvil
 ---

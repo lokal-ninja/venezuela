@@ -1,5 +1,5 @@
 ---
 title: "decoautos"
 url: /puerto-la-cruz/decoautos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

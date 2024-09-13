@@ -1,5 +1,5 @@
 ---
 title: "Tecnicaja"
 url: /barcelona/tecnicaja/
-shop: Autoteile
+shop: piezas de automóviles
 ---

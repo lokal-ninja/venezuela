@@ -1,5 +1,5 @@
 ---
 title: "Cauchos Porrua, C.A."
 url: /ciudad-guayana-puerto-ordaz/cauchos-porrua-c-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

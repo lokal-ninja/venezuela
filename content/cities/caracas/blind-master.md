@@ -1,5 +1,5 @@
 ---
 title: "Blind Master"
 url: /caracas/blind-master/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

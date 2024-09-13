@@ -1,5 +1,5 @@
 ---
 title: "Prolicor"
 url: /punta-de-piedras/prolicor/
-shop: Spirituosen
+shop: alcohol
 ---

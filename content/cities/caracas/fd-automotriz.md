@@ -1,5 +1,5 @@
 ---
 title: "FD Automotriz"
 url: /caracas/fd-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

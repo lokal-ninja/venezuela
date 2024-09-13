@@ -1,5 +1,5 @@
 ---
 title: "Supertodo"
 url: /puerto-la-cruz/supertodo-calle-freites/
-shop: Dorfladen
+shop: tienda rural
 ---

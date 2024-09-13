@@ -1,5 +1,5 @@
 ---
 title: "msk"
 url: /barcelona/msk/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

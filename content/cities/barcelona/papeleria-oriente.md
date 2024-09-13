@@ -1,5 +1,5 @@
 ---
 title: "Papelería Oriente"
 url: /barcelona/papeleria-oriente/
-shop: Schreibwaren
+shop: material de oficina
 ---

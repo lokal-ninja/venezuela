@@ -1,5 +1,5 @@
 ---
 title: "Carmen Luisa"
 url: /barcelona/carmen-luisa/
-shop: Friseur
+shop: peluquería
 ---

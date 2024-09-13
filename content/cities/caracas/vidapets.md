@@ -1,5 +1,5 @@
 ---
 title: "VidaPets"
 url: /caracas/vidapets/
-shop: Tiere
+shop: mascotas
 ---

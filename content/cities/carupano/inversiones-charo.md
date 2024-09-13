@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Charo"
 url: /carupano/inversiones-charo/
-shop: Lebensmittel
+shop: comodidad
 ---

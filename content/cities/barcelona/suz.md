@@ -1,5 +1,5 @@
 ---
 title: "Suz"
 url: /barcelona/suz/
-shop: Lebensmittel
+shop: comodidad
 ---

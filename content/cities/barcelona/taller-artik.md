@@ -1,5 +1,5 @@
 ---
 title: "Taller ARTIK"
 url: /barcelona/taller-artik/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E/S San Martín"
 url: /maracaibo/e-s-san-martin/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercal"
 url: /caracas/mercal/
-shop: Supermarkt
+shop: supermercado
 ---

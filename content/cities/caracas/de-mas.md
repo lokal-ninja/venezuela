@@ -1,5 +1,5 @@
 ---
 title: "De Más"
 url: /caracas/de-mas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

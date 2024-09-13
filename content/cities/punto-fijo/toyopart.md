@@ -1,5 +1,5 @@
 ---
 title: "ToyoPart"
 url: /punto-fijo/toyopart/
-shop: Autoteile
+shop: piezas de automóviles
 ---

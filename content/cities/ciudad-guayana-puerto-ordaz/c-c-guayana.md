@@ -1,5 +1,5 @@
 ---
 title: "C.C. Guayana"
 url: /ciudad-guayana-puerto-ordaz/c-c-guayana/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

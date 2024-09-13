@@ -1,5 +1,5 @@
 ---
 title: "Melani repuestos"
 url: /puerto-la-cruz/melani-repuestos/
-shop: Elektrisch
+shop: eléctrico
 ---

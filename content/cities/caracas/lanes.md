@@ -1,5 +1,5 @@
 ---
 title: "Lanes"
 url: /caracas/lanes/
-shop: Raumausstattung
+shop: decoración interior
 ---

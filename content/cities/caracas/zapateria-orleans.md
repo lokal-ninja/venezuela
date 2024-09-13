@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Orleans"
 url: /caracas/zapateria-orleans/
-shop: Schuhe
+shop: zapatos
 ---

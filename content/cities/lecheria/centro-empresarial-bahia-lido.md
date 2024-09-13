@@ -1,5 +1,5 @@
 ---
 title: "Centro empresarial Bahía lido"
 url: /lecheria/centro-empresarial-bahia-lido/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

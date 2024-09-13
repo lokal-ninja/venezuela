@@ -1,5 +1,5 @@
 ---
 title: "Materiales Brasil"
 url: /caracas/materiales-brasil/
-shop: Baustoffe
+shop: comercio
 ---

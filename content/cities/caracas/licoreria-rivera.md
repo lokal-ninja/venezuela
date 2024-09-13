@@ -1,5 +1,5 @@
 ---
 title: "Licorería Rivera"
 url: /caracas/licoreria-rivera/
-shop: Spirituosen
+shop: alcohol
 ---

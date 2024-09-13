@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Galerías Prados del Este"
 url: /caracas/centro-comercial-galerias-prados-del-este/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

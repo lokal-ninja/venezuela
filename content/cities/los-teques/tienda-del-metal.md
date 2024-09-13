@@ -1,5 +1,5 @@
 ---
 title: "Tienda del Metal"
 url: /los-teques/tienda-del-metal/
-shop: Schmuck
+shop: joyería
 ---

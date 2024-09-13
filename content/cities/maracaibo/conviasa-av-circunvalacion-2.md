@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /maracaibo/conviasa-av-circunvalacion-2/
-shop: Reisebüro
+shop: agencia de viajes
 ---

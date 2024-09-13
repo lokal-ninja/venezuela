@@ -1,5 +1,5 @@
 ---
 title: "Electro led"
 url: /lecheria/electro-led/
-shop: Eisenwaren
+shop: hardware
 ---

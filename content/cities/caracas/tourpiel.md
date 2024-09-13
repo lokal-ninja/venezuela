@@ -1,5 +1,5 @@
 ---
 title: "Tourpiel"
 url: /caracas/tourpiel/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

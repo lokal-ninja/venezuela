@@ -1,5 +1,5 @@
 ---
 title: "ivis"
 url: /barcelona/ivis/
-shop: Metzgerei
+shop: carnicero
 ---

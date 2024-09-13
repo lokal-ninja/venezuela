@@ -1,5 +1,5 @@
 ---
 title: "Casa yaco"
 url: /lecheria/casa-yaco/
-shop: Lebensmittel
+shop: comodidad
 ---

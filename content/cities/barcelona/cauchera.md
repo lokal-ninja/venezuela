@@ -1,5 +1,5 @@
 ---
 title: "Cauchera"
 url: /barcelona/cauchera/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

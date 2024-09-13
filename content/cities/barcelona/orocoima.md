@@ -1,5 +1,5 @@
 ---
 title: "orocoima"
 url: /barcelona/orocoima/
-shop: Autoteile
+shop: piezas de automóviles
 ---

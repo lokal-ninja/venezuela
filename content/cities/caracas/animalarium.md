@@ -1,5 +1,5 @@
 ---
 title: "Animalarium"
 url: /caracas/animalarium/
-shop: Tiere
+shop: mascotas
 ---

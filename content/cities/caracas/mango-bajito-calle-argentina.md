@@ -1,5 +1,5 @@
 ---
 title: "Mango Bajito"
 url: /caracas/mango-bajito-calle-argentina/
-shop: Warenhaus
+shop: grandes almacenes
 ---

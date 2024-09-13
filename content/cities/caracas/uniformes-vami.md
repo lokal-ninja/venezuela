@@ -1,5 +1,5 @@
 ---
 title: "Uniformes VAMI"
 url: /caracas/uniformes-vami/
-shop: Kleidung
+shop: ropa
 ---

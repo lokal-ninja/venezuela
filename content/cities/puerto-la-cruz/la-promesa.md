@@ -1,5 +1,5 @@
 ---
 title: "La promesa"
 url: /puerto-la-cruz/la-promesa/
-shop: Lebensmittel
+shop: comodidad
 ---

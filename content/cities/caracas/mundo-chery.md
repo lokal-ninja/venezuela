@@ -1,5 +1,5 @@
 ---
 title: "Mundo Chery"
 url: /caracas/mundo-chery/
-shop: Autoteile
+shop: piezas de automóviles
 ---

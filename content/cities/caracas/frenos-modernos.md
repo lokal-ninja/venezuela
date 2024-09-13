@@ -1,5 +1,5 @@
 ---
 title: "Frenos Modernos"
 url: /caracas/frenos-modernos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

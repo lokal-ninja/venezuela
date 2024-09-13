@@ -1,5 +1,5 @@
 ---
 title: "taller latinia"
 url: /puerto-la-cruz/taller-latinia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

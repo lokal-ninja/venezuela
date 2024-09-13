@@ -1,5 +1,5 @@
 ---
 title: "Vivero La Avenida"
 url: /calabozo/vivero-la-avenida/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /caracas/chery-vargas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

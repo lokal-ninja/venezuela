@@ -1,5 +1,5 @@
 ---
 title: "Panadería Darissa"
 url: /maracaibo/panaderia-darissa/
-shop: Bäckerei
+shop: panadería
 ---

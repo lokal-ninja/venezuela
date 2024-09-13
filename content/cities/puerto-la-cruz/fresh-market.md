@@ -1,5 +1,5 @@
 ---
 title: "Fresh market"
 url: /puerto-la-cruz/fresh-market/
-shop: Lebensmittel
+shop: comodidad
 ---

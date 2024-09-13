@@ -1,5 +1,5 @@
 ---
 title: "Avior Airlines"
 url: /maracaibo/avior-airlines-av-don-manuel-belloso/
-shop: Reisebüro
+shop: agencia de viajes
 ---

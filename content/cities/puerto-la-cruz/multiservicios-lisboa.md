@@ -1,5 +1,5 @@
 ---
 title: "multiservicios lisboa"
 url: /puerto-la-cruz/multiservicios-lisboa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

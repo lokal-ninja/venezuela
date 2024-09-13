@@ -1,5 +1,5 @@
 ---
 title: "Venemarine"
 url: /caracas/venemarine/
-shop: Boot
+shop: barco
 ---

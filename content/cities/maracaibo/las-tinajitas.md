@@ -1,5 +1,5 @@
 ---
 title: "Las Tinajitas"
 url: /maracaibo/las-tinajitas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EPA"
 url: /caracas/epa-av-san-martin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

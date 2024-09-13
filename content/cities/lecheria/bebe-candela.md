@@ -1,5 +1,5 @@
 ---
 title: "Bebé candela"
 url: /lecheria/bebe-candela/
-shop: Spirituosen
+shop: alcohol
 ---

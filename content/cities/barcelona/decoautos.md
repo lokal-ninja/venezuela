@@ -1,5 +1,5 @@
 ---
 title: "Decoautos"
 url: /barcelona/decoautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

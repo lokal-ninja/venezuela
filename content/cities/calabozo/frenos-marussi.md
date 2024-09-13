@@ -1,5 +1,5 @@
 ---
 title: "Frenos Marussi"
 url: /calabozo/frenos-marussi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

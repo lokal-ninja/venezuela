@@ -1,5 +1,5 @@
 ---
 title: "Los cuñaos"
 url: /barcelona/los-cunaos/
-shop: Spirituosen
+shop: alcohol
 ---

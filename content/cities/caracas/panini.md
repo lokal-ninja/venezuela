@@ -1,5 +1,5 @@
 ---
 title: "Panini"
 url: /caracas/panini/
-shop: Sammler
+shop: colector
 ---

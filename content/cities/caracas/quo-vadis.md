@@ -1,5 +1,5 @@
 ---
 title: "Quo Vadis"
 url: /caracas/quo-vadis/
-shop: Reisebüro
+shop: agencia de viajes
 ---

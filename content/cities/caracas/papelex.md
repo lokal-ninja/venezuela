@@ -1,5 +1,5 @@
 ---
 title: "Papelex"
 url: /caracas/papelex/
-shop: Schreibwaren
+shop: material de oficina
 ---

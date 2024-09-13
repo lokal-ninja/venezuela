@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial la llovizna"
 url: /barcelona/centro-comercial-la-llovizna-boulevard-5-de-julio/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

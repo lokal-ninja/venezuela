@@ -1,5 +1,5 @@
 ---
 title: "epoko"
 url: /barcelona/epoko/
-shop: Autoteile
+shop: piezas de automóviles
 ---

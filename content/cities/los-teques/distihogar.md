@@ -1,5 +1,5 @@
 ---
 title: "Distihogar"
 url: /los-teques/distihogar/
-shop: Möbel
+shop: muebles
 ---

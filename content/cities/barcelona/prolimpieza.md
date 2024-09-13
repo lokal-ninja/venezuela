@@ -1,5 +1,5 @@
 ---
 title: "Prolimpieza"
 url: /barcelona/prolimpieza/
-shop: Lebensmittel
+shop: comodidad
 ---

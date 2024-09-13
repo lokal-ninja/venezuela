@@ -1,5 +1,5 @@
 ---
 title: "Enkasa"
 url: /caracas/enkasa/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

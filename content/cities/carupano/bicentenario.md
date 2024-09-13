@@ -1,5 +1,5 @@
 ---
 title: "Bicentenario"
 url: /carupano/bicentenario/
-shop: Supermarkt
+shop: supermercado
 ---

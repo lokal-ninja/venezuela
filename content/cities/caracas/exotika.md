@@ -1,5 +1,5 @@
 ---
 title: "Exotika"
 url: /caracas/exotika/
-shop: Kleidung
+shop: ropa
 ---

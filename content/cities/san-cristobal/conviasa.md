@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /san-cristobal/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

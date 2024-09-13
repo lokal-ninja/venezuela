@@ -1,5 +1,5 @@
 ---
 title: "materiales kukumber"
 url: /barcelona/materiales-kukumber/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

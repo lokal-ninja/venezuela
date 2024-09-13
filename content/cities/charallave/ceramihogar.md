@@ -1,5 +1,5 @@
 ---
 title: "Ceramihogar"
 url: /charallave/ceramihogar/
-shop: Badezimmer
+shop: cuarto de baño
 ---

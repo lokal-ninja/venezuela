@@ -1,5 +1,5 @@
 ---
 title: "tecnoembragues"
 url: /barcelona/tecnoembragues/
-shop: Autoteile
+shop: piezas de automóviles
 ---

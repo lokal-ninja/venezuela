@@ -1,5 +1,5 @@
 ---
 title: "Xneo"
 url: /caracas/xneo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frenos Boleíta"
 url: /caracas/frenos-boleita/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

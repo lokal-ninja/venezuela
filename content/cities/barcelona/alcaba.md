@@ -1,5 +1,5 @@
 ---
 title: "alcaba"
 url: /barcelona/alcaba/
-shop: Autoteile
+shop: piezas de automóviles
 ---

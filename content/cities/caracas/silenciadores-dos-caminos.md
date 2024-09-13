@@ -1,5 +1,5 @@
 ---
 title: "Silenciadores Dos Caminos"
 url: /caracas/silenciadores-dos-caminos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

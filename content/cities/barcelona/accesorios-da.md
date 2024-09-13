@@ -1,5 +1,5 @@
 ---
 title: "Accesorios DA"
 url: /barcelona/accesorios-da/
-shop: Autoteile
+shop: piezas de automóviles
 ---

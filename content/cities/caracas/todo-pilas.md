@@ -1,5 +1,5 @@
 ---
 title: "Todo Pilas"
 url: /caracas/todo-pilas/
-shop: Radiotechnik
+shop: radiotecnia
 ---

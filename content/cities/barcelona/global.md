@@ -1,5 +1,5 @@
 ---
 title: "global"
 url: /barcelona/global/
-shop: Autoteile
+shop: piezas de automóviles
 ---

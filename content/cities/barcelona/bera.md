@@ -1,5 +1,5 @@
 ---
 title: "bera"
 url: /barcelona/bera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

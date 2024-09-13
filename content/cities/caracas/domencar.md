@@ -1,5 +1,5 @@
 ---
 title: "Domencar"
 url: /caracas/domencar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

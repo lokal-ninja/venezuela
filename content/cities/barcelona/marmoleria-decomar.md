@@ -1,5 +1,5 @@
 ---
 title: "Marmolería decomar"
 url: /barcelona/marmoleria-decomar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

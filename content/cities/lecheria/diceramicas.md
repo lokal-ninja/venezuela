@@ -1,5 +1,5 @@
 ---
 title: "Diceramicas"
 url: /lecheria/diceramicas/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

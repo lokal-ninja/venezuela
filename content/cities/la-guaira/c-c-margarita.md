@@ -1,5 +1,5 @@
 ---
 title: "C.C. Margarita"
 url: /la-guaira/c-c-margarita/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavandería la impecable"
 url: /barcelona/lavanderia-la-impecable/
-shop: Wäscherei
+shop: lavandería
 ---

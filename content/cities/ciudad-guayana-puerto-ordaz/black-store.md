@@ -1,5 +1,5 @@
 ---
 title: "Black Store"
 url: /ciudad-guayana-puerto-ordaz/black-store/
-shop: Handy
+shop: teléfono móvil
 ---

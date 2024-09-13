@@ -1,5 +1,5 @@
 ---
 title: "Autoparabrisas Guárico"
 url: /calabozo/autoparabrisas-guarico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

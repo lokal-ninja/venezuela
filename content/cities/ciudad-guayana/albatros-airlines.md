@@ -1,5 +1,5 @@
 ---
 title: "Albatros Airlines"
 url: /ciudad-guayana/albatros-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /el-tigre/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

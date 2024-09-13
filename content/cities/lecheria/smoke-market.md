@@ -1,5 +1,5 @@
 ---
 title: "smoke market"
 url: /lecheria/smoke-market/
-shop: Lebensmittel
+shop: comodidad
 ---

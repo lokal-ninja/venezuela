@@ -1,5 +1,5 @@
 ---
 title: "Rapidfot"
 url: /caracas/rapidfot/
-shop: Foto
+shop: foto
 ---

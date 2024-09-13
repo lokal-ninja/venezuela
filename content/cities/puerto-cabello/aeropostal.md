@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /puerto-cabello/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

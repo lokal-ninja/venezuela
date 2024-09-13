@@ -1,5 +1,5 @@
 ---
 title: "Daniela"
 url: /puerto-la-cruz/daniela/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frenos Rocket"
 url: /caracas/frenos-rocket/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

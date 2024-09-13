@@ -1,5 +1,5 @@
 ---
 title: "Margarita Travel"
 url: /porlamar/margarita-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

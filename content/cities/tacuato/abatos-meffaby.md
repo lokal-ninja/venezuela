@@ -1,5 +1,5 @@
 ---
 title: "Abatos Meffaby"
 url: /tacuato/abatos-meffaby/
-shop: Supermarkt
+shop: supermercado
 ---

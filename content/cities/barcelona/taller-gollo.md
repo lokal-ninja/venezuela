@@ -1,5 +1,5 @@
 ---
 title: "Taller Gollo"
 url: /barcelona/taller-gollo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

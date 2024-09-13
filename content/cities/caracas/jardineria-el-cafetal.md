@@ -1,5 +1,5 @@
 ---
 title: "Jardinería El Cafetal"
 url: /caracas/jardineria-el-cafetal/
-shop: Garten-Center
+shop: centro de jardinería
 ---

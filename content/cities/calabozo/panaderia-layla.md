@@ -1,5 +1,5 @@
 ---
 title: "Panadería Layla"
 url: /calabozo/panaderia-layla/
-shop: Bäckerei
+shop: panadería
 ---

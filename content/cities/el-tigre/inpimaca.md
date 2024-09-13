@@ -1,5 +1,5 @@
 ---
 title: "Inpimaca"
 url: /el-tigre/inpimaca/
-shop: Eisenwaren
+shop: hardware
 ---

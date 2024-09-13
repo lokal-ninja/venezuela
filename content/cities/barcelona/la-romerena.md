@@ -1,5 +1,5 @@
 ---
 title: "la romereña"
 url: /barcelona/la-romerena/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fincagro"
 url: /san-antonio-de-los-altos/fincagro/
-shop: Garten-Center
+shop: centro de jardinería
 ---

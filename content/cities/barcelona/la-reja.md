@@ -1,5 +1,5 @@
 ---
 title: "la reja"
 url: /barcelona/la-reja/
-shop: Spirituosen
+shop: alcohol
 ---

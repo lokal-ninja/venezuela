@@ -1,5 +1,5 @@
 ---
 title: "Prolicor"
 url: /acarigua/prolicor/
-shop: Spirituosen
+shop: alcohol
 ---

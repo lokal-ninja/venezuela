@@ -1,5 +1,5 @@
 ---
 title: "Pallá"
 url: /caracas/palla/
-shop: Konditorei
+shop: pastelería
 ---

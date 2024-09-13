@@ -1,5 +1,5 @@
 ---
 title: "Autozone"
 url: /lecheria/autozone/
-shop: Autohaus
+shop: coche
 ---

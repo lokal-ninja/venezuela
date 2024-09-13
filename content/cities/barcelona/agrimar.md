@@ -1,5 +1,5 @@
 ---
 title: "Agrimar"
 url: /barcelona/agrimar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

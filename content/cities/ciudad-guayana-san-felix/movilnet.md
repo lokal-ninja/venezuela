@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
 url: /ciudad-guayana-san-felix/movilnet/
-shop: Handy
+shop: teléfono móvil
 ---

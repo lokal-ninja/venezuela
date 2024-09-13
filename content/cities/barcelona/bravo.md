@@ -1,5 +1,5 @@
 ---
 title: "bravo"
 url: /barcelona/bravo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

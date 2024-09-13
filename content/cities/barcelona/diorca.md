@@ -1,5 +1,5 @@
 ---
 title: "diorca"
 url: /barcelona/diorca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos milono"
 url: /barcelona/repuestos-milono/
-shop: Autoteile
+shop: piezas de automóviles
 ---

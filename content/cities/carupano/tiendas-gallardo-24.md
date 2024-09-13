@@ -1,5 +1,5 @@
 ---
 title: "Tiendas Gallardo 24"
 url: /carupano/tiendas-gallardo-24/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "retoco"
 url: /barcelona/retoco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

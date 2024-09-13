@@ -1,5 +1,5 @@
 ---
 title: "Pollos er negro"
 url: /puerto-la-cruz/pollos-er-negro/
-shop: Metzgerei
+shop: carnicero
 ---

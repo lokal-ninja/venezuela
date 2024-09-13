@@ -1,5 +1,5 @@
 ---
 title: "focus"
 url: /barcelona/focus/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

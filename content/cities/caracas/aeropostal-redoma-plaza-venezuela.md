@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /caracas/aeropostal-redoma-plaza-venezuela/
-shop: Reisebüro
+shop: agencia de viajes
 ---

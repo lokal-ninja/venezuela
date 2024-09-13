@@ -1,5 +1,5 @@
 ---
 title: "Granito Martinez"
 url: /barcelona/granito-martinez/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

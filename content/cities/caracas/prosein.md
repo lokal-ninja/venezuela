@@ -1,5 +1,5 @@
 ---
 title: "Prosein"
 url: /caracas/prosein/
-shop: Badezimmer
+shop: cuarto de baño
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chivera"
 url: /san-antonio-de-los-altos/chivera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

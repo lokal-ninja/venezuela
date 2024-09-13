@@ -1,5 +1,5 @@
 ---
 title: "periquitos"
 url: /barcelona/periquitos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

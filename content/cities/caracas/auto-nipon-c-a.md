@@ -1,5 +1,5 @@
 ---
 title: "Auto nipon, C.A."
 url: /caracas/auto-nipon-c-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

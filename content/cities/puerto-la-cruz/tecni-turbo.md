@@ -1,5 +1,5 @@
 ---
 title: "tecni turbo"
 url: /puerto-la-cruz/tecni-turbo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

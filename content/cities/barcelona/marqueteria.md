@@ -1,5 +1,5 @@
 ---
 title: "marquetería"
 url: /barcelona/marqueteria/
-shop: Allgemein
+shop: general
 ---

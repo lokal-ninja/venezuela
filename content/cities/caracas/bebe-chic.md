@@ -1,5 +1,5 @@
 ---
 title: "Bebé Chic"
 url: /caracas/bebe-chic/
-shop: Babysachen
+shop: artículos para bebés
 ---

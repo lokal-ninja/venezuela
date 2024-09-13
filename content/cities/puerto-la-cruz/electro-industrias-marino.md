@@ -1,5 +1,5 @@
 ---
 title: "electro industrias marino"
 url: /puerto-la-cruz/electro-industrias-marino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

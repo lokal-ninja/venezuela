@@ -1,5 +1,5 @@
 ---
 title: "Materiales Pitino"
 url: /barcelona/materiales-pitino/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

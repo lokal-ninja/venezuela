@@ -1,5 +1,5 @@
 ---
 title: "repuestos san felipe"
 url: /barcelona/repuestos-san-felipe/
-shop: Autoteile
+shop: piezas de automóviles
 ---

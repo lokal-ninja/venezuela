@@ -1,5 +1,5 @@
 ---
 title: "atlantic"
 url: /barcelona/atlantic/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turaser"
 url: /caracas/turaser-av-sur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Digitel"
 url: /los-teques/digitel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cigarrería Candelaria SRL"
 url: /caracas/cigarreria-candelaria-srl/
-shop: Tabak
+shop: tabaco
 ---

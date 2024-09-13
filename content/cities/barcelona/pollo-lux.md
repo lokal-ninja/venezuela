@@ -1,5 +1,5 @@
 ---
 title: "Pollo lux"
 url: /barcelona/pollo-lux/
-shop: Metzgerei
+shop: carnicero
 ---

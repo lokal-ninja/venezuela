@@ -1,5 +1,5 @@
 ---
 title: "Servicaucho Neverí"
 url: /barcelona/servicaucho-neveri/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

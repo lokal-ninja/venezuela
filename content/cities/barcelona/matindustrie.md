@@ -1,5 +1,5 @@
 ---
 title: "Matindustrie"
 url: /barcelona/matindustrie/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

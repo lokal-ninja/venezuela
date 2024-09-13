@@ -1,5 +1,5 @@
 ---
 title: "C.C. Colonial"
 url: /caracas/c-c-colonial/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

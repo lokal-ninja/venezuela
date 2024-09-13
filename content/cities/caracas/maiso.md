@@ -1,5 +1,5 @@
 ---
 title: "Maiso"
 url: /caracas/maiso/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

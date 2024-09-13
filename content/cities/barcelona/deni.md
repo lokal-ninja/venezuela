@@ -1,5 +1,5 @@
 ---
 title: "Deni"
 url: /barcelona/deni/
-shop: Autoteile
+shop: piezas de automóviles
 ---

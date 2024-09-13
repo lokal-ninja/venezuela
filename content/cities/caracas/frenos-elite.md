@@ -1,5 +1,5 @@
 ---
 title: "Frenos Élite"
 url: /caracas/frenos-elite/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

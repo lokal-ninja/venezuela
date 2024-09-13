@@ -1,5 +1,5 @@
 ---
 title: "Licorería Prolicor"
 url: /caracas/licoreria-prolicor-av-lecuna/
-shop: Spirituosen
+shop: alcohol
 ---

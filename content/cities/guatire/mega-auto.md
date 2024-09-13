@@ -1,5 +1,5 @@
 ---
 title: "Mega Auto"
 url: /guatire/mega-auto/
-shop: Autohaus
+shop: coche
 ---

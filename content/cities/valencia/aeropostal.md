@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /valencia/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

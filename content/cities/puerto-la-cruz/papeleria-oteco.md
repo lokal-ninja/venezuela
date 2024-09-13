@@ -1,5 +1,5 @@
 ---
 title: "papelería oteco"
 url: /puerto-la-cruz/papeleria-oteco/
-shop: Schreibwaren
+shop: material de oficina
 ---

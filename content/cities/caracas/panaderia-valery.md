@@ -1,5 +1,5 @@
 ---
 title: "Panadería Valery"
 url: /caracas/panaderia-valery/
-shop: Bäckerei
+shop: panadería
 ---

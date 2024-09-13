@@ -1,5 +1,5 @@
 ---
 title: "Canguro"
 url: /puerto-la-cruz/canguro/
-shop: Handy
+shop: teléfono móvil
 ---

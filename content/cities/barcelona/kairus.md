@@ -1,5 +1,5 @@
 ---
 title: "kairus"
 url: /barcelona/kairus/
-shop: Autoteile
+shop: piezas de automóviles
 ---

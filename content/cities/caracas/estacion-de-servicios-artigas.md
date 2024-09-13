@@ -1,5 +1,5 @@
 ---
 title: "Estación de Servicios Artigas"
 url: /caracas/estacion-de-servicios-artigas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tijerazo"
 url: /caracas/tijerazo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

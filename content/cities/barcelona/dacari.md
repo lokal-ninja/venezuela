@@ -1,5 +1,5 @@
 ---
 title: "Dacari"
 url: /barcelona/dacari/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

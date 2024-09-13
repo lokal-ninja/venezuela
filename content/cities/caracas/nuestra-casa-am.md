@@ -1,5 +1,5 @@
 ---
 title: "Nuestra Casa AM"
 url: /caracas/nuestra-casa-am/
-shop: Betten
+shop: cama
 ---

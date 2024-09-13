@@ -1,5 +1,5 @@
 ---
 title: "Aikoz"
 url: /puerto-la-cruz/aikoz/
-shop: Supermarkt
+shop: supermercado
 ---

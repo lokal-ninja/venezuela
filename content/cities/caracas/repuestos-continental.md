@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Continental"
 url: /caracas/repuestos-continental/
-shop: Autoteile
+shop: piezas de automóviles
 ---

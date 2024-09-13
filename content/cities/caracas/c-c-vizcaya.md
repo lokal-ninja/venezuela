@@ -1,5 +1,5 @@
 ---
 title: "C.C. Vizcaya"
 url: /caracas/c-c-vizcaya/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

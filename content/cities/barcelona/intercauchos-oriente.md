@@ -1,5 +1,5 @@
 ---
 title: "Intercauchos oriente"
 url: /barcelona/intercauchos-oriente/
-shop: Autoteile
+shop: piezas de automóviles
 ---

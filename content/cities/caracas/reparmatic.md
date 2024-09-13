@@ -1,5 +1,5 @@
 ---
 title: "Reparmatic"
 url: /caracas/reparmatic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

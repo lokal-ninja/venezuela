@@ -1,5 +1,5 @@
 ---
 title: "ProCars"
 url: /caracas/procars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

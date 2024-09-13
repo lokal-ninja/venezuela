@@ -1,5 +1,5 @@
 ---
 title: "collison"
 url: /barcelona/collison/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "macedo"
 url: /barcelona/macedo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chivera Totomotor"
 url: /caracas/chivera-totomotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

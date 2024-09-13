@@ -1,5 +1,5 @@
 ---
 title: "automercado Veracruz"
 url: /puerto-la-cruz/automercado-veracruz/
-shop: Spirituosen
+shop: alcohol
 ---

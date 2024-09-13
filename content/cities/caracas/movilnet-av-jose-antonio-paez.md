@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
 url: /caracas/movilnet-av-jose-antonio-paez/
-shop: Handy
+shop: teléfono móvil
 ---

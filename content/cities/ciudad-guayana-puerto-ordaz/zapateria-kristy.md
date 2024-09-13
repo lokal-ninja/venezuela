@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Kristy"
 url: /ciudad-guayana-puerto-ordaz/zapateria-kristy/
-shop: Schuhe
+shop: zapatos
 ---

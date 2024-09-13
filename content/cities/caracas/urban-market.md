@@ -1,5 +1,5 @@
 ---
 title: "Urban Market"
 url: /caracas/urban-market/
-shop: Supermarkt
+shop: supermercado
 ---

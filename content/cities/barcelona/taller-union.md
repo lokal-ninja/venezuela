@@ -1,5 +1,5 @@
 ---
 title: "taller unión"
 url: /barcelona/taller-union/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "sodicars"
 url: /barcelona/sodicars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

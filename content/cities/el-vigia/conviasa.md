@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /el-vigia/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

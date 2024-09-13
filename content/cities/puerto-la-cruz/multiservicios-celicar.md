@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios celicar"
 url: /puerto-la-cruz/multiservicios-celicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feniz cell electronic"
 url: /puerto-la-cruz/feniz-cell-electronic/
-shop: Handy
+shop: teléfono móvil
 ---

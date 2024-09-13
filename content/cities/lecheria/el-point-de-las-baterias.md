@@ -1,5 +1,5 @@
 ---
 title: "El point de las baterias"
 url: /lecheria/el-point-de-las-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

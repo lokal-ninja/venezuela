@@ -1,5 +1,5 @@
 ---
 title: "Carnicería ?"
 url: /caracas/carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Endomédica"
 url: /caracas/endomedica/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

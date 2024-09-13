@@ -1,5 +1,5 @@
 ---
 title: "Covencaucho"
 url: /lecheria/covencaucho/
-shop: Autoteile
+shop: piezas de automóviles
 ---

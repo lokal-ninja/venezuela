@@ -1,5 +1,5 @@
 ---
 title: "Figueviz"
 url: /barcelona/figueviz/
-shop: Metzgerei
+shop: carnicero
 ---

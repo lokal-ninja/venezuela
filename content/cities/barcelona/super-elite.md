@@ -1,5 +1,5 @@
 ---
 title: "super elite"
 url: /barcelona/super-elite/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

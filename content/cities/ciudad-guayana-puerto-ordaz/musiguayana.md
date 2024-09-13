@@ -1,5 +1,5 @@
 ---
 title: "Musiguayana"
 url: /ciudad-guayana-puerto-ordaz/musiguayana/
-shop: Instrumente
+shop: instrumento musical
 ---

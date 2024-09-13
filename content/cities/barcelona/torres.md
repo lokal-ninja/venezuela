@@ -1,5 +1,5 @@
 ---
 title: "torres"
 url: /barcelona/torres/
-shop: Autoteile
+shop: piezas de automóviles
 ---

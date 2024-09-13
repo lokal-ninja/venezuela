@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Los Chaguaramos"
 url: /caracas/centro-comercial-los-chaguaramos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

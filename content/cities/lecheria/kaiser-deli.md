@@ -1,5 +1,5 @@
 ---
 title: "kaiser deli"
 url: /lecheria/kaiser-deli/
-shop: Lebensmittel
+shop: comodidad
 ---

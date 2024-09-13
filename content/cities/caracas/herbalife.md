@@ -1,5 +1,5 @@
 ---
 title: "Herbalife"
 url: /caracas/herbalife/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

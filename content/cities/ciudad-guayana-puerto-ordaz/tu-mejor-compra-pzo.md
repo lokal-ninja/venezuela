@@ -1,5 +1,5 @@
 ---
 title: "Tu Mejor Compra PZO"
 url: /ciudad-guayana-puerto-ordaz/tu-mejor-compra-pzo/
-shop: Außenstelle
+shop: puesto de avanzada
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubrigama"
 url: /barcelona/lubrigama/
-shop: Autoteile
+shop: piezas de automóviles
 ---

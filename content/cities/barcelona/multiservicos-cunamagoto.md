@@ -1,5 +1,5 @@
 ---
 title: "Multiservicos Cunamagoto"
 url: /barcelona/multiservicos-cunamagoto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

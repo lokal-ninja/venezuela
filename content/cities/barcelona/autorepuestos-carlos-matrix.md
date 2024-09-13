@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Carlos matrix"
 url: /barcelona/autorepuestos-carlos-matrix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

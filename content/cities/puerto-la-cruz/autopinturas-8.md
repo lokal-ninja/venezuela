@@ -1,5 +1,5 @@
 ---
 title: "autopinturas 8"
 url: /puerto-la-cruz/autopinturas-8/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

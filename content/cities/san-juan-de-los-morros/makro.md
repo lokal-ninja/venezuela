@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /san-juan-de-los-morros/makro/
-shop: Supermarkt
+shop: supermercado
 ---

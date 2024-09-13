@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /maturin/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "leskel"
 url: /barcelona/leskel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

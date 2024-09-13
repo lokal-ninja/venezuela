@@ -1,5 +1,5 @@
 ---
 title: "Inversiones AA"
 url: /puerto-la-cruz/inversiones-aa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

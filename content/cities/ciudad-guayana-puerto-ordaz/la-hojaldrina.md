@@ -1,5 +1,5 @@
 ---
 title: "La Hojaldrina"
 url: /ciudad-guayana-puerto-ordaz/la-hojaldrina/
-shop: Bäckerei
+shop: panadería
 ---

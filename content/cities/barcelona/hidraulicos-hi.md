@@ -1,5 +1,5 @@
 ---
 title: "hidraulicos hi"
 url: /barcelona/hidraulicos-hi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

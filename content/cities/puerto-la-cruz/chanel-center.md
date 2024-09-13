@@ -1,5 +1,5 @@
 ---
 title: "Chanel center"
 url: /puerto-la-cruz/chanel-center/
-shop: Kosmetik
+shop: cosméticos
 ---

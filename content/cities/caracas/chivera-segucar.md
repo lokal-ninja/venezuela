@@ -1,5 +1,5 @@
 ---
 title: "Chivera SEGUCAR"
 url: /caracas/chivera-segucar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

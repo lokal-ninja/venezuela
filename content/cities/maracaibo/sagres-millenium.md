@@ -1,5 +1,5 @@
 ---
 title: "Sagres Millenium"
 url: /maracaibo/sagres-millenium/
-shop: Bäckerei
+shop: panadería
 ---

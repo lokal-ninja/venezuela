@@ -1,5 +1,5 @@
 ---
 title: "placacentro"
 url: /puerto-la-cruz/placacentro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

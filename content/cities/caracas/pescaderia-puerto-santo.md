@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Puerto Santo"
 url: /caracas/pescaderia-puerto-santo/
-shop: Fisch
+shop: marisco
 ---

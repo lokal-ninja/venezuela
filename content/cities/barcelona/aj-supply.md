@@ -1,5 +1,5 @@
 ---
 title: "AJ supply"
 url: /barcelona/aj-supply/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baby kids"
 url: /lecheria/baby-kids/
-shop: Kleidung
+shop: ropa
 ---

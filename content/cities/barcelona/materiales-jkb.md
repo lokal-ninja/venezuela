@@ -1,5 +1,5 @@
 ---
 title: "materiales jkb"
 url: /barcelona/materiales-jkb/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

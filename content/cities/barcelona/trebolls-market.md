@@ -1,5 +1,5 @@
 ---
 title: "Trebolls market"
 url: /barcelona/trebolls-market/
-shop: Lebensmittel
+shop: comodidad
 ---

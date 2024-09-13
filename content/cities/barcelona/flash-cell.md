@@ -1,5 +1,5 @@
 ---
 title: "Flash cell"
 url: /barcelona/flash-cell/
-shop: Handy
+shop: teléfono móvil
 ---

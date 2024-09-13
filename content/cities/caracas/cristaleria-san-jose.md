@@ -1,5 +1,5 @@
 ---
 title: "Cristalería San José"
 url: /caracas/cristaleria-san-jose/
-shop: Glaserei
+shop: vidriería
 ---

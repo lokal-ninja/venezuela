@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /barquisimeto/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

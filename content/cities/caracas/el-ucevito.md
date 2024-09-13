@@ -1,5 +1,5 @@
 ---
 title: "El Ucevito"
 url: /caracas/el-ucevito/
-shop: Outdoor
+shop: exterior
 ---

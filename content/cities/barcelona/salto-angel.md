@@ -1,5 +1,5 @@
 ---
 title: "salto ángel"
 url: /barcelona/salto-angel/
-shop: Elektronik
+shop: electrónica
 ---

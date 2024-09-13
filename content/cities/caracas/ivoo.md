@@ -1,5 +1,5 @@
 ---
 title: "Ivoo"
 url: /caracas/ivoo/
-shop: Elektronik
+shop: electrónica
 ---

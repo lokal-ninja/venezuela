@@ -1,5 +1,5 @@
 ---
 title: "La kariña"
 url: /barcelona/la-karina/
-shop: Kleidung
+shop: ropa
 ---

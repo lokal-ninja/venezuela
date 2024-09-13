@@ -1,5 +1,5 @@
 ---
 title: "Il mercato"
 url: /lecheria/il-mercato/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arte Real"
 url: /caracas/arte-real/
-shop: Schreibwaren
+shop: material de oficina
 ---

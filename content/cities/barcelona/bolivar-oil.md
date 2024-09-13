@@ -1,5 +1,5 @@
 ---
 title: "Bolívar oil"
 url: /barcelona/bolivar-oil/
-shop: Autoteile
+shop: piezas de automóviles
 ---

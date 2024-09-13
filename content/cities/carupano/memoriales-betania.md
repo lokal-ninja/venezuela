@@ -1,5 +1,5 @@
 ---
 title: "Memoriales Betania"
 url: /carupano/memoriales-betania/
-shop: Bestattungen
+shop: directores de funerarias
 ---

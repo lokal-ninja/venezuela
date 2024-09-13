@@ -1,5 +1,5 @@
 ---
 title: "Traki"
 url: /caracas/traki-av-baralt/
-shop: Warenhaus
+shop: grandes almacenes
 ---

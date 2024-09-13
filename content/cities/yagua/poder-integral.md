@@ -1,5 +1,5 @@
 ---
 title: "Poder Integral"
 url: /yagua/poder-integral/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

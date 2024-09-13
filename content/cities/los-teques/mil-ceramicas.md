@@ -1,5 +1,5 @@
 ---
 title: "Mil Cerámicas"
 url: /los-teques/mil-ceramicas/
-shop: Badezimmer
+shop: cuarto de baño
 ---

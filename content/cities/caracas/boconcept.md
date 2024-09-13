@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /caracas/boconcept/
-shop: Raumausstattung
+shop: decoración interior
 ---

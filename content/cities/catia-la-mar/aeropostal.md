@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /catia-la-mar/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

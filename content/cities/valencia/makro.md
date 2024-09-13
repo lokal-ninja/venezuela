@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /valencia/makro/
-shop: Großhandel
+shop: mayorista
 ---

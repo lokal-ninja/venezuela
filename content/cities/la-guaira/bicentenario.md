@@ -1,5 +1,5 @@
 ---
 title: "Bicentenario"
 url: /la-guaira/bicentenario/
-shop: Supermarkt
+shop: supermercado
 ---

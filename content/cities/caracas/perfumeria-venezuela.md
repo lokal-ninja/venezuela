@@ -1,5 +1,5 @@
 ---
 title: "Perfumería Venezuela"
 url: /caracas/perfumeria-venezuela/
-shop: Parfümerie
+shop: perfumería
 ---

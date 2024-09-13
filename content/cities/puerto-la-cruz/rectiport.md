@@ -1,5 +1,5 @@
 ---
 title: "rectiport"
 url: /puerto-la-cruz/rectiport/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial La Bandera"
 url: /caracas/centro-comercial-la-bandera/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

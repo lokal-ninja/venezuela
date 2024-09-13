@@ -1,5 +1,5 @@
 ---
 title: "Vuelko"
 url: /barcelona/vuelko/
-shop: Autoteile
+shop: piezas de automóviles
 ---

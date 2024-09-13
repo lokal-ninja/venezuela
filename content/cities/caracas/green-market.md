@@ -1,5 +1,5 @@
 ---
 title: "Green Market"
 url: /caracas/green-market/
-shop: Lebensmittel
+shop: comodidad
 ---

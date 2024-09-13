@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Cristal"
 url: /carupano/centro-comercial-cristal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

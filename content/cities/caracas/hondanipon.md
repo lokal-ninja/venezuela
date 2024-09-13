@@ -1,5 +1,5 @@
 ---
 title: "Hondanipon"
 url: /caracas/hondanipon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

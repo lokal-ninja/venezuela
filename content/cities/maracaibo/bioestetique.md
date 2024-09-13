@@ -1,5 +1,5 @@
 ---
 title: "BIOEstetique"
 url: /maracaibo/bioestetique/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bondex"
 url: /caracas/bondex/
-shop: Betten
+shop: cama
 ---

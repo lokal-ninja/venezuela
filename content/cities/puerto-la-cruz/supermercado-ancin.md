@@ -1,5 +1,5 @@
 ---
 title: "Supermercado ancin"
 url: /puerto-la-cruz/supermercado-ancin/
-shop: Lebensmittel
+shop: comodidad
 ---

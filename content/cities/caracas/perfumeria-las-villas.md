@@ -1,5 +1,5 @@
 ---
 title: "Perfumería Las Villas"
 url: /caracas/perfumeria-las-villas/
-shop: Parfümerie
+shop: perfumería
 ---

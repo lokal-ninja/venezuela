@@ -1,5 +1,5 @@
 ---
 title: "Ofermed"
 url: /caracas/ofermed/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios el gibhor"
 url: /puerto-la-cruz/multiservicios-el-gibhor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

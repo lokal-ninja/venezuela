@@ -1,5 +1,5 @@
 ---
 title: "Aserradero Maderera Gulimar"
 url: /caracas/aserradero-maderera-gulimar/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "todo en pinturas"
 url: /barcelona/todo-en-pinturas/
-shop: Farben
+shop: pintura
 ---

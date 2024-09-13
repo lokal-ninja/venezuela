@@ -1,5 +1,5 @@
 ---
 title: "C.C. Jumbo"
 url: /porlamar/c-c-jumbo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

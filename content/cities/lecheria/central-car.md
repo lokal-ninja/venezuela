@@ -1,5 +1,5 @@
 ---
 title: "Central car"
 url: /lecheria/central-car/
-shop: Autoteile
+shop: piezas de automóviles
 ---

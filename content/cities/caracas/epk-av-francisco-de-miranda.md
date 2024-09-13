@@ -1,5 +1,5 @@
 ---
 title: "EPK"
 url: /caracas/epk-av-francisco-de-miranda/
-shop: Kleidung
+shop: ropa
 ---

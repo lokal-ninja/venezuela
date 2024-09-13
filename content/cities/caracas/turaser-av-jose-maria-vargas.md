@@ -1,5 +1,5 @@
 ---
 title: "Turaser"
 url: /caracas/turaser-av-jose-maria-vargas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

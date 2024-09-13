@@ -1,5 +1,5 @@
 ---
 title: "Unimall"
 url: /el-tigre/unimall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

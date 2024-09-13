@@ -1,5 +1,5 @@
 ---
 title: "Delta"
 url: /barcelona/delta/
-shop: Autoteile
+shop: piezas de automóviles
 ---

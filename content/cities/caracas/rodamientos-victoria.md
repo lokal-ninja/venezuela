@@ -1,5 +1,5 @@
 ---
 title: "Rodamientos Victoria"
 url: /caracas/rodamientos-victoria/
-shop: Autoteile
+shop: piezas de automóviles
 ---

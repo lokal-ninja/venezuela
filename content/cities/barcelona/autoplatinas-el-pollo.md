@@ -1,5 +1,5 @@
 ---
 title: "Autoplatinas el pollo"
 url: /barcelona/autoplatinas-el-pollo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

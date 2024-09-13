@@ -1,5 +1,5 @@
 ---
 title: "Pierre imports"
 url: /puerto-la-cruz/pierre-imports/
-shop: Parfümerie
+shop: perfumería
 ---

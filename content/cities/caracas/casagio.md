@@ -1,5 +1,5 @@
 ---
 title: "CasaGio"
 url: /caracas/casagio/
-shop: Raumausstattung
+shop: decoración interior
 ---

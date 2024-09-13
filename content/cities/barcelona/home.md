@@ -1,5 +1,5 @@
 ---
 title: "home"
 url: /barcelona/home/
-shop: Eisenwaren
+shop: hardware
 ---

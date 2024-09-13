@@ -1,5 +1,5 @@
 ---
 title: "La Confianza"
 url: /punto-fijo/la-confianza/
-shop: Elektronik
+shop: electrónica
 ---

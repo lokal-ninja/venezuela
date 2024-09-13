@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Temanpa"
 url: /carrizal/ferreteria-temanpa/
-shop: Eisenwaren
+shop: hardware
 ---

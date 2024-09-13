@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Vida Center"
 url: /lecheria/centro-comercial-vida-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

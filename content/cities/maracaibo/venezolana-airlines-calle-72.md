@@ -1,5 +1,5 @@
 ---
 title: "Venezolana Airlines"
 url: /maracaibo/venezolana-airlines-calle-72/
-shop: Reisebüro
+shop: agencia de viajes
 ---

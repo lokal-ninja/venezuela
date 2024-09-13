@@ -1,5 +1,5 @@
 ---
 title: "Serlo Multicentro"
 url: /calabozo/serlo-multicentro/
-shop: Kramladen
+shop: tienda de variedades
 ---

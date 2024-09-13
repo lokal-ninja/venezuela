@@ -1,5 +1,5 @@
 ---
 title: "El Reservista"
 url: /puerto-la-cruz/el-reservista/
-shop: Schuhe
+shop: zapatos
 ---

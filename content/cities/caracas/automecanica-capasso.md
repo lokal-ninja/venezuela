@@ -1,5 +1,5 @@
 ---
 title: "Automecánica Capasso"
 url: /caracas/automecanica-capasso/
-shop: Baustoffe
+shop: comercio
 ---

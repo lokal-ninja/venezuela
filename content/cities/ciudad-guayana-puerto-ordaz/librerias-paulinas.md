@@ -1,5 +1,5 @@
 ---
 title: "Librerías Paulinas"
 url: /ciudad-guayana-puerto-ordaz/librerias-paulinas/
-shop: Bücher
+shop: libros
 ---

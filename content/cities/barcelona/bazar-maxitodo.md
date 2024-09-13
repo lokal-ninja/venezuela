@@ -1,5 +1,5 @@
 ---
 title: "Bazar maxitodo"
 url: /barcelona/bazar-maxitodo/
-shop: Allgemein
+shop: general
 ---

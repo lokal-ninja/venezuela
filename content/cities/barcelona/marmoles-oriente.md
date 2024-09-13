@@ -1,5 +1,5 @@
 ---
 title: "marmoles oriente"
 url: /barcelona/marmoles-oriente/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

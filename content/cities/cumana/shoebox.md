@@ -1,5 +1,5 @@
 ---
 title: "Shoebox"
 url: /cumana/shoebox/
-shop: Schuhe
+shop: zapatos
 ---

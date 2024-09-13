@@ -1,5 +1,5 @@
 ---
 title: "Cuneo Motors"
 url: /calabozo/cuneo-motors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

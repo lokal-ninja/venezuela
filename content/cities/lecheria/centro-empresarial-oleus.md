@@ -1,5 +1,5 @@
 ---
 title: "Centro Empresarial Oleus"
 url: /lecheria/centro-empresarial-oleus/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

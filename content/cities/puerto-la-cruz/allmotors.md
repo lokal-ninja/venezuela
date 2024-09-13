@@ -1,5 +1,5 @@
 ---
 title: "allmotors"
 url: /puerto-la-cruz/allmotors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

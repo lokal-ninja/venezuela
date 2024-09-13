@@ -1,5 +1,5 @@
 ---
 title: "Caribbean Airlines"
 url: /caracas/caribbean-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

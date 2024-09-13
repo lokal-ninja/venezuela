@@ -1,5 +1,5 @@
 ---
 title: "Kodak Express"
 url: /barquisimeto/kodak-express/
-shop: Foto
+shop: foto
 ---

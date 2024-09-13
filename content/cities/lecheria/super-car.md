@@ -1,5 +1,5 @@
 ---
 title: "Super car"
 url: /lecheria/super-car/
-shop: Autoteile
+shop: piezas de automóviles
 ---

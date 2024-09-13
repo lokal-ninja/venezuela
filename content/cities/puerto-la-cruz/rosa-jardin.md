@@ -1,5 +1,5 @@
 ---
 title: "Rosa jardín"
 url: /puerto-la-cruz/rosa-jardin/
-shop: Blumen
+shop: floristería
 ---

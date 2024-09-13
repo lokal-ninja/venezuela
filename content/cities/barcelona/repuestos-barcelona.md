@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Barcelona"
 url: /barcelona/repuestos-barcelona/
-shop: Autoteile
+shop: piezas de automóviles
 ---

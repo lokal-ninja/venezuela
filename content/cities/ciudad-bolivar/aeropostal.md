@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /ciudad-bolivar/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

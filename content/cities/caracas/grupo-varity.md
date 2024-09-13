@@ -1,5 +1,5 @@
 ---
 title: "Grupo Varity"
 url: /caracas/grupo-varity/
-shop: Autoteile
+shop: piezas de automóviles
 ---

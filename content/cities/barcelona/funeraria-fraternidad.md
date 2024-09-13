@@ -1,5 +1,5 @@
 ---
 title: "funeraria fraternidad"
 url: /barcelona/funeraria-fraternidad/
-shop: Bestattungen
+shop: directores de funerarias
 ---

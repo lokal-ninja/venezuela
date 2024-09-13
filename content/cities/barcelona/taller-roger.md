@@ -1,5 +1,5 @@
 ---
 title: "taller roger"
 url: /barcelona/taller-roger/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

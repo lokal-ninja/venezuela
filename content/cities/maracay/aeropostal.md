@@ -1,5 +1,5 @@
 ---
 title: "Aeropostal"
 url: /maracay/aeropostal/
-shop: Reisebüro
+shop: agencia de viajes
 ---

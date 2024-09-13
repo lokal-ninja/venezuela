@@ -1,5 +1,5 @@
 ---
 title: "Auto Team (Chery)"
 url: /caracas/auto-team-chery-pascual-navarro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

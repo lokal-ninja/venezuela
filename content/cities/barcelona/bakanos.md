@@ -1,5 +1,5 @@
 ---
 title: "Bakanos"
 url: /barcelona/bakanos/
-shop: Schuhe
+shop: zapatos
 ---

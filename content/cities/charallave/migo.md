@@ -1,5 +1,5 @@
 ---
 title: "Migo"
 url: /charallave/migo/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

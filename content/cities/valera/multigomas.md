@@ -1,5 +1,5 @@
 ---
 title: "Multigomas"
 url: /valera/multigomas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

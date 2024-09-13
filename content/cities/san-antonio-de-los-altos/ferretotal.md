@@ -1,5 +1,5 @@
 ---
 title: "Ferretotal"
 url: /san-antonio-de-los-altos/ferretotal/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

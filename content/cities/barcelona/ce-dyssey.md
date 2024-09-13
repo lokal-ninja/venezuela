@@ -1,5 +1,5 @@
 ---
 title: "CE DYSSEY"
 url: /barcelona/ce-dyssey/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

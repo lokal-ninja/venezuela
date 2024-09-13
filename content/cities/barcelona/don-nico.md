@@ -1,5 +1,5 @@
 ---
 title: "don nico"
 url: /barcelona/don-nico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

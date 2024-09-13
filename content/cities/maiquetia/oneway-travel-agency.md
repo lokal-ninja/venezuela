@@ -1,5 +1,5 @@
 ---
 title: "OneWay Travel Agency"
 url: /maiquetia/oneway-travel-agency/
-shop: Reisebüro
+shop: agencia de viajes
 ---

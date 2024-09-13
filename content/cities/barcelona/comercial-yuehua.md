@@ -1,5 +1,5 @@
 ---
 title: "Comercial Yuehua"
 url: /barcelona/comercial-yuehua/
-shop: Lebensmittel
+shop: comodidad
 ---

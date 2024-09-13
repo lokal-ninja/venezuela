@@ -1,5 +1,5 @@
 ---
 title: "Bazar Dinafri"
 url: /caracas/bazar-dinafri/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

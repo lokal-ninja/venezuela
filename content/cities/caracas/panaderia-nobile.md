@@ -1,5 +1,5 @@
 ---
 title: "Panadería Nobile"
 url: /caracas/panaderia-nobile/
-shop: Bäckerei
+shop: panadería
 ---

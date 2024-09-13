@@ -1,5 +1,5 @@
 ---
 title: "Miles lubricantes"
 url: /barcelona/miles-lubricantes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JUMP"
 url: /ciudad-guayana-puerto-ordaz/jump/
-shop: Schuhe
+shop: zapatos
 ---

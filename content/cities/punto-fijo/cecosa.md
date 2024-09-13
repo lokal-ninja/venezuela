@@ -1,5 +1,5 @@
 ---
 title: "Cecosa"
 url: /punto-fijo/cecosa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

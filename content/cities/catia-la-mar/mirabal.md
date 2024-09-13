@@ -1,5 +1,5 @@
 ---
 title: "Mirabal"
 url: /catia-la-mar/mirabal/
-shop: Autoteile
+shop: piezas de automóviles
 ---

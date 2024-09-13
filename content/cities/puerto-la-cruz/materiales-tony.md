@@ -1,5 +1,5 @@
 ---
 title: "Materiales Tony"
 url: /puerto-la-cruz/materiales-tony/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

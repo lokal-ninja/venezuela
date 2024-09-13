@@ -1,5 +1,5 @@
 ---
 title: "Outlet"
 url: /barcelona/outlet/
-shop: Kleidung
+shop: ropa
 ---

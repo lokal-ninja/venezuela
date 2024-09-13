@@ -1,5 +1,5 @@
 ---
 title: "Moto oriente"
 url: /puerto-la-cruz/moto-oriente/
-shop: Motorrad
+shop: motocicleta
 ---

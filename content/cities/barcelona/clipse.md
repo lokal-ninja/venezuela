@@ -1,5 +1,5 @@
 ---
 title: "clipse"
 url: /barcelona/clipse/
-shop: Autoteile
+shop: piezas de automóviles
 ---

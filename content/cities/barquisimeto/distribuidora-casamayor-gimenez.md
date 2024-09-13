@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Casamayor Gimenez"
 url: /barquisimeto/distribuidora-casamayor-gimenez/
-shop: Spirituosen
+shop: alcohol
 ---

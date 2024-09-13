@@ -1,5 +1,5 @@
 ---
 title: "axalta"
 url: /puerto-la-cruz/axalta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

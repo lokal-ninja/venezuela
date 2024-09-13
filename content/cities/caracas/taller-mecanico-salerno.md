@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecánico Salerno"
 url: /caracas/taller-mecanico-salerno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

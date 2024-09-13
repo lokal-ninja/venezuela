@@ -1,5 +1,5 @@
 ---
 title: "preca"
 url: /barcelona/preca/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

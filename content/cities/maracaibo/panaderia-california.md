@@ -1,5 +1,5 @@
 ---
 title: "Panadería California"
 url: /maracaibo/panaderia-california/
-shop: Bäckerei
+shop: panadería
 ---

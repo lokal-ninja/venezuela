@@ -1,5 +1,5 @@
 ---
 title: "Avelino"
 url: /caracas/avelino/
-shop: Lebensmittel
+shop: comodidad
 ---

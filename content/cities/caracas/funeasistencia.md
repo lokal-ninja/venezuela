@@ -1,5 +1,5 @@
 ---
 title: "Funeasistencia"
 url: /caracas/funeasistencia/
-shop: Bestattungen
+shop: directores de funerarias
 ---

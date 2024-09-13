@@ -1,5 +1,5 @@
 ---
 title: "Autocamiones del Llano"
 url: /calabozo/autocamiones-del-llano/
-shop: Autohaus
+shop: coche
 ---

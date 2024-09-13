@@ -1,5 +1,5 @@
 ---
 title: "Jvsoluciones"
 url: /valencia/jvsoluciones/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /caracas/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

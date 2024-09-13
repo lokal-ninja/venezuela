@@ -1,5 +1,5 @@
 ---
 title: "Kamila"
 url: /puerto-la-cruz/kamila/
-shop: Kleidung
+shop: ropa
 ---

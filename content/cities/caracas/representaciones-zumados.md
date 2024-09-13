@@ -1,5 +1,5 @@
 ---
 title: "Representaciones Zumados"
 url: /caracas/representaciones-zumados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

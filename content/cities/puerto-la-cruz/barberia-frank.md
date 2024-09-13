@@ -1,5 +1,5 @@
 ---
 title: "Barbería Frank"
 url: /puerto-la-cruz/barberia-frank/
-shop: Friseur
+shop: peluquería
 ---

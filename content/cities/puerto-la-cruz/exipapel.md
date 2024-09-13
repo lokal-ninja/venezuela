@@ -1,5 +1,5 @@
 ---
 title: "Exipapel"
 url: /puerto-la-cruz/exipapel/
-shop: Schreibwaren
+shop: material de oficina
 ---

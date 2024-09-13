@@ -1,5 +1,5 @@
 ---
 title: "Tacagua"
 url: /catia-la-mar/tacagua/
-shop: Autoteile
+shop: piezas de automóviles
 ---

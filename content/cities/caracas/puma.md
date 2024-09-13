@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /caracas/puma/
-shop: Schuhe
+shop: zapatos
 ---

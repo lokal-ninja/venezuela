@@ -1,5 +1,5 @@
 ---
 title: "san Miguel"
 url: /barcelona/san-miguel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora ficosa"
 url: /barcelona/distribuidora-ficosa/
-shop: Eisenwaren
+shop: hardware
 ---

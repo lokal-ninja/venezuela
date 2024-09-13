@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios El Rombito"
 url: /caracas/multiservicios-el-rombito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

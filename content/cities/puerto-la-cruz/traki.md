@@ -1,5 +1,5 @@
 ---
 title: "Traki"
 url: /puerto-la-cruz/traki/
-shop: Warenhaus
+shop: grandes almacenes
 ---

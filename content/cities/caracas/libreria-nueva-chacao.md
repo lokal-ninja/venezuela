@@ -1,5 +1,5 @@
 ---
 title: "Librería Nueva Chacao"
 url: /caracas/libreria-nueva-chacao/
-shop: Bücher
+shop: libros
 ---

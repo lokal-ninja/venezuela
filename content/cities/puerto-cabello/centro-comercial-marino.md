@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Mariño"
 url: /puerto-cabello/centro-comercial-marino/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

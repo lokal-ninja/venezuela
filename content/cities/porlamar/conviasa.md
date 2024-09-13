@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /porlamar/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C.C La Ponderosa"
 url: /los-teques/c-c-la-ponderosa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

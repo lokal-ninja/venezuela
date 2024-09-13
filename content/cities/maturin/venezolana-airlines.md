@@ -1,5 +1,5 @@
 ---
 title: "Venezolana Airlines"
 url: /maturin/venezolana-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

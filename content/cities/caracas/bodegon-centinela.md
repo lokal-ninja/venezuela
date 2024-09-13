@@ -1,5 +1,5 @@
 ---
 title: "Bodegón Centinela"
 url: /caracas/bodegon-centinela/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oficentro"
 url: /puerto-la-cruz/oficentro/
-shop: Schreibwaren
+shop: material de oficina
 ---

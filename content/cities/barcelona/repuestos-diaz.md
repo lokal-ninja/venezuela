@@ -1,5 +1,5 @@
 ---
 title: "repuestos diaz"
 url: /barcelona/repuestos-diaz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

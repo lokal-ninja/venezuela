@@ -1,5 +1,5 @@
 ---
 title: "Tigasco"
 url: /ciudad-guayana-puerto-ordaz/tigasco/
-shop: Gasflaschen
+shop: gas
 ---

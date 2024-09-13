@@ -1,5 +1,5 @@
 ---
 title: "FerreXpress"
 url: /ciudad-guayana-puerto-ordaz/ferrexpress/
-shop: Eisenwaren
+shop: hardware
 ---

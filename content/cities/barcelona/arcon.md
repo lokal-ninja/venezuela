@@ -1,5 +1,5 @@
 ---
 title: "arcon"
 url: /barcelona/arcon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

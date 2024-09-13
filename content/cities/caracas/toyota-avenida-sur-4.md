@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /caracas/toyota-avenida-sur-4/
-shop: Autohaus
+shop: coche
 ---

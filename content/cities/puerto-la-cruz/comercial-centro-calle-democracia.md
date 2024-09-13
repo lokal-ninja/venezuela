@@ -1,5 +1,5 @@
 ---
 title: "Comercial centro"
 url: /puerto-la-cruz/comercial-centro-calle-democracia/
-shop: Lebensmittel
+shop: comodidad
 ---

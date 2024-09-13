@@ -1,5 +1,5 @@
 ---
 title: "grupo punto com"
 url: /barcelona/grupo-punto-com/
-shop: Autoteile
+shop: piezas de automóviles
 ---

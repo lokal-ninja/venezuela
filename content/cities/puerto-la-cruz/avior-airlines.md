@@ -1,5 +1,5 @@
 ---
 title: "Avior Airlines"
 url: /puerto-la-cruz/avior-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

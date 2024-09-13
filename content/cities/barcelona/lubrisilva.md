@@ -1,5 +1,5 @@
 ---
 title: "Lubrisilva"
 url: /barcelona/lubrisilva/
-shop: Autoteile
+shop: piezas de automóviles
 ---

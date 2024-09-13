@@ -1,5 +1,5 @@
 ---
 title: "Ángel"
 url: /barcelona/angel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

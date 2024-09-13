@@ -1,5 +1,5 @@
 ---
 title: "Toyomacho"
 url: /lecheria/toyomacho/
-shop: Autoteile
+shop: piezas de automóviles
 ---

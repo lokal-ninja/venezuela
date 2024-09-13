@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Monte Sinaí"
 url: /calabozo/funeraria-monte-sinai/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Soloaire"
 url: /caracas/soloaire/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

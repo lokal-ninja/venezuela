@@ -1,5 +1,5 @@
 ---
 title: "Audio Video Almart"
 url: /caracas/audio-video-almart/
-shop: Elektronik
+shop: electrónica
 ---

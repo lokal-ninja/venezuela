@@ -1,5 +1,5 @@
 ---
 title: "radiadores mazzarela"
 url: /puerto-la-cruz/radiadores-mazzarela/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

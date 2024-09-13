@@ -1,5 +1,5 @@
 ---
 title: "Gama"
 url: /caracas/gama/
-shop: Supermarkt
+shop: supermercado
 ---

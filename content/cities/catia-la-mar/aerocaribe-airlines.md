@@ -1,5 +1,5 @@
 ---
 title: "AeroCaribe Airlines"
 url: /catia-la-mar/aerocaribe-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

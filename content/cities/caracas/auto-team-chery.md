@@ -1,5 +1,5 @@
 ---
 title: "Auto Team (Chery)"
 url: /caracas/auto-team-chery/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

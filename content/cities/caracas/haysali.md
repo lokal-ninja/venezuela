@@ -1,5 +1,5 @@
 ---
 title: "Haysali"
 url: /caracas/haysali/
-shop: Süßwaren
+shop: confitería
 ---

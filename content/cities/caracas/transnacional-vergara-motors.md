@@ -1,5 +1,5 @@
 ---
 title: "Transnacional Vergara Motors"
 url: /caracas/transnacional-vergara-motors/
-shop: Autohaus
+shop: coche
 ---

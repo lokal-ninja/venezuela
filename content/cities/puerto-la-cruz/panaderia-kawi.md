@@ -1,5 +1,5 @@
 ---
 title: "panadería kawi"
 url: /puerto-la-cruz/panaderia-kawi/
-shop: Bäckerei
+shop: panadería
 ---

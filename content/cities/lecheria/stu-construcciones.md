@@ -1,5 +1,5 @@
 ---
 title: "STU construcciones"
 url: /lecheria/stu-construcciones/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

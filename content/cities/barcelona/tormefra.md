@@ -1,5 +1,5 @@
 ---
 title: "Tormefra"
 url: /barcelona/tormefra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

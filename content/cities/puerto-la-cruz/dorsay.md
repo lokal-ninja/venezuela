@@ -1,5 +1,5 @@
 ---
 title: "Dorsay"
 url: /puerto-la-cruz/dorsay/
-shop: Warenhaus
+shop: grandes almacenes
 ---

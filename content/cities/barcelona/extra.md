@@ -1,5 +1,5 @@
 ---
 title: "extra"
 url: /barcelona/extra/
-shop: Schuhe
+shop: zapatos
 ---

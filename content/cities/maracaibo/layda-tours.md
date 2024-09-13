@@ -1,5 +1,5 @@
 ---
 title: "Layda Tours"
 url: /maracaibo/layda-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

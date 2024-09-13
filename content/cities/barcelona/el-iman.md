@@ -1,5 +1,5 @@
 ---
 title: "El imán"
 url: /barcelona/el-iman/
-shop: Parfümerie
+shop: perfumería
 ---

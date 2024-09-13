@@ -1,5 +1,5 @@
 ---
 title: "Los barriles"
 url: /barcelona/los-barriles/
-shop: Spirituosen
+shop: alcohol
 ---

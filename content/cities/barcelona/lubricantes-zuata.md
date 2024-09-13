@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Zuata"
 url: /barcelona/lubricantes-zuata/
-shop: Autoteile
+shop: piezas de automóviles
 ---

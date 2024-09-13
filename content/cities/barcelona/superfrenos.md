@@ -1,5 +1,5 @@
 ---
 title: "superfrenos"
 url: /barcelona/superfrenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

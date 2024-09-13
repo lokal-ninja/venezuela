@@ -1,5 +1,5 @@
 ---
 title: "Gloss"
 url: /ciudad-guayana-puerto-ordaz/gloss/
-shop: Kosmetik
+shop: cosméticos
 ---

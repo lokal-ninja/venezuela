@@ -1,5 +1,5 @@
 ---
 title: "Modusistema"
 url: /caracas/modusistema/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault Decaro Motors"
 url: /barquisimeto/renault-decaro-motors/
-shop: Autohaus
+shop: coche
 ---

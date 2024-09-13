@@ -1,5 +1,5 @@
 ---
 title: "Licorería Comercial Josedit"
 url: /caracas/licoreria-comercial-josedit/
-shop: Spirituosen
+shop: alcohol
 ---

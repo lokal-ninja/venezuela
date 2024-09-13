@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Menfi"
 url: /caracas/inversiones-menfi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricar"
 url: /caracas/lubricar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

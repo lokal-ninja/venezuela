@@ -1,5 +1,5 @@
 ---
 title: "hyper repuestos"
 url: /barcelona/hyper-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

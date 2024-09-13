@@ -1,5 +1,5 @@
 ---
 title: "Funeraria popular"
 url: /barcelona/funeraria-popular/
-shop: Bestattungen
+shop: directores de funerarias
 ---

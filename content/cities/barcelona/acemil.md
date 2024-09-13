@@ -1,5 +1,5 @@
 ---
 title: "acemil"
 url: /barcelona/acemil/
-shop: Autoteile
+shop: piezas de automóviles
 ---

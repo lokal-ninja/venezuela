@@ -1,5 +1,5 @@
 ---
 title: "BIANCO"
 url: /maracaibo/bianco/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

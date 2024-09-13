@@ -1,5 +1,5 @@
 ---
 title: "Ford Max"
 url: /caracas/ford-max/
-shop: Autoteile
+shop: piezas de automóviles
 ---

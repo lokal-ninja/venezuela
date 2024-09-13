@@ -1,5 +1,5 @@
 ---
 title: "100% Blindaje"
 url: /caracas/100-blindaje/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jet Caucho"
 url: /caracas/jet-caucho/
-shop: Reifen
+shop: neumáticos
 ---

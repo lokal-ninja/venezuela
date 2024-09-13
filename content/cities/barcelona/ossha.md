@@ -1,5 +1,5 @@
 ---
 title: "Ossha"
 url: /barcelona/ossha/
-shop: Lebensmittel
+shop: comodidad
 ---

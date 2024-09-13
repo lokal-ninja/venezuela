@@ -1,5 +1,5 @@
 ---
 title: "Camargos Elegance"
 url: /caracas/camargos-elegance/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mocans"
 url: /barcelona/mocans/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Konga"
 url: /puerto-la-cruz/konga/
-shop: Kleidung
+shop: ropa
 ---

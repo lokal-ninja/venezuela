@@ -1,5 +1,5 @@
 ---
 title: "Showcolate"
 url: /ciudad-guayana-puerto-ordaz/showcolate/
-shop: Süßwaren
+shop: confitería
 ---

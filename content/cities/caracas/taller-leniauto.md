@@ -1,5 +1,5 @@
 ---
 title: "Taller Leniauto"
 url: /caracas/taller-leniauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

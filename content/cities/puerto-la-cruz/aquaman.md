@@ -1,5 +1,5 @@
 ---
 title: "aquaman"
 url: /puerto-la-cruz/aquaman/
-shop: Spirituosen
+shop: alcohol
 ---

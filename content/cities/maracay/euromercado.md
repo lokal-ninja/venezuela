@@ -1,5 +1,5 @@
 ---
 title: "Euromercado"
 url: /maracay/euromercado/
-shop: Supermarkt
+shop: supermercado
 ---

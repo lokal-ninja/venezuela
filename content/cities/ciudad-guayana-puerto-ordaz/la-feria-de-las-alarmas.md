@@ -1,5 +1,5 @@
 ---
 title: "La Feria de Las Alarmas"
 url: /ciudad-guayana-puerto-ordaz/la-feria-de-las-alarmas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

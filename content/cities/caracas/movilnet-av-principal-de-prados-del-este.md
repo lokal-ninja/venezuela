@@ -1,5 +1,5 @@
 ---
 title: "Movilnet"
 url: /caracas/movilnet-av-principal-de-prados-del-este/
-shop: Handy
+shop: teléfono móvil
 ---

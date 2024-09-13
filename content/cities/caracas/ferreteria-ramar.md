@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ramar"
 url: /caracas/ferreteria-ramar/
-shop: Eisenwaren
+shop: hardware
 ---

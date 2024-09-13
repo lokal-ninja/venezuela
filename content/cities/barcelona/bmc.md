@@ -1,5 +1,5 @@
 ---
 title: "bmc"
 url: /barcelona/bmc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

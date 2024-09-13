@@ -1,5 +1,5 @@
 ---
 title: "Chamburela"
 url: /caracas/chamburela/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

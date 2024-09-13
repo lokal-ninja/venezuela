@@ -1,5 +1,5 @@
 ---
 title: "indugomas"
 url: /puerto-la-cruz/indugomas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

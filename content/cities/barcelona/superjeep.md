@@ -1,5 +1,5 @@
 ---
 title: "superjeep"
 url: /barcelona/superjeep/
-shop: Autoteile
+shop: piezas de automóviles
 ---

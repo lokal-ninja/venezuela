@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Factory"
 url: /ciudad-guayana-puerto-ordaz/perfumes-factory/
-shop: Parfümerie
+shop: perfumería
 ---

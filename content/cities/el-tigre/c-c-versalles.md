@@ -1,5 +1,5 @@
 ---
 title: "C.C. Versalles"
 url: /el-tigre/c-c-versalles/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

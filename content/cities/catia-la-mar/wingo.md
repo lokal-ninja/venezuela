@@ -1,5 +1,5 @@
 ---
 title: "Wingo"
 url: /catia-la-mar/wingo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

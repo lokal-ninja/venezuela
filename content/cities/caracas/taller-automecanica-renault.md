@@ -1,5 +1,5 @@
 ---
 title: "Taller Automecanica Renault"
 url: /caracas/taller-automecanica-renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

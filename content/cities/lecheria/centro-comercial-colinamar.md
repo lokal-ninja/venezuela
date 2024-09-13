@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Colinamar"
 url: /lecheria/centro-comercial-colinamar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

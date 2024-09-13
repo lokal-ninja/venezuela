@@ -1,5 +1,5 @@
 ---
 title: "HK smicca"
 url: /lecheria/hk-smicca/
-shop: Handy
+shop: teléfono móvil
 ---

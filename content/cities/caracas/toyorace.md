@@ -1,5 +1,5 @@
 ---
 title: "Toyorace"
 url: /caracas/toyorace/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

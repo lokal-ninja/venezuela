@@ -1,5 +1,5 @@
 ---
 title: "móvil"
 url: /barcelona/movil/
-shop: Autoteile
+shop: piezas de automóviles
 ---

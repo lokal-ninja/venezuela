@@ -1,5 +1,5 @@
 ---
 title: "Honey"
 url: /ciudad-guayana-puerto-ordaz/honey/
-shop: Konditorei
+shop: pastelería
 ---

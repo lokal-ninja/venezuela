@@ -1,5 +1,5 @@
 ---
 title: "Autoca"
 url: /lecheria/autoca/
-shop: Autohaus
+shop: coche
 ---

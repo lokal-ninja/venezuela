@@ -1,5 +1,5 @@
 ---
 title: "FerreKsa"
 url: /lecheria/ferreksa/
-shop: Eisenwaren
+shop: hardware
 ---

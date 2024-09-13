@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Center"
 url: /catia-la-mar/atlantic-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

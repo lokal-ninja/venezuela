@@ -1,5 +1,5 @@
 ---
 title: "jazmín"
 url: /barcelona/jazmin/
-shop: Bäckerei
+shop: panadería
 ---

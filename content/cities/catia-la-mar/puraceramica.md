@@ -1,5 +1,5 @@
 ---
 title: "Puracerámica"
 url: /catia-la-mar/puraceramica/
-shop: Baustoffe
+shop: comercio
 ---

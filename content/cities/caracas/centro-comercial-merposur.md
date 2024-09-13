@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Merposur"
 url: /caracas/centro-comercial-merposur/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

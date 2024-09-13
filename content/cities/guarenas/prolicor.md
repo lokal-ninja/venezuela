@@ -1,5 +1,5 @@
 ---
 title: "Prolicor"
 url: /guarenas/prolicor/
-shop: Spirituosen
+shop: alcohol
 ---

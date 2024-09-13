@@ -1,5 +1,5 @@
 ---
 title: "MIDAS"
 url: /caracas/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "tecnorines siglo XXI"
 url: /puerto-la-cruz/tecnorines-siglo-xxi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

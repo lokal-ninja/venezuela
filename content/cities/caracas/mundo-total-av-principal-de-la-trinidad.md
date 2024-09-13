@@ -1,5 +1,5 @@
 ---
 title: "Mundo Total"
 url: /caracas/mundo-total-av-principal-de-la-trinidad/
-shop: Warenhaus
+shop: grandes almacenes
 ---

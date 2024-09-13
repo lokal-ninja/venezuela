@@ -1,5 +1,5 @@
 ---
 title: "Materiales Barroco"
 url: /caracas/materiales-barroco/
-shop: Baustoffe
+shop: comercio
 ---

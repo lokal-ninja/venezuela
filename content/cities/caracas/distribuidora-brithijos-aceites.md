@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Brithijos (Aceites)"
 url: /caracas/distribuidora-brithijos-aceites/
-shop: Autoteile
+shop: piezas de automóviles
 ---

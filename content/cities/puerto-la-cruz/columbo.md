@@ -1,5 +1,5 @@
 ---
 title: "Columbo"
 url: /puerto-la-cruz/columbo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

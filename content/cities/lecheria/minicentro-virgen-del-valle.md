@@ -1,5 +1,5 @@
 ---
 title: "Minicentro virgen del valle"
 url: /lecheria/minicentro-virgen-del-valle/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

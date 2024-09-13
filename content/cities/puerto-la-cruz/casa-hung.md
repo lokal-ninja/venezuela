@@ -1,5 +1,5 @@
 ---
 title: "Casa hung"
 url: /puerto-la-cruz/casa-hung/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abstracta"
 url: /caracas/abstracta/
-shop: Möbel
+shop: muebles
 ---

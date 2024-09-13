@@ -1,5 +1,5 @@
 ---
 title: "Mundo mangueras"
 url: /barcelona/mundo-mangueras/
-shop: Autoteile
+shop: piezas de automóviles
 ---

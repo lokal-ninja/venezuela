@@ -1,5 +1,5 @@
 ---
 title: "Ofimarket"
 url: /lecheria/ofimarket/
-shop: Schreibwaren
+shop: material de oficina
 ---

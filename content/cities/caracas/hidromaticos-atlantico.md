@@ -1,5 +1,5 @@
 ---
 title: "Hidromáticos Atlántico"
 url: /caracas/hidromaticos-atlantico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metropolitana"
 url: /barquisimeto/metropolitana/
-shop: Bestattungen
+shop: directores de funerarias
 ---

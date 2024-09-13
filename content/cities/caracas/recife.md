@@ -1,5 +1,5 @@
 ---
 title: "Recife"
 url: /caracas/recife/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

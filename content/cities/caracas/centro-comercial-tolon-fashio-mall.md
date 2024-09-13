@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Tolón Fashio Mall"
 url: /caracas/centro-comercial-tolon-fashio-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

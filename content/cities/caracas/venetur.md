@@ -1,5 +1,5 @@
 ---
 title: "Venetur"
 url: /caracas/venetur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

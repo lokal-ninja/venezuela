@@ -1,5 +1,5 @@
 ---
 title: "Tugangaelectronica"
 url: /caracas/tugangaelectronica/
-shop: Elektronik
+shop: electrónica
 ---

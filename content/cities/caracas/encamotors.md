@@ -1,5 +1,5 @@
 ---
 title: "Encamotors"
 url: /caracas/encamotors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

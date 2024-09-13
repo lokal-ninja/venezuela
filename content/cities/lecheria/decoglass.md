@@ -1,5 +1,5 @@
 ---
 title: "Decoglass"
 url: /lecheria/decoglass/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /carupano/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

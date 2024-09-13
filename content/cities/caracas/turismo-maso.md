@@ -1,5 +1,5 @@
 ---
 title: "Turismo Maso"
 url: /caracas/turismo-maso/
-shop: Reisebüro
+shop: agencia de viajes
 ---

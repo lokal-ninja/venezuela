@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Cunsolo Finol"
 url: /san-rafael-del-mojan/centro-comercial-cunsolo-finol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Magdala"
 url: /caracas/panaderia-magdala/
-shop: Bäckerei
+shop: panadería
 ---

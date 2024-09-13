@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /caracas/chevrolet-av-romulo-gallegos/
-shop: Autohaus
+shop: coche
 ---

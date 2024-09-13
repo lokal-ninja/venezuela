@@ -1,5 +1,5 @@
 ---
 title: "Placacentro"
 url: /barcelona/placacentro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

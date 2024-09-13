@@ -1,5 +1,5 @@
 ---
 title: "Automercados Plaza's"
 url: /caracas/automercados-plazas-av-principal-de-alto-prado/
-shop: Supermarkt
+shop: supermercado
 ---

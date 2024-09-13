@@ -1,5 +1,5 @@
 ---
 title: "Susana fashion"
 url: /barcelona/susana-fashion/
-shop: Kleidung
+shop: ropa
 ---

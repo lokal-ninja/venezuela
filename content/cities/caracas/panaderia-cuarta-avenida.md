@@ -1,5 +1,5 @@
 ---
 title: "Panadería Cuarta Avenida"
 url: /caracas/panaderia-cuarta-avenida/
-shop: Bäckerei
+shop: panadería
 ---

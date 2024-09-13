@@ -1,5 +1,5 @@
 ---
 title: "Icegold"
 url: /barcelona/icegold/
-shop: Autoteile
+shop: piezas de automóviles
 ---

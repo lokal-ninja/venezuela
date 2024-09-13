@@ -1,5 +1,5 @@
 ---
 title: "Toy Manía"
 url: /caracas/toy-mania-boulevard-raul-leoni/
-shop: Spielzeug
+shop: juguetes
 ---

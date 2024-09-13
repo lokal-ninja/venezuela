@@ -1,5 +1,5 @@
 ---
 title: "Multirepuestos La Campiña"
 url: /caracas/multirepuestos-la-campina/
-shop: Autoteile
+shop: piezas de automóviles
 ---

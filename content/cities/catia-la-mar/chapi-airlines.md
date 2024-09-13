@@ -1,5 +1,5 @@
 ---
 title: "Chapi Airlines"
 url: /catia-la-mar/chapi-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

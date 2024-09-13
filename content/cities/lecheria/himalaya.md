@@ -1,5 +1,5 @@
 ---
 title: "Himalaya"
 url: /lecheria/himalaya/
-shop: Möbel
+shop: muebles
 ---

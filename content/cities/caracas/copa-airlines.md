@@ -1,5 +1,5 @@
 ---
 title: "Copa Airlines"
 url: /caracas/copa-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edificio Esege"
 url: /ciudad-guayana-puerto-ordaz/edificio-esege/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "onare"
 url: /barcelona/onare/
-shop: Autoteile
+shop: piezas de automóviles
 ---

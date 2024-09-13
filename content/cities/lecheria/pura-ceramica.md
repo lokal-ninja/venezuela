@@ -1,5 +1,5 @@
 ---
 title: "Pura cerámica"
 url: /lecheria/pura-ceramica/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

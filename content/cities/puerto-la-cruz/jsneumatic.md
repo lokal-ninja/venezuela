@@ -1,5 +1,5 @@
 ---
 title: "jsneumatic"
 url: /puerto-la-cruz/jsneumatic/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

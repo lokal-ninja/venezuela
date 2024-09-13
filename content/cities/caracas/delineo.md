@@ -1,5 +1,5 @@
 ---
 title: "Delineo"
 url: /caracas/delineo/
-shop: Lampen
+shop: lámparas
 ---

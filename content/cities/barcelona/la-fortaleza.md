@@ -1,5 +1,5 @@
 ---
 title: "La fortaleza"
 url: /barcelona/la-fortaleza/
-shop: Lebensmittel
+shop: comodidad
 ---

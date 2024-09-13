@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial Las gaviotas"
 url: /lecheria/centro-comercial-las-gaviotas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

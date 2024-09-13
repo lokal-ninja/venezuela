@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Los Ruices"
 url: /caracas/centro-comercial-los-ruices/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermarket seu"
 url: /puerto-la-cruz/supermarket-seu/
-shop: Lebensmittel
+shop: comodidad
 ---

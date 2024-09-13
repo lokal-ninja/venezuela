@@ -1,5 +1,5 @@
 ---
 title: "Pepe"
 url: /barcelona/pepe/
-shop: Spirituosen
+shop: alcohol
 ---

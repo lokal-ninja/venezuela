@@ -1,5 +1,5 @@
 ---
 title: "CLOVER"
 url: /ciudad-guayana-puerto-ordaz/clover/
-shop: Haushaltsgeräte
+shop: aparato
 ---

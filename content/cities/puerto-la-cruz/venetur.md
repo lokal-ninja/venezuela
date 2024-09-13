@@ -1,5 +1,5 @@
 ---
 title: "Venetur"
 url: /puerto-la-cruz/venetur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miradas"
 url: /barcelona/miradas/
-shop: Kosmetik
+shop: cosméticos
 ---

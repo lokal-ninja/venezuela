@@ -1,5 +1,5 @@
 ---
 title: "C.C. El Mercadito"
 url: /tinaquillo/c-c-el-mercadito/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

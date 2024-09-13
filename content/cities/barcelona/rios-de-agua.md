@@ -1,5 +1,5 @@
 ---
 title: "rios de agua"
 url: /barcelona/rios-de-agua/
-shop: Lebensmittel
+shop: comodidad
 ---

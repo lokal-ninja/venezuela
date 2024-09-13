@@ -1,5 +1,5 @@
 ---
 title: "Betsy"
 url: /caracas/betsy/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotriz Veneasia"
 url: /caracas/automotriz-veneasia/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miel boutique"
 url: /puerto-la-cruz/miel-boutique/
-shop: Kleidung
+shop: ropa
 ---

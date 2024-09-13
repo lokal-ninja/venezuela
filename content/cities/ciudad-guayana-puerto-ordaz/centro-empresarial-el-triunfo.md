@@ -1,5 +1,5 @@
 ---
 title: "Centro Empresarial El Triunfo"
 url: /ciudad-guayana-puerto-ordaz/centro-empresarial-el-triunfo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

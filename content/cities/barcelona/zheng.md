@@ -1,5 +1,5 @@
 ---
 title: "Zheng"
 url: /barcelona/zheng/
-shop: Lebensmittel
+shop: comodidad
 ---

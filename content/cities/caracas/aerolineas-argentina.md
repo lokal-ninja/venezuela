@@ -1,5 +1,5 @@
 ---
 title: "Aerolineas Argentina"
 url: /caracas/aerolineas-argentina/
-shop: Reisebüro
+shop: agencia de viajes
 ---

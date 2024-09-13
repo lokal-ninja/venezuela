@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /caracas/chery-av-francisco-de-miranda/
-shop: Autohaus
+shop: coche
 ---

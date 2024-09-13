@@ -1,5 +1,5 @@
 ---
 title: "veneluso"
 url: /barcelona/veneluso/
-shop: Wäscherei
+shop: lavandería
 ---

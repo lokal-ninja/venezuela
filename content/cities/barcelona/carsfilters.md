@@ -1,5 +1,5 @@
 ---
 title: "Carsfilters"
 url: /barcelona/carsfilters/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Happy Pan"
 url: /caracas/panaderia-happy-pan/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moscada"
 url: /puerto-la-cruz/moscada/
-shop: Lebensmittel
+shop: comodidad
 ---

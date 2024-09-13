@@ -1,5 +1,5 @@
 ---
 title: "Profamilia"
 url: /ciudad-guayana-puerto-ordaz/profamilia/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iberia"
 url: /caracas/iberia/
-shop: Reisebüro
+shop: agencia de viajes
 ---

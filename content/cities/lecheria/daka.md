@@ -1,5 +1,5 @@
 ---
 title: "DAKA"
 url: /lecheria/daka/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C.C. Costa del Sol"
 url: /la-guaira/c-c-costa-del-sol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

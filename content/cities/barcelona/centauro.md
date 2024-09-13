@@ -1,5 +1,5 @@
 ---
 title: "centauro"
 url: /barcelona/centauro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

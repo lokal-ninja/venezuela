@@ -1,5 +1,5 @@
 ---
 title: "aquarilo"
 url: /barcelona/aquarilo/
-shop: Lebensmittel
+shop: comodidad
 ---

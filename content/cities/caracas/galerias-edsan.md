@@ -1,5 +1,5 @@
 ---
 title: "Galerías Edsan"
 url: /caracas/galerias-edsan/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

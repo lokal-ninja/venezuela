@@ -1,5 +1,5 @@
 ---
 title: "Panadería Los Robles"
 url: /caracas/panaderia-los-robles/
-shop: Bäckerei
+shop: panadería
 ---

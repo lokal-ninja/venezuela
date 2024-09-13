@@ -1,5 +1,5 @@
 ---
 title: "Taller Oscar"
 url: /caracas/taller-oscar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

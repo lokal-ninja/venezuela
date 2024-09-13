@@ -1,5 +1,5 @@
 ---
 title: "Vivero Jardín Guayana, C.A."
 url: /ciudad-guayana-puerto-ordaz/vivero-jardin-guayana-c-a/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "rochas"
 url: /barcelona/rochas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

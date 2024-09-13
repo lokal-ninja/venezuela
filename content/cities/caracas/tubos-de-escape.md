@@ -1,5 +1,5 @@
 ---
 title: "Tubos de escape"
 url: /caracas/tubos-de-escape/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

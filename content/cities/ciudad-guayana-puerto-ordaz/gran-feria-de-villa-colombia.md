@@ -1,5 +1,5 @@
 ---
 title: "Gran Feria de Villa Colombia"
 url: /ciudad-guayana-puerto-ordaz/gran-feria-de-villa-colombia/
-shop: Gemüse & Obst
+shop: frutería
 ---

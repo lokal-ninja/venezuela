@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Esperanza"
 url: /ciudad-guayana-puerto-ordaz/funeraria-la-esperanza/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Racing"
 url: /lecheria/racing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

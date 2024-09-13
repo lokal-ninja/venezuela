@@ -1,5 +1,5 @@
 ---
 title: "Licorería Prolicor"
 url: /caracas/licoreria-prolicor-av-la-estancia/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gourmand"
 url: /caracas/gourmand/
-shop: Feinkost
+shop: charcutería
 ---

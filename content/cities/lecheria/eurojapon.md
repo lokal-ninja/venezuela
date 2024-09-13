@@ -1,5 +1,5 @@
 ---
 title: "Eurojapón"
 url: /lecheria/eurojapon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

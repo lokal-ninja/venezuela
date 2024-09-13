@@ -1,5 +1,5 @@
 ---
 title: "Deco ceramicas"
 url: /lecheria/deco-ceramicas/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

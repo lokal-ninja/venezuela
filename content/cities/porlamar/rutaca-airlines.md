@@ -1,5 +1,5 @@
 ---
 title: "Rutaca Airlines"
 url: /porlamar/rutaca-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santigomas"
 url: /barcelona/santigomas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

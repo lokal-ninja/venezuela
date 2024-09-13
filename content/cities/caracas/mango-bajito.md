@@ -1,5 +1,5 @@
 ---
 title: "Mango Bajito"
 url: /caracas/mango-bajito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

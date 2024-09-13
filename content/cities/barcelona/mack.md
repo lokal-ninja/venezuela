@@ -1,5 +1,5 @@
 ---
 title: "Mack"
 url: /barcelona/mack/
-shop: Autoteile
+shop: piezas de automóviles
 ---

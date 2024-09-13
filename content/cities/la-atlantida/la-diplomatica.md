@@ -1,5 +1,5 @@
 ---
 title: "La Diplomática"
 url: /la-atlantida/la-diplomatica/
-shop: Bestattungen
+shop: directores de funerarias
 ---

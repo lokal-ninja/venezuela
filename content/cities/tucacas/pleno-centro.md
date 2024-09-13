@@ -1,5 +1,5 @@
 ---
 title: "Pleno Centro"
 url: /tucacas/pleno-centro/
-shop: Lebensmittel
+shop: comodidad
 ---

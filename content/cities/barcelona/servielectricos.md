@@ -1,5 +1,5 @@
 ---
 title: "servielectricos"
 url: /barcelona/servielectricos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

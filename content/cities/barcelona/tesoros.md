@@ -1,5 +1,5 @@
 ---
 title: "tesoros"
 url: /barcelona/tesoros/
-shop: Spirituosen
+shop: alcohol
 ---

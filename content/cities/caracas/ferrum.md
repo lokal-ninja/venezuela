@@ -1,5 +1,5 @@
 ---
 title: "Ferrum"
 url: /caracas/ferrum/
-shop: Baustoffe
+shop: comercio
 ---

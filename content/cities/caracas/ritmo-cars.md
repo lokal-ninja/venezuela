@@ -1,5 +1,5 @@
 ---
 title: "Ritmo Cars"
 url: /caracas/ritmo-cars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

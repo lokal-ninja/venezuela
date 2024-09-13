@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /caracas/chery/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

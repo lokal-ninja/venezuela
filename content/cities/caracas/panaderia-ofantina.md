@@ -1,5 +1,5 @@
 ---
 title: "Panadería Ofantina"
 url: /caracas/panaderia-ofantina/
-shop: Bäckerei
+shop: panadería
 ---

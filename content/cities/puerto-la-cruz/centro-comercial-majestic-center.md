@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial majestic center"
 url: /puerto-la-cruz/centro-comercial-majestic-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

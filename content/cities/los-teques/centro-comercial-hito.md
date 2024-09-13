@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Hito"
 url: /los-teques/centro-comercial-hito/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

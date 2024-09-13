@@ -1,5 +1,5 @@
 ---
 title: "Alufran"
 url: /caracas/alufran/
-shop: Baustoffe
+shop: comercio
 ---

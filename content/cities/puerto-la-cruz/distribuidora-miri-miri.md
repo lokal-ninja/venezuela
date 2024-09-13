@@ -1,5 +1,5 @@
 ---
 title: "distribuidora miri miri"
 url: /puerto-la-cruz/distribuidora-miri-miri/
-shop: Metzgerei
+shop: carnicero
 ---

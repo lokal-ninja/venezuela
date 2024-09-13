@@ -1,5 +1,5 @@
 ---
 title: "Cachilandia"
 url: /caracas/cachilandia/
-shop: Feinkost
+shop: charcutería
 ---

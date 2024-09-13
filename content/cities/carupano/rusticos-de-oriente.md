@@ -1,5 +1,5 @@
 ---
 title: "Rusticos de Oriente"
 url: /carupano/rusticos-de-oriente/
-shop: Autohaus
+shop: coche
 ---

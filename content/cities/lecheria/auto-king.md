@@ -1,5 +1,5 @@
 ---
 title: "Auto king"
 url: /lecheria/auto-king/
-shop: Autoteile
+shop: piezas de automóviles
 ---

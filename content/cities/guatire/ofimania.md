@@ -1,5 +1,5 @@
 ---
 title: "Ofimanía"
 url: /guatire/ofimania/
-shop: Schreibwaren
+shop: material de oficina
 ---

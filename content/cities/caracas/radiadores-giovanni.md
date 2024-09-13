@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Giovanni"
 url: /caracas/radiadores-giovanni/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

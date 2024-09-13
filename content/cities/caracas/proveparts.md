@@ -1,5 +1,5 @@
 ---
 title: "Proveparts"
 url: /caracas/proveparts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

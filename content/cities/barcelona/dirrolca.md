@@ -1,5 +1,5 @@
 ---
 title: "Dirrolca"
 url: /barcelona/dirrolca/
-shop: Metzgerei
+shop: carnicero
 ---

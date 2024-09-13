@@ -1,5 +1,5 @@
 ---
 title: "Acapulco"
 url: /ciudad-guayana-puerto-ordaz/acapulco/
-shop: Kleidung
+shop: ropa
 ---

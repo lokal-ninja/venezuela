@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /caracas/pintacasa-av-san-martin/
-shop: Farben
+shop: pintura
 ---

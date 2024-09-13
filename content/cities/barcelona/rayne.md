@@ -1,5 +1,5 @@
 ---
 title: "rayne"
 url: /barcelona/rayne/
-shop: Autoteile
+shop: piezas de automóviles
 ---

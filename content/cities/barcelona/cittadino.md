@@ -1,5 +1,5 @@
 ---
 title: "cittadino"
 url: /barcelona/cittadino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

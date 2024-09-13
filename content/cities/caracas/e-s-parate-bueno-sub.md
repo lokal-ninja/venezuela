@@ -1,5 +1,5 @@
 ---
 title: "E/S Parate Bueno (SUB)"
 url: /caracas/e-s-parate-bueno-sub/
-shop: Allgemein
+shop: general
 ---

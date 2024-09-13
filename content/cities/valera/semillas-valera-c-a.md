@@ -1,5 +1,5 @@
 ---
 title: "SEMILLAS VALERA C.A."
 url: /valera/semillas-valera-c-a/
-shop: Lebensmittel
+shop: comodidad
 ---

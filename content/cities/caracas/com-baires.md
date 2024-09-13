@@ -1,5 +1,5 @@
 ---
 title: "Com.Baires"
 url: /caracas/com-baires/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

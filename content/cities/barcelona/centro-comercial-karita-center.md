@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial Karita center"
 url: /barcelona/centro-comercial-karita-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

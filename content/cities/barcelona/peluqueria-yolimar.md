@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Yolimar"
 url: /barcelona/peluqueria-yolimar/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial Eseve"
 url: /lecheria/centro-comercial-eseve/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

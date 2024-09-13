@@ -1,5 +1,5 @@
 ---
 title: "guaikiki"
 url: /barcelona/guaikiki/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El point"
 url: /lecheria/el-point/
-shop: Lebensmittel
+shop: comodidad
 ---

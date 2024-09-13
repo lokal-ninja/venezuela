@@ -1,5 +1,5 @@
 ---
 title: "overhaul"
 url: /barcelona/overhaul/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

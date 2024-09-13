@@ -1,5 +1,5 @@
 ---
 title: "Ferretotal"
 url: /caracas/ferretotal/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "licorería kfer"
 url: /puerto-la-cruz/licoreria-kfer/
-shop: Spirituosen
+shop: alcohol
 ---

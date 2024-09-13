@@ -1,5 +1,5 @@
 ---
 title: "la doñita"
 url: /barcelona/la-donita/
-shop: Lebensmittel
+shop: comodidad
 ---

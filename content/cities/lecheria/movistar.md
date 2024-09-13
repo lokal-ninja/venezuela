@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /lecheria/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

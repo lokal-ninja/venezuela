@@ -1,5 +1,5 @@
 ---
 title: "hidromáticos Portugal"
 url: /barcelona/hidromaticos-portugal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

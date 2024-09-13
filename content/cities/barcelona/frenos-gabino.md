@@ -1,5 +1,5 @@
 ---
 title: "Frenos Gabino"
 url: /barcelona/frenos-gabino/
-shop: Autoteile
+shop: piezas de automóviles
 ---

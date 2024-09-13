@@ -1,5 +1,5 @@
 ---
 title: "reparación"
 url: /barcelona/reparacion/
-shop: Elektronik
+shop: electrónica
 ---

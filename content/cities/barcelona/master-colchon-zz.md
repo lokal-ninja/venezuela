@@ -1,5 +1,5 @@
 ---
 title: "Master colchón zz"
 url: /barcelona/master-colchon-zz/
-shop: Möbel
+shop: muebles
 ---

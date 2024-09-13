@@ -1,5 +1,5 @@
 ---
 title: "Estación de Servicios Morán"
 url: /caracas/estacion-de-servicios-moran/
-shop: Autoteile
+shop: piezas de automóviles
 ---

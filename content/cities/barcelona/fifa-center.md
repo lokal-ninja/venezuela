@@ -1,5 +1,5 @@
 ---
 title: "Fifa center"
 url: /barcelona/fifa-center/
-shop: Kleidung
+shop: ropa
 ---

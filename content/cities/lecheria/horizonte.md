@@ -1,5 +1,5 @@
 ---
 title: "Horizonte"
 url: /lecheria/horizonte/
-shop: Bücher
+shop: libros
 ---

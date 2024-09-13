@@ -1,5 +1,5 @@
 ---
 title: "Valeo"
 url: /caracas/valeo/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hierrobeco"
 url: /caracas/hierrobeco/
-shop: Baustoffe
+shop: comercio
 ---

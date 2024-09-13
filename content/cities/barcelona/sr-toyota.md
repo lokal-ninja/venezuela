@@ -1,5 +1,5 @@
 ---
 title: "sr toyota"
 url: /barcelona/sr-toyota/
-shop: Autoteile
+shop: piezas de automóviles
 ---

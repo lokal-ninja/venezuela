@@ -1,5 +1,5 @@
 ---
 title: "Quo Vadis"
 url: /caracas/quo-vadis-av-eugenio-mendoza/
-shop: Reisebüro
+shop: agencia de viajes
 ---

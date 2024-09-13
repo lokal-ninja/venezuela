@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Pompas Laya"
 url: /cabudare/funeraria-pompas-laya/
-shop: Bestattungen
+shop: directores de funerarias
 ---

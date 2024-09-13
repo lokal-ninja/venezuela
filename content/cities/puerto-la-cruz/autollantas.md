@@ -1,5 +1,5 @@
 ---
 title: "autollantas"
 url: /puerto-la-cruz/autollantas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Latino"
 url: /maracaibo/latino/
-shop: Supermarkt
+shop: supermercado
 ---

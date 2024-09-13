@@ -1,5 +1,5 @@
 ---
 title: "Monster clean"
 url: /puerto-la-cruz/monster-clean/
-shop: Lebensmittel
+shop: comodidad
 ---

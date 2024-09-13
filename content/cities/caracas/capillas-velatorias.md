@@ -1,5 +1,5 @@
 ---
 title: "Capillas Velatorias"
 url: /caracas/capillas-velatorias/
-shop: Bestattungen
+shop: directores de funerarias
 ---

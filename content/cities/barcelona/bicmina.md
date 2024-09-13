@@ -1,5 +1,5 @@
 ---
 title: "bicmina"
 url: /barcelona/bicmina/
-shop: Fahrrad
+shop: bicicleta
 ---

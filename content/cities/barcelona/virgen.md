@@ -1,5 +1,5 @@
 ---
 title: "virgen"
 url: /barcelona/virgen/
-shop: Lebensmittel
+shop: comodidad
 ---

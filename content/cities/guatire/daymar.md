@@ -1,5 +1,5 @@
 ---
 title: "Daymar"
 url: /guatire/daymar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

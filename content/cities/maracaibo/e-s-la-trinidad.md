@@ -1,5 +1,5 @@
 ---
 title: "E/S La Trinidad"
 url: /maracaibo/e-s-la-trinidad/
-shop: Allgemein
+shop: general
 ---

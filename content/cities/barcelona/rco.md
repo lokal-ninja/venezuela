@@ -1,5 +1,5 @@
 ---
 title: "RCO"
 url: /barcelona/rco/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

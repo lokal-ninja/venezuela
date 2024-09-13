@@ -1,5 +1,5 @@
 ---
 title: "Mis Sobrinos"
 url: /pampanito/mis-sobrinos/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "nadales"
 url: /barcelona/nadales/
-shop: Autoteile
+shop: piezas de automóviles
 ---

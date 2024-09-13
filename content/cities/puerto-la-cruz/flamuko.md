@@ -1,5 +1,5 @@
 ---
 title: "Flamuko"
 url: /puerto-la-cruz/flamuko/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Duncan"
 url: /guarenas/servicentro-duncan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "el invencible"
 url: /puerto-la-cruz/el-invencible/
-shop: Lebensmittel
+shop: comodidad
 ---

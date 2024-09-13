@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Electroamper"
 url: /caracas/repuestos-electroamper/
-shop: Autoteile
+shop: piezas de automóviles
 ---

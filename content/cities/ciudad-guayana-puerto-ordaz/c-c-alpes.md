@@ -1,5 +1,5 @@
 ---
 title: "C.C. Alpes"
 url: /ciudad-guayana-puerto-ordaz/c-c-alpes/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

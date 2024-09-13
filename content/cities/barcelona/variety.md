@@ -1,5 +1,5 @@
 ---
 title: "Variety"
 url: /barcelona/variety/
-shop: Allgemein
+shop: general
 ---

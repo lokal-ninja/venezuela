@@ -1,5 +1,5 @@
 ---
 title: "latinos"
 url: /barcelona/latinos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

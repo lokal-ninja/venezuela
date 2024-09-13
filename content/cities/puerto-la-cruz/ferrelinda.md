@@ -1,5 +1,5 @@
 ---
 title: "Ferrelinda"
 url: /puerto-la-cruz/ferrelinda/
-shop: Eisenwaren
+shop: hardware
 ---

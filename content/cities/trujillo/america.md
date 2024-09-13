@@ -1,5 +1,5 @@
 ---
 title: "America"
 url: /trujillo/america/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

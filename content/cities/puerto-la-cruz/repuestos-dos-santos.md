@@ -1,5 +1,5 @@
 ---
 title: "repuestos dos santos"
 url: /puerto-la-cruz/repuestos-dos-santos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

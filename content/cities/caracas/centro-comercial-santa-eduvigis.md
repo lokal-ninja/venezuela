@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Santa Eduvigis"
 url: /caracas/centro-comercial-santa-eduvigis/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

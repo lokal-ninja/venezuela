@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /caracas/honda/
-shop: Autohaus
+shop: coche
 ---

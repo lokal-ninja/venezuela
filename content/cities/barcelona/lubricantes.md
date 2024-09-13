@@ -1,5 +1,5 @@
 ---
 title: "lubricantes"
 url: /barcelona/lubricantes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

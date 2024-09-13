@@ -1,5 +1,5 @@
 ---
 title: "mega repuestos 8000"
 url: /barcelona/mega-repuestos-8000/
-shop: Autoteile
+shop: piezas de automóviles
 ---

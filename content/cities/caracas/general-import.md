@@ -1,5 +1,5 @@
 ---
 title: "General import"
 url: /caracas/general-import/
-shop: Warenhaus
+shop: grandes almacenes
 ---

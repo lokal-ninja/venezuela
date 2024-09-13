@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes plaza mayor"
 url: /lecheria/lubricantes-plaza-mayor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

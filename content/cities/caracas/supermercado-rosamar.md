@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Rosamar"
 url: /caracas/supermercado-rosamar/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas"
 url: /caracas/parabrisas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

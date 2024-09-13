@@ -1,5 +1,5 @@
 ---
 title: "Panka Express"
 url: /ciudad-guayana-puerto-ordaz/panka-express/
-shop: Großhandel
+shop: mayorista
 ---

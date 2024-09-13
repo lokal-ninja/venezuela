@@ -1,5 +1,5 @@
 ---
 title: "Air Europa"
 url: /caracas/air-europa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

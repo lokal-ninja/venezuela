@@ -1,5 +1,5 @@
 ---
 title: "multiservicios automotriz gnv"
 url: /puerto-la-cruz/multiservicios-automotriz-gnv/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

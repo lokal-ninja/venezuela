@@ -1,5 +1,5 @@
 ---
 title: "Ajos chiro"
 url: /lecheria/ajos-chiro/
-shop: Lebensmittel
+shop: comodidad
 ---

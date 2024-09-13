@@ -1,5 +1,5 @@
 ---
 title: "Mascotilandia"
 url: /carupano/mascotilandia/
-shop: Tiere
+shop: mascotas
 ---

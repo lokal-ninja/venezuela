@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Monumental"
 url: /caracas/funeraria-monumental/
-shop: Bestattungen
+shop: directores de funerarias
 ---

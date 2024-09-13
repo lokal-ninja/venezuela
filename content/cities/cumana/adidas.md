@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /cumana/adidas/
-shop: Sport
+shop: deportes
 ---

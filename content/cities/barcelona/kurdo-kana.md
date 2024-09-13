@@ -1,5 +1,5 @@
 ---
 title: "kurdo kaña"
 url: /barcelona/kurdo-kana/
-shop: Spirituosen
+shop: alcohol
 ---

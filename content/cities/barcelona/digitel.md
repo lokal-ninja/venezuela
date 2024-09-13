@@ -1,5 +1,5 @@
 ---
 title: "digitel"
 url: /barcelona/digitel/
-shop: Handy
+shop: teléfono móvil
 ---

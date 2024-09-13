@@ -1,5 +1,5 @@
 ---
 title: "Naturillas"
 url: /barquisimeto/naturillas/
-shop: Kramladen
+shop: tienda de variedades
 ---

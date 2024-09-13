@@ -1,5 +1,5 @@
 ---
 title: "Automercado Luz Quick"
 url: /caracas/automercado-luz-quick/
-shop: Supermarkt
+shop: supermercado
 ---

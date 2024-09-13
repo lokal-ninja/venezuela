@@ -1,5 +1,5 @@
 ---
 title: "Tecabar"
 url: /barcelona/tecabar/
-shop: Elektrisch
+shop: eléctrico
 ---

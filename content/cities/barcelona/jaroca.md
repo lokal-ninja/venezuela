@@ -1,5 +1,5 @@
 ---
 title: "jaroca"
 url: /barcelona/jaroca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

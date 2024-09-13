@@ -1,5 +1,5 @@
 ---
 title: "Albatros Airlines"
 url: /catia-la-mar/albatros-airlines-via-embarque-y-desembarque-del-terminal-nacional/
-shop: Reisebüro
+shop: agencia de viajes
 ---

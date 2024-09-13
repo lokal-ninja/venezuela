@@ -1,5 +1,5 @@
 ---
 title: "Mercal"
 url: /guarenas/mercal/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial mar azul"
 url: /lecheria/centro-comercial-mar-azul/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

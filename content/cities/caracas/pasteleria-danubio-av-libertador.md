@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Danubio"
 url: /caracas/pasteleria-danubio-av-libertador/
-shop: Konditorei
+shop: pastelería
 ---

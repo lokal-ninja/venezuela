@@ -1,5 +1,5 @@
 ---
 title: "Silenciadores Daytona"
 url: /caracas/silenciadores-daytona/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

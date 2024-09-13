@@ -1,5 +1,5 @@
 ---
 title: "Panadería Victoria Deli"
 url: /caracas/panaderia-victoria-deli/
-shop: Bäckerei
+shop: panadería
 ---

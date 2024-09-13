@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /caracas/goodyear/
-shop: Reifen
+shop: neumáticos
 ---

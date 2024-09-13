@@ -1,5 +1,5 @@
 ---
 title: "Venetur"
 url: /catia-la-mar/venetur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

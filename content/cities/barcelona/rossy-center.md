@@ -1,5 +1,5 @@
 ---
 title: "Rossy center"
 url: /barcelona/rossy-center/
-shop: Kleidung
+shop: ropa
 ---

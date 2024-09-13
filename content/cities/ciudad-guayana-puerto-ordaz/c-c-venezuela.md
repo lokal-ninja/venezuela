@@ -1,5 +1,5 @@
 ---
 title: "C.C. Venezuela"
 url: /ciudad-guayana-puerto-ordaz/c-c-venezuela/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

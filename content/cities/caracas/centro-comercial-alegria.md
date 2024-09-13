@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Alegría"
 url: /caracas/centro-comercial-alegria/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

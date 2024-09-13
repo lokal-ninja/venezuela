@@ -1,5 +1,5 @@
 ---
 title: "Allegro"
 url: /caracas/allegro/
-shop: Instrumente
+shop: instrumento musical
 ---

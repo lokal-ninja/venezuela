@@ -1,5 +1,5 @@
 ---
 title: "El Ancla"
 url: /punto-fijo/el-ancla/
-shop: Eisenwaren
+shop: hardware
 ---

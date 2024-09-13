@@ -1,5 +1,5 @@
 ---
 title: "almajos"
 url: /barcelona/almajos/
-shop: Eisenwaren
+shop: hardware
 ---

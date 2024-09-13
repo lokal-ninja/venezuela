@@ -1,5 +1,5 @@
 ---
 title: "Peli"
 url: /lecheria/peli/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

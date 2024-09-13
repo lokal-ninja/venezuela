@@ -1,5 +1,5 @@
 ---
 title: "Pronto"
 url: /caracas/pronto/
-shop: Kleidung
+shop: ropa
 ---

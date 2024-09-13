@@ -1,5 +1,5 @@
 ---
 title: "C.C. Nueva Esparta"
 url: /lecherias/c-c-nueva-esparta/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

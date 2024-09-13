@@ -1,5 +1,5 @@
 ---
 title: "Confilandia"
 url: /ciudad-guayana-puerto-ordaz/confilandia/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copa Airlines"
 url: /valencia/copa-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

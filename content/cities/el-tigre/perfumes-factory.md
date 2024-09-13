@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Factory"
 url: /el-tigre/perfumes-factory/
-shop: Parfümerie
+shop: perfumería
 ---

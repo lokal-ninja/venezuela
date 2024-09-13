@@ -1,5 +1,5 @@
 ---
 title: "Minicentro comercial la flor"
 url: /puerto-la-cruz/minicentro-comercial-la-flor/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

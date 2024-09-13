@@ -1,5 +1,5 @@
 ---
 title: "autoglass"
 url: /barcelona/autoglass/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "el chino"
 url: /barcelona/el-chino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloquera Altamira"
 url: /puerto-la-cruz/bloquera-altamira/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

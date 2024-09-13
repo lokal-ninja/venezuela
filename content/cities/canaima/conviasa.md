@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /canaima/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

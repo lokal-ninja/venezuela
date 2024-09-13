@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial El Cafetal"
 url: /caracas/centro-comercial-el-cafetal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

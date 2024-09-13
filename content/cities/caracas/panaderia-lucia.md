@@ -1,5 +1,5 @@
 ---
 title: "Panadería Lucía"
 url: /caracas/panaderia-lucia/
-shop: Bäckerei
+shop: panadería
 ---

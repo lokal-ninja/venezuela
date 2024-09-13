@@ -1,5 +1,5 @@
 ---
 title: "Ferrequero"
 url: /barcelona/ferrequero/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

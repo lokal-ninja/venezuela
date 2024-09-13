@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial Paty"
 url: /lecheria/centro-comercial-paty/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

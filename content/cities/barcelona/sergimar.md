@@ -1,5 +1,5 @@
 ---
 title: "Sergimar"
 url: /barcelona/sergimar/
-shop: Schreibwaren
+shop: material de oficina
 ---

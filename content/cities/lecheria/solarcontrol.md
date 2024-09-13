@@ -1,5 +1,5 @@
 ---
 title: "Solarcontrol"
 url: /lecheria/solarcontrol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

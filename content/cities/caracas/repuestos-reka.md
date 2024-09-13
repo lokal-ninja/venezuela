@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Reka"
 url: /caracas/repuestos-reka/
-shop: Autoteile
+shop: piezas de automóviles
 ---

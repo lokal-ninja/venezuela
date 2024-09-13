@@ -1,5 +1,5 @@
 ---
 title: "C.C. Humboldt"
 url: /cumana/c-c-humboldt/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

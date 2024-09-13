@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
 url: /merida/laser-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

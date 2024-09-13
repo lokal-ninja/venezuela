@@ -1,5 +1,5 @@
 ---
 title: "Aqua fina II"
 url: /barcelona/aqua-fina-ii/
-shop: Lebensmittel
+shop: comodidad
 ---

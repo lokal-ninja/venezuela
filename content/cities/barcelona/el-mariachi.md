@@ -1,5 +1,5 @@
 ---
 title: "el mariachi"
 url: /barcelona/el-mariachi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

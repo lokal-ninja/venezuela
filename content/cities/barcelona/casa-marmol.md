@@ -1,5 +1,5 @@
 ---
 title: "casa mármol"
 url: /barcelona/casa-marmol/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

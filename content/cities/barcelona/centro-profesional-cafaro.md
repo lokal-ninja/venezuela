@@ -1,5 +1,5 @@
 ---
 title: "Centro profesional Cafaro"
 url: /barcelona/centro-profesional-cafaro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

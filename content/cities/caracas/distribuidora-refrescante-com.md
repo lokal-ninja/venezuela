@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Refrescante.com"
 url: /caracas/distribuidora-refrescante-com/
-shop: Spirituosen
+shop: alcohol
 ---

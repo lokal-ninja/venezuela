@@ -1,5 +1,5 @@
 ---
 title: "Loucars"
 url: /guatire/loucars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

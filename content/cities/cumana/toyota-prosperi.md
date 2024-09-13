@@ -1,5 +1,5 @@
 ---
 title: "Toyota Prosperi"
 url: /cumana/toyota-prosperi/
-shop: Autohaus
+shop: coche
 ---

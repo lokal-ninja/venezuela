@@ -1,5 +1,5 @@
 ---
 title: "Gozosos"
 url: /barcelona/gozosos/
-shop: Spirituosen
+shop: alcohol
 ---

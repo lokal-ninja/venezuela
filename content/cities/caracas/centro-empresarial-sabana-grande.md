@@ -1,5 +1,5 @@
 ---
 title: "Centro Empresarial Sabana Grande"
 url: /caracas/centro-empresarial-sabana-grande/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

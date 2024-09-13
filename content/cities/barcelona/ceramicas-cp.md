@@ -1,5 +1,5 @@
 ---
 title: "Cerámicas cp"
 url: /barcelona/ceramicas-cp/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

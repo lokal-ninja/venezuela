@@ -1,5 +1,5 @@
 ---
 title: "La gran parada"
 url: /barcelona/la-gran-parada/
-shop: Spirituosen
+shop: alcohol
 ---

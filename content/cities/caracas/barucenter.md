@@ -1,5 +1,5 @@
 ---
 title: "Barucenter"
 url: /caracas/barucenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

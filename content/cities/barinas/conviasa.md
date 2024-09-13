@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /barinas/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

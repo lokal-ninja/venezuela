@@ -1,5 +1,5 @@
 ---
 title: "Balú"
 url: /caracas/balu/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MAG"
 url: /lecheria/mag/
-shop: Friseur
+shop: peluquería
 ---

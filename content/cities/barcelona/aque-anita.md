@@ -1,5 +1,5 @@
 ---
 title: "aque Anita"
 url: /barcelona/aque-anita/
-shop: Lebensmittel
+shop: comodidad
 ---

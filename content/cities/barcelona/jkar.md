@@ -1,5 +1,5 @@
 ---
 title: "JKAR"
 url: /barcelona/jkar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

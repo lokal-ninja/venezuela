@@ -1,5 +1,5 @@
 ---
 title: "Ceramihogar"
 url: /la-guaira/ceramihogar/
-shop: Badezimmer
+shop: cuarto de baño
 ---

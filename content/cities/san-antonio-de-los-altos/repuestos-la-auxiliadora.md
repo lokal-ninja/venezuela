@@ -1,5 +1,5 @@
 ---
 title: "Repuestos La Auxiliadora"
 url: /san-antonio-de-los-altos/repuestos-la-auxiliadora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

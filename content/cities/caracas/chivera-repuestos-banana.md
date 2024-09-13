@@ -1,5 +1,5 @@
 ---
 title: "Chivera Repuestos Banana"
 url: /caracas/chivera-repuestos-banana/
-shop: Autoteile
+shop: piezas de automóviles
 ---

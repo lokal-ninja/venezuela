@@ -1,5 +1,5 @@
 ---
 title: "Nelly Samann"
 url: /el-tigre/nelly-samann/
-shop: Instrumente
+shop: instrumento musical
 ---

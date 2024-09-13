@@ -1,5 +1,5 @@
 ---
 title: "Eureka Shop"
 url: /ciudad-guayana-puerto-ordaz/eureka-shop/
-shop: Kosmetik
+shop: cosméticos
 ---

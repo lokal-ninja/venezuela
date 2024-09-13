@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Dieciocho"
 url: /barcelona/supermercado-dieciocho/
-shop: Lebensmittel
+shop: comodidad
 ---

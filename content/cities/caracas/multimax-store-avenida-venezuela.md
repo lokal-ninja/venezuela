@@ -1,5 +1,5 @@
 ---
 title: "Multimax Store"
 url: /caracas/multimax-store-avenida-venezuela/
-shop: Elektronik
+shop: electrónica
 ---

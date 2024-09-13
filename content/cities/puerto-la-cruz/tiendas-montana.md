@@ -1,5 +1,5 @@
 ---
 title: "tiendas montana"
 url: /puerto-la-cruz/tiendas-montana/
-shop: Farben
+shop: pintura
 ---

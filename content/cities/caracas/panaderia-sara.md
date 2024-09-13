@@ -1,5 +1,5 @@
 ---
 title: "Panadería Sara"
 url: /caracas/panaderia-sara/
-shop: Bäckerei
+shop: panadería
 ---

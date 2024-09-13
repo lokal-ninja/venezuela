@@ -1,5 +1,5 @@
 ---
 title: "Centro automotriz Lechería"
 url: /lecheria/centro-automotriz-lecheria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

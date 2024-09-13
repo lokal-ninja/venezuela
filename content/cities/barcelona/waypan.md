@@ -1,5 +1,5 @@
 ---
 title: "Waypan"
 url: /barcelona/waypan/
-shop: Bäckerei
+shop: panadería
 ---

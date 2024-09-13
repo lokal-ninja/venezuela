@@ -1,5 +1,5 @@
 ---
 title: "Traki"
 url: /valera/traki/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyo Parts"
 url: /caracas/toyo-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

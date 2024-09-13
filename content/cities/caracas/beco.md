@@ -1,5 +1,5 @@
 ---
 title: "Beco"
 url: /caracas/beco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

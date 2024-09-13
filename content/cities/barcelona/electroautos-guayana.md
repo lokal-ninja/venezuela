@@ -1,5 +1,5 @@
 ---
 title: "Electroautos Guayana"
 url: /barcelona/electroautos-guayana/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

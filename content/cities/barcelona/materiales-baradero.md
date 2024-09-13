@@ -1,5 +1,5 @@
 ---
 title: "Materiales Baradero"
 url: /barcelona/materiales-baradero/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

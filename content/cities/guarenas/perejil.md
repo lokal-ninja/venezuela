@@ -1,5 +1,5 @@
 ---
 title: "Perejil"
 url: /guarenas/perejil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

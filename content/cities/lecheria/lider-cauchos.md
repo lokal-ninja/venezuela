@@ -1,5 +1,5 @@
 ---
 title: "Lider cauchos"
 url: /lecheria/lider-cauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

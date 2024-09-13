@@ -1,5 +1,5 @@
 ---
 title: "Siemagar"
 url: /caracas/siemagar/
-shop: Radiotechnik
+shop: radiotecnia
 ---

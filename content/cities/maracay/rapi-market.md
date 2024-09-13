@@ -1,5 +1,5 @@
 ---
 title: "Rapi Market"
 url: /maracay/rapi-market/
-shop: Supermarkt
+shop: supermercado
 ---

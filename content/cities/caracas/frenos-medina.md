@@ -1,5 +1,5 @@
 ---
 title: "Frenos Medina"
 url: /caracas/frenos-medina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

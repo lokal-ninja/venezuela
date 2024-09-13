@@ -1,5 +1,5 @@
 ---
 title: "Merce Repuesto"
 url: /caracas/merce-repuesto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

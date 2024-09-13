@@ -1,5 +1,5 @@
 ---
 title: "Pollo Loco Charcutería"
 url: /carupano/pollo-loco-charcuteria/
-shop: Lebensmittel
+shop: comodidad
 ---

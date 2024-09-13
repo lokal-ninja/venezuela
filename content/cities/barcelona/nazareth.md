@@ -1,5 +1,5 @@
 ---
 title: "nazareth"
 url: /barcelona/nazareth/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Restaurant La Muralla Gourmet"
 url: /caracas/restaurant-la-muralla-gourmet/
-shop: Spirituosen
+shop: alcohol
 ---

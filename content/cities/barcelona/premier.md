@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /barcelona/premier/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

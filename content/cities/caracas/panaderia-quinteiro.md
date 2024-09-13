@@ -1,5 +1,5 @@
 ---
 title: "Panadería Quinteiro"
 url: /caracas/panaderia-quinteiro/
-shop: Bäckerei
+shop: panadería
 ---

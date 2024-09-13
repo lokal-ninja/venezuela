@@ -1,5 +1,5 @@
 ---
 title: "Hiperlider La Morita"
 url: /maracay/hiperlider-la-morita/
-shop: Supermarkt
+shop: supermercado
 ---

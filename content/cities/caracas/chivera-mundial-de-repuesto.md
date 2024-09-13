@@ -1,5 +1,5 @@
 ---
 title: "Chivera Mundial de Repuesto"
 url: /caracas/chivera-mundial-de-repuesto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

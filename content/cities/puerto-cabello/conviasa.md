@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /puerto-cabello/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

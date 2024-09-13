@@ -1,5 +1,5 @@
 ---
 title: "C.C. Naguanagua"
 url: /naguanagua/c-c-naguanagua/
-shop: Supermarkt
+shop: supermercado
 ---

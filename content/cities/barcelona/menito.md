@@ -1,5 +1,5 @@
 ---
 title: "menito"
 url: /barcelona/menito/
-shop: Friseur
+shop: peluquería
 ---

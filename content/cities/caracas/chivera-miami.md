@@ -1,5 +1,5 @@
 ---
 title: "Chivera Miami"
 url: /caracas/chivera-miami/
-shop: Autoteile
+shop: piezas de automóviles
 ---

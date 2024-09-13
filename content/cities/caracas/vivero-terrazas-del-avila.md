@@ -1,5 +1,5 @@
 ---
 title: "Vivero Terrazas del Ávila"
 url: /caracas/vivero-terrazas-del-avila/
-shop: Garten-Center
+shop: centro de jardinería
 ---

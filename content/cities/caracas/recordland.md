@@ -1,5 +1,5 @@
 ---
 title: "Recordland"
 url: /caracas/recordland/
-shop: Musik
+shop: música
 ---

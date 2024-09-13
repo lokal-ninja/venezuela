@@ -1,5 +1,5 @@
 ---
 title: "Vidrios Car"
 url: /caracas/vidrios-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

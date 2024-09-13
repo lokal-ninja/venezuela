@@ -1,5 +1,5 @@
 ---
 title: "Ofimania"
 url: /caracas/ofimania/
-shop: Schreibwaren
+shop: material de oficina
 ---

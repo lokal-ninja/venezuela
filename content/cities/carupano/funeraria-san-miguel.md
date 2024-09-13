@@ -1,5 +1,5 @@
 ---
 title: "Funeraria San Miguel"
 url: /carupano/funeraria-san-miguel/
-shop: Bestattungen
+shop: directores de funerarias
 ---

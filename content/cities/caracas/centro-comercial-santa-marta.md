@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Santa Marta"
 url: /caracas/centro-comercial-santa-marta/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

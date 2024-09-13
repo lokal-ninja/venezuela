@@ -1,5 +1,5 @@
 ---
 title: "LubriYa"
 url: /barcelona/lubriya/
-shop: Autoteile
+shop: piezas de automóviles
 ---

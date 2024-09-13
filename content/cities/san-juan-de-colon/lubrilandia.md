@@ -1,5 +1,5 @@
 ---
 title: "Lubrilandia"
 url: /san-juan-de-colon/lubrilandia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

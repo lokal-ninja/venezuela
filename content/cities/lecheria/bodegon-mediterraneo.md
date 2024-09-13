@@ -1,5 +1,5 @@
 ---
 title: "Bodegón mediterraneo"
 url: /lecheria/bodegon-mediterraneo/
-shop: Lebensmittel
+shop: comodidad
 ---

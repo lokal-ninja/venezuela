@@ -1,5 +1,5 @@
 ---
 title: "guacamaya"
 url: /barcelona/guacamaya/
-shop: Autoteile
+shop: piezas de automóviles
 ---

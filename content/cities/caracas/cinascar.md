@@ -1,5 +1,5 @@
 ---
 title: "Cinascar"
 url: /caracas/cinascar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

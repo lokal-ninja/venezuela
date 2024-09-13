@@ -1,5 +1,5 @@
 ---
 title: "Turbotécnica"
 url: /caracas/turbotecnica/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "lube"
 url: /barcelona/lube/
-shop: Kleidung
+shop: ropa
 ---

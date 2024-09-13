@@ -1,5 +1,5 @@
 ---
 title: "Feng"
 url: /barcelona/feng/
-shop: Lebensmittel
+shop: comodidad
 ---

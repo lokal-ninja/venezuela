@@ -1,5 +1,5 @@
 ---
 title: "Licorería Celicor"
 url: /caracas/licoreria-celicor-av-libertador/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Dorsay"
 url: /caracas/super-dorsay/
-shop: Warenhaus
+shop: grandes almacenes
 ---

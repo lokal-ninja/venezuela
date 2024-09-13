@@ -1,5 +1,5 @@
 ---
 title: "Letty"
 url: /barcelona/letty/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

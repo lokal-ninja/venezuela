@@ -1,5 +1,5 @@
 ---
 title: "Triple Fashion"
 url: /ciudad-guayana-puerto-ordaz/triple-fashion-carrera-caripe/
-shop: Großhandel
+shop: mayorista
 ---

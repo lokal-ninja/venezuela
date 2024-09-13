@@ -1,5 +1,5 @@
 ---
 title: "Planeta"
 url: /barcelona/planeta/
-shop: Kleidung
+shop: ropa
 ---

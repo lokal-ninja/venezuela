@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Previsabel XXI"
 url: /caracas/funeraria-previsabel-xxi/
-shop: Bestattungen
+shop: directores de funerarias
 ---

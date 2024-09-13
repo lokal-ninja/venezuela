@@ -1,5 +1,5 @@
 ---
 title: "Ocaclean"
 url: /barcelona/ocaclean/
-shop: Lebensmittel
+shop: comodidad
 ---

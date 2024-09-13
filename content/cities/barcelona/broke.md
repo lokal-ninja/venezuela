@@ -1,5 +1,5 @@
 ---
 title: "broke"
 url: /barcelona/broke/
-shop: Autoteile
+shop: piezas de automóviles
 ---

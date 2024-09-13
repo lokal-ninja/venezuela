@@ -1,5 +1,5 @@
 ---
 title: "Sport Motors"
 url: /san-juan-de-los-morros/sport-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

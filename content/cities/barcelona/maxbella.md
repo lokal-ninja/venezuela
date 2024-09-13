@@ -1,5 +1,5 @@
 ---
 title: "maxbella"
 url: /barcelona/maxbella/
-shop: Kleidung
+shop: ropa
 ---

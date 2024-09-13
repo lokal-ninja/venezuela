@@ -1,5 +1,5 @@
 ---
 title: "cantors"
 url: /barcelona/cantors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "multiservicio rea"
 url: /barcelona/multiservicio-rea/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

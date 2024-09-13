@@ -1,5 +1,5 @@
 ---
 title: "El zuliano"
 url: /barcelona/el-zuliano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

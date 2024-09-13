@@ -1,5 +1,5 @@
 ---
 title: "Caripito"
 url: /barcelona/caripito/
-shop: Autoteile
+shop: piezas de automóviles
 ---

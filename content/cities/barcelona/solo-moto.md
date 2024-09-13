@@ -1,5 +1,5 @@
 ---
 title: "Solo moto"
 url: /barcelona/solo-moto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

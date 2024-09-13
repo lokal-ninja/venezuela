@@ -1,5 +1,5 @@
 ---
 title: "autopinturas yor-ven"
 url: /puerto-la-cruz/autopinturas-yor-ven/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

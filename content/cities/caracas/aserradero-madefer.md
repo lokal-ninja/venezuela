@@ -1,5 +1,5 @@
 ---
 title: "Aserradero Madefer"
 url: /caracas/aserradero-madefer/
-shop: Baustoffe
+shop: comercio
 ---

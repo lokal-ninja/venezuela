@@ -1,5 +1,5 @@
 ---
 title: "Panadería Bred"
 url: /caracas/panaderia-bred/
-shop: Bäckerei
+shop: panadería
 ---

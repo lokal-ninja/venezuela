@@ -1,5 +1,5 @@
 ---
 title: "el curramba"
 url: /puerto-la-cruz/el-curramba/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

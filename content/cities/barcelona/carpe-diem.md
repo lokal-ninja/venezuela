@@ -1,5 +1,5 @@
 ---
 title: "Carpe Diem"
 url: /barcelona/carpe-diem/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

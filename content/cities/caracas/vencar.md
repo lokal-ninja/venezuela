@@ -1,5 +1,5 @@
 ---
 title: "Vencar"
 url: /caracas/vencar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

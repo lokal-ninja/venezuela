@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Edivica"
 url: /valera/centro-comercial-edivica/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hawai"
 url: /puerto-la-cruz/hawai/
-shop: Lebensmittel
+shop: comodidad
 ---

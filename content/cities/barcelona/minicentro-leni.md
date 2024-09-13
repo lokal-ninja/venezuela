@@ -1,5 +1,5 @@
 ---
 title: "Minicentro Leni"
 url: /barcelona/minicentro-leni/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

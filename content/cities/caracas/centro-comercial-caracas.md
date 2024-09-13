@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Caracas"
 url: /caracas/centro-comercial-caracas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

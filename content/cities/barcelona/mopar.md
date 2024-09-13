@@ -1,5 +1,5 @@
 ---
 title: "Mopar"
 url: /barcelona/mopar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

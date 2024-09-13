@@ -1,5 +1,5 @@
 ---
 title: "Mundo Papel"
 url: /caracas/mundo-papel/
-shop: Schreibwaren
+shop: material de oficina
 ---

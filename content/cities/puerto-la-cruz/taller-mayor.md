@@ -1,5 +1,5 @@
 ---
 title: "taller mayor"
 url: /puerto-la-cruz/taller-mayor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

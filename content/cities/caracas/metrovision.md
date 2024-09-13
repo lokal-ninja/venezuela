@@ -1,5 +1,5 @@
 ---
 title: "Metrovisión"
 url: /caracas/metrovision/
-shop: Optiker
+shop: óptico
 ---

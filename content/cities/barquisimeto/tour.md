@@ -1,5 +1,5 @@
 ---
 title: "Tour"
 url: /barquisimeto/tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

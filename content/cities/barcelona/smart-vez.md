@@ -1,5 +1,5 @@
 ---
 title: "Smart vez"
 url: /barcelona/smart-vez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

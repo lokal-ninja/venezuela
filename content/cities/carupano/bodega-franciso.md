@@ -1,5 +1,5 @@
 ---
 title: "Bodega Franciso"
 url: /carupano/bodega-franciso/
-shop: Lebensmittel
+shop: comodidad
 ---

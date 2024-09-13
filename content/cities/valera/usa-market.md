@@ -1,5 +1,5 @@
 ---
 title: "USA MARKET"
 url: /valera/usa-market/
-shop: Supermarkt
+shop: supermercado
 ---

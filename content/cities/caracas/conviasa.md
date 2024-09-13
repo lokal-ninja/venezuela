@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /caracas/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

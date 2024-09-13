@@ -1,5 +1,5 @@
 ---
 title: "Talleres latino"
 url: /barcelona/talleres-latino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

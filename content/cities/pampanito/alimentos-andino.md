@@ -1,5 +1,5 @@
 ---
 title: "Alimentos Andino"
 url: /pampanito/alimentos-andino/
-shop: Lebensmittel
+shop: comodidad
 ---

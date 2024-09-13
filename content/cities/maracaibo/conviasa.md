@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /maracaibo/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

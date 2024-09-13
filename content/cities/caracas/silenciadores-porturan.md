@@ -1,5 +1,5 @@
 ---
 title: "Silenciadores Porturan"
 url: /caracas/silenciadores-porturan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

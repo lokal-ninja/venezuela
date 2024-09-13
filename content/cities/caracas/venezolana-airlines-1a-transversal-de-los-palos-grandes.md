@@ -1,5 +1,5 @@
 ---
 title: "Venezolana Airlines"
 url: /caracas/venezolana-airlines-1a-transversal-de-los-palos-grandes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "utoelectric"
 url: /barcelona/utoelectric/
-shop: Autoteile
+shop: piezas de automóviles
 ---

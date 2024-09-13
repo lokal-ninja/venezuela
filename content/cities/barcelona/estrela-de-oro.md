@@ -1,5 +1,5 @@
 ---
 title: "estrela de oro"
 url: /barcelona/estrela-de-oro/
-shop: Lebensmittel
+shop: comodidad
 ---

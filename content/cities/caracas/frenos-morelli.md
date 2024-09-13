@@ -1,5 +1,5 @@
 ---
 title: "Frenos Morelli"
 url: /caracas/frenos-morelli/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

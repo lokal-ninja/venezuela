@@ -1,5 +1,5 @@
 ---
 title: "Telemundo"
 url: /cumana/telemundo/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quovadis"
 url: /maiquetia/quovadis/
-shop: Reisebüro
+shop: agencia de viajes
 ---

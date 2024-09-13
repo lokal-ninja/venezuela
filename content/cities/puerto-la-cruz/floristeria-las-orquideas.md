@@ -1,5 +1,5 @@
 ---
 title: "Floristería las orquideas"
 url: /puerto-la-cruz/floristeria-las-orquideas/
-shop: Blumen
+shop: floristería
 ---

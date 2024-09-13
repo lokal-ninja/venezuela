@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /guatire/toyota/
-shop: Autohaus
+shop: coche
 ---

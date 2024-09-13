@@ -1,5 +1,5 @@
 ---
 title: "ruedas"
 url: /barcelona/ruedas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marussi"
 url: /barcelona/marussi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

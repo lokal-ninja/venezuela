@@ -1,5 +1,5 @@
 ---
 title: "Eleggua Bara"
 url: /puerto-la-cruz/eleggua-bara/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electrosan"
 url: /caracas/electrosan/
-shop: Elektrisch
+shop: eléctrico
 ---

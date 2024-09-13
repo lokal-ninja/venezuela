@@ -1,5 +1,5 @@
 ---
 title: "Itallub"
 url: /barcelona/itallub/
-shop: Autoteile
+shop: piezas de automóviles
 ---

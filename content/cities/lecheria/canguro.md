@@ -1,5 +1,5 @@
 ---
 title: "Canguro"
 url: /lecheria/canguro/
-shop: Handy
+shop: teléfono móvil
 ---

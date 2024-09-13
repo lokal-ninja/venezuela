@@ -1,5 +1,5 @@
 ---
 title: "Tecnosonido Bolívar"
 url: /barcelona/tecnosonido-bolivar/
-shop: Autoteile
+shop: piezas de automóviles
 ---
