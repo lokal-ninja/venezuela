@@ -1,11 +1,11 @@
 id: 342753798
-type: way
+type: node
 latitude: 10.4338
 longitude: -66.86306
 postcode: "1080"
 city: Caracas
-street: "Av. Principal de La Trinidad"
-housenumber: 
-phone: "+58-212-9458743"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Av. Principal de La Trinidad
+housenumber: ""
+phone: +58-212-9458743
+opening_hours: Mo-Su 06:00-20:00
 website: ""

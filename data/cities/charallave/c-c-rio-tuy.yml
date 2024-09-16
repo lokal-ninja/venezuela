@@ -1,11 +1,11 @@
 id: 372831234
-type: way
+type: node
 latitude: 10.23982
 longitude: -66.8584
 postcode: "1210"
 city: Charallave
-street: "Av. 2 Bolívar"
-housenumber: 
+street: Av. 2 Bolívar
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

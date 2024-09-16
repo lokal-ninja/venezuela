@@ -1,11 +1,12 @@
 id: 401016214
-type: way
+type: node
 latitude: 10.48111
 longitude: -66.95437
 postcode: "1000"
 city: Caracas
-street: "Comercio"
-housenumber: 
+street: Comercio
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su  09:00-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+opening_hours: Mo-Su  09:00-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

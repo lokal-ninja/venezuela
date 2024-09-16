@@ -1,11 +1,11 @@
 id: 500204692
-type: way
+type: node
 latitude: 7.75729
 longitude: -72.22377
 postcode: "5001"
 city: San Cristóbal, Sector La Concordia
-street: "Avenida Las Flores"
-housenumber: 
+street: Avenida Las Flores
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

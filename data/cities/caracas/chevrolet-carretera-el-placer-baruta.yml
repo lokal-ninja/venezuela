@@ -4,8 +4,9 @@ latitude: 10.42886
 longitude: -66.87389
 postcode: "1080"
 city: Caracas
-street: "Carretera: El Placer - Baruta"
-housenumber: 
-phone: "+58-212-9433657"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.chevrolet.com.ve/"
+street: 'Carretera: El Placer - Baruta'
+housenumber: ""
+phone: +58-212-9433657
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://www.chevrolet.com.ve/

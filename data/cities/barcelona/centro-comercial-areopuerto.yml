@@ -1,11 +1,11 @@
 id: 1113159173
-type: way
+type: node
 latitude: 10.12783
 longitude: -64.68426
 postcode: "6001"
 city: Barcelona
-street: "Av. Jose Humberto Paparoni"
-housenumber: 
+street: Av. Jose Humberto Paparoni
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

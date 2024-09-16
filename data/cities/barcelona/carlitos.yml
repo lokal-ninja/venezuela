@@ -4,8 +4,8 @@ latitude: 10.13082
 longitude: -64.68464
 postcode: "6001"
 city: Barcelona
-street: "calle la chica"
-housenumber: 
+street: calle la chica
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

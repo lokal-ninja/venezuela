@@ -1,11 +1,11 @@
 id: 699923104
-type: way
+type: node
 latitude: 10.66924
 longitude: -71.60607
 postcode: "4001"
 city: Maracaibo
-street: "Avenida 3H"
-housenumber: 
+street: Avenida 3H
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

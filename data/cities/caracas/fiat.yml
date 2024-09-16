@@ -1,11 +1,11 @@
 id: 642221599
-type: way
+type: node
 latitude: 10.49053
 longitude: -66.80847
 postcode: "1073"
 city: Caracas
-street: "Calle 10 de La Urbina"
-housenumber: 
+street: Calle 10 de La Urbina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

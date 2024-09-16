@@ -1,11 +1,11 @@
 id: 278935962
-type: way
+type: node
 latitude: 10.49667
 longitude: -66.84118
 postcode: "1071"
 city: Caracas
-street: "Av. Francisco de Miranda"
-housenumber: 
+street: Av. Francisco de Miranda
+housenumber: ""
 phone: ""
-opening_hours: "Mo 05:00-09:00;Tu-Su 05:00-17:00"
+opening_hours: Mo 05:00-09:00;Tu-Su 05:00-17:00
 website: ""

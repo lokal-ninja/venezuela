@@ -1,11 +1,11 @@
 id: 999504506
-type: way
+type: node
 latitude: 10.51062
 longitude: -66.9503
 postcode: ""
 city: Caracas
-street: "Avenida El Cuartel"
-housenumber: 
+street: Avenida El Cuartel
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

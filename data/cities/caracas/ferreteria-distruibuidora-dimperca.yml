@@ -1,11 +1,11 @@
 id: 163966881
-type: way
+type: node
 latitude: 10.50887
 longitude: -66.88635
 postcode: "1050"
 city: Caracas
-street: "Av. Principal de Maripérez"
-housenumber: 
+street: Av. Principal de Maripérez
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.dimperca.com/"
+website: https://www.dimperca.com/

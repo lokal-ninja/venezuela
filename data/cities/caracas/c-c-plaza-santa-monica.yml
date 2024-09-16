@@ -1,11 +1,11 @@
 id: 229480010
-type: way
+type: node
 latitude: 10.47214
 longitude: -66.89155
 postcode: "1040"
 city: Caracas
-street: "Av. Francisco Lazo Martí"
-housenumber: 
+street: Av. Francisco Lazo Martí
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

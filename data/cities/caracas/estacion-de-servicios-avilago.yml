@@ -1,11 +1,11 @@
 id: 1079910955
-type: way
+type: node
 latitude: 10.5182
 longitude: -66.91616
 postcode: "1010"
 city: Caracas
-street: "Av. Baralt"
-housenumber: 
+street: Av. Baralt
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 153829204
-type: way
+type: node
 latitude: 10.48823
 longitude: -66.8212
 postcode: "1071"
 city: Caracas
-street: "Santa Ana"
-housenumber: 
+street: Santa Ana
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

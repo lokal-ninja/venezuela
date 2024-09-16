@@ -1,11 +1,11 @@
 id: 226141984
-type: way
+type: node
 latitude: 10.47875
 longitude: -66.90149
 postcode: "1040"
 city: Caracas
-street: "Av. Nueva Granada"
-housenumber: 
+street: Av. Nueva Granada
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

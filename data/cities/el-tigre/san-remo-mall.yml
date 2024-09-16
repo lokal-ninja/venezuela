@@ -1,11 +1,11 @@
 id: 209690223
-type: way
+type: node
 latitude: 8.87848
 longitude: -64.23049
 postcode: "6050"
 city: El Tigre
-street: "Avenida Jesús Subero"
-housenumber: 
+street: Avenida Jesús Subero
+housenumber: ""
 phone: ""
-opening_hours: "9:00-23:00"
+opening_hours: 9:00-23:00
 website: ""

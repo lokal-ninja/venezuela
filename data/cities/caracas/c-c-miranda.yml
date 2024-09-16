@@ -1,11 +1,11 @@
 id: 252203678
-type: way
+type: node
 latitude: 10.48982
 longitude: -66.77735
 postcode: "1073"
 city: Caracas
-street: "Av. Miranda"
-housenumber: 
+street: Av. Miranda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

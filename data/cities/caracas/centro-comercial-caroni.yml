@@ -1,11 +1,11 @@
 id: 234436185
-type: way
+type: node
 latitude: 10.48535
 longitude: -66.87574
 postcode: "1050"
 city: Caracas
-street: "Av. Caurimare"
-housenumber: 
+street: Av. Caurimare
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

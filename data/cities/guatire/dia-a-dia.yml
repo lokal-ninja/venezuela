@@ -1,11 +1,11 @@
 id: 709854421
-type: way
+type: node
 latitude: 10.46951
 longitude: -66.54315
 postcode: "1221"
 city: Guatire
-street: "Avenida Bermúdez"
-housenumber: 
+street: Avenida Bermúdez
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.diadia.com.ve/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.diadia.com.ve/

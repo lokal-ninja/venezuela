@@ -1,11 +1,11 @@
 id: 803925025
-type: way
+type: node
 latitude: 7.77456
 longitude: -72.21563
 postcode: "5001"
 city: San Cristóbal
-street: "Avenida Francisco Cardenas"
-housenumber: 
+street: Avenida Francisco Cardenas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

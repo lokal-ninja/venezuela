@@ -4,8 +4,9 @@ latitude: 10.50118
 longitude: -66.84581
 postcode: "1060"
 city: Caracas
-street: "3ª Transversal de Los Palos Grandes"
-housenumber: 
-phone: "+58-212-2852475"
-opening_hours: "Mo-We 09:00-18:00; Th-Sa 09:00-19:00;Su 11:00-19:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: 3ª Transversal de Los Palos Grandes
+housenumber: ""
+phone: +58-212-2852475
+opening_hours: Mo-We 09:00-18:00; Th-Sa 09:00-19:00;Su 11:00-19:00;Jan 01,Apr 19,May
+    01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

@@ -1,11 +1,11 @@
 id: 231218454
-type: way
+type: node
 latitude: 10.47985
 longitude: -66.88955
 postcode: "1040"
 city: Caracas
-street: "Av. Simón Planas"
-housenumber: 
+street: Av. Simón Planas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

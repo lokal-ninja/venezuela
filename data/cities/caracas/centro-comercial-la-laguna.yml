@@ -1,11 +1,11 @@
 id: 220504352
-type: way
+type: node
 latitude: 10.5149
 longitude: -66.95281
 postcode: ""
 city: Caracas
-street: "Avenida La Laguna"
-housenumber: 
+street: Avenida La Laguna
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

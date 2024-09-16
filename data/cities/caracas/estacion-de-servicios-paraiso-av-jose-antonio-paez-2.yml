@@ -1,11 +1,11 @@
 id: 1079902827
-type: way
+type: node
 latitude: 10.4946
 longitude: -66.78682
 postcode: "1020"
 city: Caracas
-street: "Av. José Antonio Páez"
-housenumber: 
+street: Av. José Antonio Páez
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

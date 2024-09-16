@@ -4,8 +4,9 @@ latitude: 10.4918
 longitude: -66.86008
 postcode: "1060"
 city: Caracas
-street: "Av. Francisco de Miranda"
-housenumber: 
-phone: "+58-212-2630645"
-opening_hours: "Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Francisco de Miranda
+housenumber: ""
+phone: +58-212-2630645
+opening_hours: Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

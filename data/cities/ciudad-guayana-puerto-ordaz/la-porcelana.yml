@@ -1,11 +1,11 @@
 id: 903203937
-type: way
+type: node
 latitude: 8.28695
 longitude: -62.75144
 postcode: ""
 city: Ciudad Guayana (Puerto Ordaz)
-street: "Calle Neverí"
-housenumber: 01
+street: Calle Neverí
+housenumber: "01"
 phone: ""
 opening_hours: ""
-website: "http://laporcelana.net/"
+website: http://laporcelana.net/

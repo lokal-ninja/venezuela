@@ -1,11 +1,11 @@
 id: 502195652
-type: way
+type: node
 latitude: 7.77788
 longitude: -72.22642
 postcode: "5001"
 city: San Cristóbal
-street: "Avenida Guayana"
-housenumber: 
+street: Avenida Guayana
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

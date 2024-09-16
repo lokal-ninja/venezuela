@@ -1,11 +1,11 @@
 id: 718039226
-type: way
+type: node
 latitude: 10.47898
 longitude: -66.85543
 postcode: "1060"
 city: Caracas
-street: "Av. La Guairita"
-housenumber: 
+street: Av. La Guairita
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

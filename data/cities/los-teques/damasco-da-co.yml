@@ -4,8 +4,8 @@ latitude: 10.35883
 longitude: -66.99082
 postcode: "1201"
 city: Los Teques
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.mitiendadamasco.com/"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.mitiendadamasco.com/

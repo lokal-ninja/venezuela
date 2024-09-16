@@ -4,8 +4,8 @@ latitude: 10.50222
 longitude: -66.90426
 postcode: "1010"
 city: Caracas
-street: "Av. Sur 15"
-housenumber: 
+street: Av. Sur 15
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://richietortas.com/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://richietortas.com/

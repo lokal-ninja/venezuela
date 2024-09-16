@@ -1,11 +1,11 @@
 id: 713231138
-type: way
+type: node
 latitude: 10.48126
 longitude: -66.8417
 postcode: "1080"
 city: Caracas
-street: "Av. Araure"
-housenumber: 
+street: Av. Araure
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

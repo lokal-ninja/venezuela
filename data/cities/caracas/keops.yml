@@ -4,8 +4,9 @@ latitude: 10.50087
 longitude: -66.84812
 postcode: "1060"
 city: Caracas
-street: "Av. Luis Roche"
-housenumber: 
-phone: "+58-212-2656419"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:30-17:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Luis Roche
+housenumber: ""
+phone: +58-212-2656419
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:30-17:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

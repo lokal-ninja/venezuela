@@ -4,8 +4,9 @@ latitude: 10.3469
 longitude: -67.04302
 postcode: "1201"
 city: Los Teques
-street: "Avenida Bolívar"
-housenumber: 
-phone: "+58-212-3237980"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-13:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Avenida Bolívar
+housenumber: ""
+phone: +58-212-3237980
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-13:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

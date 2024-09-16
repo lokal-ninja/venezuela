@@ -4,8 +4,8 @@ latitude: 10.12459
 longitude: -64.67918
 postcode: "6001"
 city: Barcelona
-street: "calle el bolsillo"
-housenumber: 
+street: calle el bolsillo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

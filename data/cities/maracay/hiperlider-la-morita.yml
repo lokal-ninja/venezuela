@@ -1,11 +1,11 @@
 id: 403685294
-type: way
+type: node
 latitude: 10.21763
 longitude: -67.53015
 postcode: "1210"
 city: Maracay
-street: "C. 5 De Julio"
-housenumber: 
+street: C. 5 De Julio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

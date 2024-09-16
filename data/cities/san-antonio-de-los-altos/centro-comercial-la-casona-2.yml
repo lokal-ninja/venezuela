@@ -1,11 +1,11 @@
 id: 105337514
-type: way
+type: node
 latitude: 10.36988
 longitude: -66.98321
 postcode: "1204"
 city: San Antonio de Los Altos
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

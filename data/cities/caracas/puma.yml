@@ -1,11 +1,11 @@
 id: 718062188
-type: way
+type: node
 latitude: 10.44717
 longitude: -66.85661
 postcode: "1080"
 city: Caracas
-street: "Calle F"
-housenumber: 
+street: Calle F
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

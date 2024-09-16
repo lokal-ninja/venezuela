@@ -1,11 +1,11 @@
 id: 359382268
-type: way
+type: node
 latitude: 10.63781
 longitude: -71.66475
 postcode: "4002"
 city: Maracaibo
-street: "Avenida Circunvalación 2"
-housenumber: 98
+street: Avenida Circunvalación 2
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

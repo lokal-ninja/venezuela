@@ -1,11 +1,11 @@
 id: 1082570321
-type: way
+type: node
 latitude: 10.17328
 longitude: -64.68557
 postcode: "6016"
 city: Lechería
-street: "Calle Andrés Eloy Blanco"
-housenumber: 
+street: Calle Andrés Eloy Blanco
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

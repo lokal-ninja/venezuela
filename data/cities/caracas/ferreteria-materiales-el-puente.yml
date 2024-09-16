@@ -1,11 +1,11 @@
 id: 447795543
-type: way
+type: node
 latitude: 10.4364
 longitude: -66.87509
 postcode: "1080"
 city: Caracas
-street: "La Industrial"
-housenumber: 
+street: La Industrial
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

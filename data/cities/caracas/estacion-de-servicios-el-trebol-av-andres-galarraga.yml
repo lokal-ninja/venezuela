@@ -1,11 +1,11 @@
 id: 1079902887
-type: way
+type: node
 latitude: 10.48727
 longitude: -66.85774
 postcode: "1060"
 city: Caracas
-street: "Av. Andrés Galarraga"
-housenumber: 
+street: Av. Andrés Galarraga
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

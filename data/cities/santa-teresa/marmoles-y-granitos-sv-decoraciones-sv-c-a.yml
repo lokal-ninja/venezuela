@@ -1,11 +1,11 @@
 id: 345326409
-type: way
+type: node
 latitude: 10.2608
 longitude: -66.7241
 postcode: "1215"
 city: Santa Teresa
-street: "Carretera La Raiza"
-housenumber: 6
-phone: "+58-239-8087348"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-12:00"
-website: "http://www.marmolesygranitossv.com/"
+street: Carretera La Raiza
+housenumber: "6"
+phone: +58-239-8087348
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-12:00
+website: http://www.marmolesygranitossv.com/

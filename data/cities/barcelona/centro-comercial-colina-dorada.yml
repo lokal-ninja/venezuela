@@ -1,11 +1,11 @@
 id: 1087377367
-type: way
+type: node
 latitude: 10.17094
 longitude: -64.68501
 postcode: "6001"
 city: Barcelona
-street: "Calle 12"
-housenumber: 
+street: Calle 12
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

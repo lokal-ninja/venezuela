@@ -1,11 +1,12 @@
 id: 222684600
-type: way
+type: node
 latitude: 10.49829
 longitude: -66.84646
 postcode: "1060"
 city: Caracas
-street: "Av. Francisco de Miranda"
-housenumber: 
+street: Av. Francisco de Miranda
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 09:00-19:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 09:00-19:00
 website: ""

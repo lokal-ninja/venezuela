@@ -1,11 +1,11 @@
 id: 1083050137
-type: way
+type: node
 latitude: 10.19832
 longitude: -64.69434
 postcode: "6016"
 city: Lechería
-street: "Carrera 6"
-housenumber: 
+street: Carrera 6
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 165785016
-type: way
+type: node
 latitude: 10.50668
 longitude: -66.90256
 postcode: "1010"
 city: Caracas
-street: "Av. del Parque"
-housenumber: 
-phone: "+58-212-5772832"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-20:00"
-website: "http://www.galeriasavila.com/"
+street: Av. del Parque
+housenumber: ""
+phone: +58-212-5772832
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-20:00
+website: http://www.galeriasavila.com/

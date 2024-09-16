@@ -1,11 +1,11 @@
 id: 330162737
-type: way
+type: node
 latitude: 10.35736
 longitude: -67.00253
 postcode: "1203"
 city: Carrizal
-street: "Calle Montaña alta"
-housenumber: 
+street: Calle Montaña alta
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

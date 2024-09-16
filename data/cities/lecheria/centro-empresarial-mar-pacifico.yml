@@ -1,11 +1,11 @@
 id: 1083297413
-type: way
+type: node
 latitude: 10.19289
 longitude: -64.69378
 postcode: "6016"
 city: Lechería
-street: "Calle Los Almendrones"
-housenumber: 
+street: Calle Los Almendrones
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

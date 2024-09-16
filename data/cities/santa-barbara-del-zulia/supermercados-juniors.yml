@@ -1,11 +1,11 @@
 id: 540686192
-type: way
+type: node
 latitude: 8.99891
 longitude: -71.91431
 postcode: "5148"
 city: Santa Bárbara del Zulia
-street: "Av. Bolivar"
-housenumber: 
+street: Av. Bolivar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

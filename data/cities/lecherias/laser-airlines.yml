@@ -4,8 +4,9 @@ latitude: 10.18514
 longitude: -64.65902
 postcode: "6016"
 city: Lecherías
-street: "Av. Nueva Esparta"
-housenumber: 
-phone: "+58-414-8183212"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Nueva Esparta
+housenumber: ""
+phone: +58-414-8183212
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

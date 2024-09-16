@@ -1,11 +1,11 @@
 id: 216696845
-type: way
+type: node
 latitude: 10.44008
 longitude: -66.83534
 postcode: "1073"
 city: Caracas
-street: "Av. El Paují"
-housenumber: 
+street: Av. El Paují
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
+opening_hours: Mo-Su 10:00-19:00
 website: ""

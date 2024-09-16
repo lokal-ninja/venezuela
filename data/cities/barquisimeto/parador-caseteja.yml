@@ -1,11 +1,11 @@
 id: 175592276
-type: way
+type: node
 latitude: 10.091
 longitude: -69.21013
 postcode: "3203"
 city: Barquisimeto
-street: "Autopista Cimarrón Andresote"
-housenumber: 
+street: Autopista Cimarrón Andresote
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

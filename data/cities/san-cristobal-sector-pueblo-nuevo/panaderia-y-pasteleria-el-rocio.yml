@@ -1,11 +1,11 @@
 id: 600937499
-type: way
+type: node
 latitude: 7.78266
 longitude: -72.21738
 postcode: "5001"
 city: San Cristóbal, Sector Pueblo Nuevo
-street: "Avenida Principal Pueblo Nuevo"
-housenumber: 
+street: Avenida Principal Pueblo Nuevo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

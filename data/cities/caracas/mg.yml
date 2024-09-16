@@ -1,11 +1,11 @@
 id: 342753805
-type: way
+type: node
 latitude: 10.43509
 longitude: -66.86065
 postcode: "1080"
 city: Caracas
-street: "Amana"
-housenumber: 
+street: Amana
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

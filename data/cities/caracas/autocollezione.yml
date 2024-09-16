@@ -1,11 +1,12 @@
 id: 1060165673
-type: way
+type: node
 latitude: 10.50898
 longitude: -66.87285
 postcode: "1050"
 city: Caracas
-street: "Av. Los Mangos"
-housenumber: 
+street: Av. Los Mangos
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

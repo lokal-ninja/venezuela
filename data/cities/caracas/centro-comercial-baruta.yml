@@ -1,11 +1,11 @@
 id: 375940041
-type: way
+type: node
 latitude: 10.4361
 longitude: -66.87237
 postcode: "1080"
 city: Caracas
-street: "Av. San Sebastián"
-housenumber: 
+street: Av. San Sebastián
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1010087409
-type: way
+type: node
 latitude: 10.48791
 longitude: -66.8228
 postcode: "1070"
 city: Caracas
-street: "Avenida Francisco de Miranda"
-housenumber: 
-phone: "+58-212-"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.vivasupercentro.com/"
+street: Avenida Francisco de Miranda
+housenumber: ""
+phone: +58-212-
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.vivasupercentro.com/

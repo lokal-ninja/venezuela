@@ -1,11 +1,12 @@
 id: 714621276
-type: way
+type: node
 latitude: 10.49897
 longitude: -66.85444
 postcode: "1060"
 city: Caracas
-street: "Mohedano"
-housenumber: 
-phone: "+58-212-2610051"
-opening_hours: "Mo-Sa 09:00-21:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.licoteca.com.ve/"
+street: Mohedano
+housenumber: ""
+phone: +58-212-2610051
+opening_hours: Mo-Sa 09:00-21:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
+website: https://www.licoteca.com.ve/

@@ -1,11 +1,11 @@
 id: 333709226
-type: way
+type: node
 latitude: 10.46815
 longitude: -66.57414
 postcode: "1221"
 city: Guatire
-street: "Av. Intercomunal Guarenas - Guatire"
-housenumber: 
+street: Av. Intercomunal Guarenas - Guatire
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.mitiendadamasco.com/"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.mitiendadamasco.com/

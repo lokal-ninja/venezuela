@@ -4,8 +4,9 @@ latitude: 10.24207
 longitude: -66.66339
 postcode: "1020"
 city: Santa Teresa del Tuy
-street: "Carretera Santa Teresa del Tuy a Santa Lucía"
-housenumber: 02
-phone: "+58-212-239-2312175"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:30; Sa 08:00-13:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://milceramicas.com/"
+street: Carretera Santa Teresa del Tuy a Santa Lucía
+housenumber: "02"
+phone: +58-212-239-2312175
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:30; Sa 08:00-13:00; Jan 1,Apr 19,May
+    1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://milceramicas.com/

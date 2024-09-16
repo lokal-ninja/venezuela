@@ -4,8 +4,9 @@ latitude: 10.48571
 longitude: -66.94989
 postcode: "1020"
 city: Caracas
-street: "Real de Bella Vista"
-housenumber: 
+street: Real de Bella Vista
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:30-19:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+opening_hours: Mo-Su 07:30-19:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

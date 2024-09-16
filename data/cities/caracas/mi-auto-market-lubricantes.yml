@@ -4,8 +4,9 @@ latitude: 10.48762
 longitude: -66.80697
 postcode: "1073"
 city: Caracas
-street: "Av. Principal de La Urbina"
-housenumber: 
-phone: "+58-424-2192307"
-opening_hours: "Mo-Fr 08:00-19:00; Sa-Su 09:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Principal de La Urbina
+housenumber: ""
+phone: +58-424-2192307
+opening_hours: Mo-Fr 08:00-19:00; Sa-Su 09:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

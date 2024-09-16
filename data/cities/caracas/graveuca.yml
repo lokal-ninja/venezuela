@@ -1,11 +1,11 @@
 id: 359831793
-type: way
+type: node
 latitude: 10.46407
 longitude: -66.80495
 postcode: "1073"
 city: Caracas
-street: "La Línea"
-housenumber: 
-phone: "+58-212-2562822"
+street: La Línea
+housenumber: ""
+phone: +58-212-2562822
 opening_hours: ""
-website: "https://www.graveuca.com/index.php"
+website: https://www.graveuca.com/index.php

@@ -1,11 +1,11 @@
 id: 1060402113
-type: way
+type: node
 latitude: 10.51008
 longitude: -66.87395
 postcode: "1050"
 city: Caracas
-street: "Avenida Los Mangos"
-housenumber: 
-phone: "+58-212-7303153"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00; Sa-Su 07:30-17:00"
-website: "https://hyundaivenezuela.com/"
+street: Avenida Los Mangos
+housenumber: ""
+phone: +58-212-7303153
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00; Sa-Su 07:30-17:00
+website: https://hyundaivenezuela.com/

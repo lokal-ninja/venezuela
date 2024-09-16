@@ -1,11 +1,11 @@
 id: 350614712
-type: way
+type: node
 latitude: 10.48828
 longitude: -66.86835
 postcode: "1060"
 city: Caracas
-street: "Av. Guaicaipuro"
-housenumber: 
+street: Av. Guaicaipuro
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

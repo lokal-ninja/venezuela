@@ -1,11 +1,11 @@
 id: 472475442
-type: way
+type: node
 latitude: 10.49366
 longitude: -66.82257
 postcode: "1071"
 city: Caracas
-street: "Av. Rómulo Gallegos"
-housenumber: 
-phone: "+58-212-2392506"
-opening_hours: "Mo-Su 09:30-18:30"
-website: "https://www.tiendasdaka.com/"
+street: Av. Rómulo Gallegos
+housenumber: ""
+phone: +58-212-2392506
+opening_hours: Mo-Su 09:30-18:30
+website: https://www.tiendasdaka.com/

@@ -1,11 +1,11 @@
 id: 1080116287
-type: way
+type: node
 latitude: 10.17715
 longitude: -64.68821
 postcode: "6016"
 city: Lechería
-street: "Calle Rodriguez"
-housenumber: 
+street: Calle Rodriguez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

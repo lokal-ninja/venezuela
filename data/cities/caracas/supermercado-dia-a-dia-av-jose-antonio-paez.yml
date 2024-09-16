@@ -1,11 +1,11 @@
 id: 216506700
-type: way
+type: node
 latitude: 10.48184
 longitude: -66.93849
 postcode: "1020"
 city: Caracas
-street: "Av. José Antonio Páez"
-housenumber: 
-phone: "+58-212-"
-opening_hours: "Mo-Su 09:30-18:30"
-website: "https://www.diadia.com.ve/"
+street: Av. José Antonio Páez
+housenumber: ""
+phone: +58-212-
+opening_hours: Mo-Su 09:30-18:30
+website: https://www.diadia.com.ve/

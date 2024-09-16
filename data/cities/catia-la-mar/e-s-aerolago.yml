@@ -1,11 +1,11 @@
 id: 104284904
-type: way
+type: node
 latitude: 10.59628
 longitude: -67.01218
 postcode: "1015"
 city: Catia La Mar
-street: "Avenida Principal del Aeropuerto"
-housenumber: 
+street: Avenida Principal del Aeropuerto
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

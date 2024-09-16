@@ -4,8 +4,9 @@ latitude: 10.25246
 longitude: -67.59851
 postcode: "2101"
 city: Maracay
-street: "Calle Santos Michelena"
-housenumber: 
+street: Calle Santos Michelena
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+opening_hours: Mo-Sa 08:00-18:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

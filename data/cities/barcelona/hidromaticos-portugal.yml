@@ -4,8 +4,8 @@ latitude: 10.12244
 longitude: -64.68065
 postcode: "6001"
 city: Barcelona
-street: "calle esperanza"
-housenumber: 
+street: calle esperanza
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

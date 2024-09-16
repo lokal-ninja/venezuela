@@ -1,11 +1,11 @@
 id: 229488782
-type: way
+type: node
 latitude: 10.49477
 longitude: -66.88481
 postcode: "1050"
 city: Caracas
-street: "Olímpo"
-housenumber: 
+street: Olímpo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-19:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-19:00
 website: ""

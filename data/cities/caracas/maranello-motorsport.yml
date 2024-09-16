@@ -1,11 +1,11 @@
 id: 435816497
-type: way
+type: node
 latitude: 10.50297
 longitude: -66.85052
 postcode: "1060"
 city: Caracas
-street: "Av. San Juan Bosco"
-housenumber: 
+street: Av. San Juan Bosco
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

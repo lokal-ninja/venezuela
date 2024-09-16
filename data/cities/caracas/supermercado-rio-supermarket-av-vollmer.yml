@@ -4,8 +4,9 @@ latitude: 10.50496
 longitude: -66.9018
 postcode: "1010"
 city: Caracas
-street: "Av. Vollmer"
-housenumber: 
-phone: "+58-212-"
-opening_hours: "Mo-Su 09:00-22:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-21:00"
-website: "https://www.instagram.com/rio_supermarket/"
+street: Av. Vollmer
+housenumber: ""
+phone: +58-212-
+opening_hours: Mo-Su 09:00-22:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 12:00-21:00
+website: https://www.instagram.com/rio_supermarket/

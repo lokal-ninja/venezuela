@@ -1,11 +1,11 @@
 id: 397516954
-type: way
+type: node
 latitude: 10.50728
 longitude: -66.90026
 postcode: "1010"
 city: Caracas
-street: "Av. Vollmer"
-housenumber: 
-phone: "+58-212-5766965"
-opening_hours: "24/7"
-website: "https://excelsiorgama.com/"
+street: Av. Vollmer
+housenumber: ""
+phone: +58-212-5766965
+opening_hours: 24/7
+website: https://excelsiorgama.com/

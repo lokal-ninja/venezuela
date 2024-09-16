@@ -4,8 +4,9 @@ latitude: 10.59435
 longitude: -66.97653
 postcode: ""
 city: La Guaira
-street: "Real de Montesano"
-housenumber: 8
-phone: "+58-212-3317548"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://milceramicas.com/"
+street: Real de Montesano
+housenumber: "8"
+phone: +58-212-3317548
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:30; Jan 1,Apr 19,May 1,Jun
+    24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://milceramicas.com/

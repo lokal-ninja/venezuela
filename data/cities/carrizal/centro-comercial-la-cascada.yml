@@ -1,11 +1,11 @@
 id: 278370228
-type: way
+type: node
 latitude: 10.35344
 longitude: -67.00366
 postcode: "1203"
 city: Carrizal
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

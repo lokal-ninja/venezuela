@@ -1,11 +1,11 @@
 id: 330262870
-type: way
+type: node
 latitude: 10.3438
 longitude: -67.03547
 postcode: "1201"
 city: Los Teques
-street: "Boulevard Los Nuevos Teques"
-housenumber: 
+street: Boulevard Los Nuevos Teques
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

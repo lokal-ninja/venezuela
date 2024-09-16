@@ -1,11 +1,11 @@
 id: 923570049
-type: way
+type: node
 latitude: 10.45139
 longitude: -66.85632
 postcode: "1080"
 city: Caracas
-street: "Av. La Guairita"
-housenumber: 
+street: Av. La Guairita
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

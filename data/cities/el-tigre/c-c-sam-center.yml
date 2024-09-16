@@ -1,11 +1,11 @@
 id: 746045746
-type: way
+type: node
 latitude: 8.88273
 longitude: -64.26144
 postcode: "6050"
 city: El Tigre
-street: "Calle Anzoátegui"
-housenumber: 
+street: Calle Anzoátegui
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

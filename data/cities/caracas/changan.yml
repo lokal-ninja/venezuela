@@ -1,11 +1,11 @@
 id: 1060888356
-type: way
+type: node
 latitude: 10.49655
 longitude: -66.84405
 postcode: "1060"
 city: Caracas
-street: "Av. Francisco de Miranda"
-housenumber: 
-phone: "+58-412-6035800"
+street: Av. Francisco de Miranda
+housenumber: ""
+phone: +58-412-6035800
 opening_hours: ""
-website: "https://changanautocaracas.com/"
+website: https://changanautocaracas.com/

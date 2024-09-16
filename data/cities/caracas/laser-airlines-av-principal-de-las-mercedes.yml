@@ -4,8 +4,9 @@ latitude: 10.48032
 longitude: -66.8607
 postcode: "1060"
 city: Caracas
-street: "Av. Principal de Las Mercedes"
-housenumber: 
-phone: "+58-212-3008995"
-opening_hours: "Mo-Sa 10:00-18:00; Sa 12:00-18:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Principal de Las Mercedes
+housenumber: ""
+phone: +58-212-3008995
+opening_hours: Mo-Sa 10:00-18:00; Sa 12:00-18:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

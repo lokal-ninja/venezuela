@@ -4,8 +4,9 @@ latitude: 10.4865
 longitude: -66.8722
 postcode: "1050"
 city: Caracas
-street: "Av. Miguelangel"
-housenumber: 
-phone: "+58-212-7511664"
-opening_hours: "Mo-Fr 08:00-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Miguelangel
+housenumber: ""
+phone: +58-212-7511664
+opening_hours: Mo-Fr 08:00-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

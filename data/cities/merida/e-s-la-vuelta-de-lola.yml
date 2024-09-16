@@ -1,11 +1,11 @@
 id: 172062380
-type: way
+type: node
 latitude: 8.62024
 longitude: -71.13015
 postcode: "5101"
 city: Mérida
-street: "Av.1 Hoyada de Milla"
-housenumber: 
+street: Av.1 Hoyada de Milla
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Su 08:00-15:00; Sa 08:00-12:00"
+opening_hours: Tu-Su 08:00-15:00; Sa 08:00-12:00
 website: ""

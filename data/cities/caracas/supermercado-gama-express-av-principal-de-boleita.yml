@@ -1,11 +1,11 @@
 id: 247070995
-type: way
+type: node
 latitude: 10.49428
 longitude: -66.82207
 postcode: "1071"
 city: Caracas
-street: "Av. Principal de Boleita"
-housenumber: 
-phone: "+58-212-6151052"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://excelsiorgama.com/"
+street: Av. Principal de Boleita
+housenumber: ""
+phone: +58-212-6151052
+opening_hours: Mo-Su 07:00-20:00
+website: https://excelsiorgama.com/

@@ -1,11 +1,11 @@
 id: 243224890
-type: way
+type: node
 latitude: 10.50835
 longitude: -66.83225
 postcode: "1071"
 city: Caracas
-street: "Av. Los Chorros"
-housenumber: 
+street: Av. Los Chorros
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 642221566
-type: way
+type: node
 latitude: 10.49272
 longitude: -66.8075
 postcode: "1073"
 city: Caracas
-street: "Calle 7 de La Urbina"
-housenumber: 
+street: Calle 7 de La Urbina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

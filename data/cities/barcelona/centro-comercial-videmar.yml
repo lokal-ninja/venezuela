@@ -1,11 +1,11 @@
 id: 1097521189
-type: way
+type: node
 latitude: 10.13666
 longitude: -64.69014
 postcode: "6001"
 city: Barcelona
-street: "Avenida Caracas"
-housenumber: 
+street: Avenida Caracas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

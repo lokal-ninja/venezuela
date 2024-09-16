@@ -1,11 +1,11 @@
 id: 1097503141
-type: way
+type: node
 latitude: 10.13853
 longitude: -64.68623
 postcode: "6001"
 city: Barcelona
-street: "Avenida Miranda"
-housenumber: 
+street: Avenida Miranda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

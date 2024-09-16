@@ -1,11 +1,11 @@
 id: 229612841
-type: way
+type: node
 latitude: 10.47902
 longitude: -66.88935
 postcode: "1040"
 city: Caracas
-street: "Av. Arturo Michelena"
-housenumber: 
-phone: "+58-212-6244610"
-opening_hours: "24/7"
-website: "https://excelsiorgama.com/"
+street: Av. Arturo Michelena
+housenumber: ""
+phone: +58-212-6244610
+opening_hours: 24/7
+website: https://excelsiorgama.com/

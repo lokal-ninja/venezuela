@@ -1,11 +1,11 @@
 id: 912235583
-type: way
+type: node
 latitude: 10.14955
 longitude: -64.68521
 postcode: "6001"
 city: Barcelona
-street: "Avenida Fuerzas Armadas"
-housenumber: 
+street: Avenida Fuerzas Armadas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

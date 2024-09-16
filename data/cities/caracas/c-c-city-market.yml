@@ -1,11 +1,11 @@
 id: 240655511
-type: way
+type: node
 latitude: 10.4946
 longitude: -66.8778
 postcode: "1050"
 city: Caracas
-street: "Bulevar de Sabana Grande"
-housenumber: 
+street: Bulevar de Sabana Grande
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: Mo-Su 09:00-20:00
 website: ""

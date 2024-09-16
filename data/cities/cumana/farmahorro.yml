@@ -1,11 +1,11 @@
 id: 1254592732
-type: way
+type: node
 latitude: 10.44381
 longitude: -64.16743
 postcode: "6101"
 city: Cumaná
-street: "Avenida Cancamure"
-housenumber: 
+street: Avenida Cancamure
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

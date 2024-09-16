@@ -4,8 +4,9 @@ latitude: 10.49233
 longitude: -66.86752
 postcode: "1050"
 city: Caracas
-street: "Av. Principal de El Bosque"
-housenumber: 
+street: Av. Principal de El Bosque
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

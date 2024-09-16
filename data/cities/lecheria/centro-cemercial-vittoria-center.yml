@@ -1,11 +1,11 @@
 id: 1087377344
-type: way
+type: node
 latitude: 10.17157
 longitude: -64.68377
 postcode: "6016"
 city: Lechería
-street: "Calle 12"
-housenumber: 
+street: Calle 12
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

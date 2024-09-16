@@ -4,8 +4,8 @@ latitude: 10.43614
 longitude: -66.86427
 postcode: "1080"
 city: Caracas
-street: "Calle Las Vegas"
-housenumber: 
+street: Calle Las Vegas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-16:00"
-website: "https://www.sftienda.com/"
+opening_hours: Mo-Sa 08:00-16:00
+website: https://www.sftienda.com/

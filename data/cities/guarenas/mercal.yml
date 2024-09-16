@@ -1,11 +1,11 @@
 id: 398404543
-type: way
+type: node
 latitude: 10.46199
 longitude: -66.61364
 postcode: "1220"
 city: Guarenas
-street: "Avenida Principal de Ruiz Pineda"
-housenumber: 
+street: Avenida Principal de Ruiz Pineda
+housenumber: ""
 phone: ""
-opening_hours: "09:00-15:00"
+opening_hours: 09:00-15:00
 website: ""

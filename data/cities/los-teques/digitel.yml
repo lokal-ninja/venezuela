@@ -4,8 +4,8 @@ latitude: 10.35061
 longitude: -67.01463
 postcode: "1201"
 city: Los Teques
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 296966352
-type: way
+type: node
 latitude: 10.47232
 longitude: -66.95415
 postcode: "1020"
 city: Caracas
-street: "Calle 40 de Montalbán"
-housenumber: 
+street: Calle 40 de Montalbán
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00;Su 08:00-13:00"
+opening_hours: Mo-Sa 08:00-18:00;Su 08:00-13:00
 website: ""

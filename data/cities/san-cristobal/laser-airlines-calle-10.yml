@@ -4,8 +4,9 @@ latitude: 7.76831
 longitude: -72.21869
 postcode: "5001"
 city: San Cristóbal
-street: "Calle 10"
-housenumber: 
-phone: "+58-276-3551778"
-opening_hours: "Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Calle 10
+housenumber: ""
+phone: +58-276-3551778
+opening_hours: Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

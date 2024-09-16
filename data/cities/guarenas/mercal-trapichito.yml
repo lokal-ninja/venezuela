@@ -1,11 +1,11 @@
 id: 398405672
-type: way
+type: node
 latitude: 10.46653
 longitude: -66.60341
 postcode: "1220"
 city: Guarenas
-street: "Av. Trapichito"
-housenumber: 
+street: Av. Trapichito
+housenumber: ""
 phone: ""
-opening_hours: "09:00-15:00"
+opening_hours: 09:00-15:00
 website: ""

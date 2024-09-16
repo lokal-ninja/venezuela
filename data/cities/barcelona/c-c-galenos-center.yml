@@ -1,11 +1,11 @@
 id: 914211197
-type: way
+type: node
 latitude: 10.14423
 longitude: -64.68779
 postcode: "6001"
 city: Barcelona
-street: "Av. Country Club"
-housenumber: 
+street: Av. Country Club
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

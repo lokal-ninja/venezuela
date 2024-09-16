@@ -4,8 +4,9 @@ latitude: 10.46894
 longitude: -66.85918
 postcode: "1061"
 city: Caracas
-street: "Calle L Santa Rosa de Lima"
-housenumber: 
-phone: "+58-212-9911802"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Calle L Santa Rosa de Lima
+housenumber: ""
+phone: +58-212-9911802
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

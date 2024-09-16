@@ -1,11 +1,11 @@
 id: 772023437
-type: way
+type: node
 latitude: 10.43403
 longitude: -66.86531
 postcode: "1080"
 city: Caracas
-street: "Amana"
-housenumber: 
+street: Amana
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

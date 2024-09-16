@@ -4,8 +4,9 @@ latitude: 10.48944
 longitude: -66.86321
 postcode: "1060"
 city: Caracas
-street: "Av. Venezuela"
-housenumber: 
-phone: "+58-212-2130600"
-opening_hours: "Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.avior.com.ve/"
+street: Av. Venezuela
+housenumber: ""
+phone: +58-212-2130600
+opening_hours: Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
+website: https://www.avior.com.ve/

@@ -1,11 +1,11 @@
 id: 709849619
-type: way
+type: node
 latitude: 10.46194
 longitude: -66.98307
 postcode: "1000"
 city: Caracas
-street: "Real de Antímano"
-housenumber: 15
-phone: "+58-212-4728432"
-opening_hours: "Mo-Sa 08:00-18:30; Su 08:00-16:00"
-website: "https://www.diadia.com.ve/"
+street: Real de Antímano
+housenumber: "15"
+phone: +58-212-4728432
+opening_hours: Mo-Sa 08:00-18:30; Su 08:00-16:00
+website: https://www.diadia.com.ve/

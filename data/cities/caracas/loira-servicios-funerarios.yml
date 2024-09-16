@@ -1,11 +1,11 @@
 id: 278018208
-type: way
+type: node
 latitude: 10.48332
 longitude: -66.94417
 postcode: "1020"
 city: Caracas
-street: "Av. Loira"
-housenumber: 
+street: Av. Loira
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

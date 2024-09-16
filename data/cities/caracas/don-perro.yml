@@ -1,11 +1,11 @@
 id: 342753804
-type: way
+type: node
 latitude: 10.43434
 longitude: -66.86101
 postcode: "1080"
 city: Caracas
-street: "San Mateo"
-housenumber: 
+street: San Mateo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

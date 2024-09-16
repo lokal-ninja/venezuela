@@ -1,11 +1,11 @@
 id: 300397788
-type: way
+type: node
 latitude: 10.44307
 longitude: -66.98957
 postcode: "1000"
 city: Caracas
-street: "Distribuidor: Caricuao"
-housenumber: 
+street: 'Distribuidor: Caricuao'
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00; 24/7"
+opening_hours: Mo-Su 06:00-21:00; 24/7
 website: ""

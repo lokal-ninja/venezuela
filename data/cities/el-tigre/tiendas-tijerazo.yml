@@ -1,11 +1,11 @@
 id: 746045736
-type: way
+type: node
 latitude: 8.8877
 longitude: -64.26066
 postcode: "6050"
 city: El Tigre
-street: "Avenida Francisco de Miranda"
-housenumber: 
+street: Avenida Francisco de Miranda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

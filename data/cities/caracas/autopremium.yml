@@ -1,11 +1,11 @@
 id: 221413626
-type: way
+type: node
 latitude: 10.49191
 longitude: -66.91931
 postcode: "1014"
 city: Caracas
-street: "Av. Sur 4"
-housenumber: 
+street: Av. Sur 4
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

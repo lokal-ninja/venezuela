@@ -1,11 +1,11 @@
 id: 385166534
-type: way
+type: node
 latitude: 10.50287
 longitude: -66.87716
 postcode: "1050"
 city: Caracas
-street: "Av. Los Samanes"
-housenumber: 
+street: Av. Los Samanes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

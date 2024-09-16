@@ -1,11 +1,11 @@
 id: 1208834214
-type: way
+type: node
 latitude: 10.43017
 longitude: -66.83998
 postcode: "1081"
 city: Caracas
-street: "Avenida Principal de El Hatillo"
-housenumber: 
-phone: "+58-424-2635684"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://home.traki.com/"
+street: Avenida Principal de El Hatillo
+housenumber: ""
+phone: +58-424-2635684
+opening_hours: Mo-Su 08:00-20:00
+website: https://home.traki.com/

@@ -4,8 +4,8 @@ latitude: 10.23387
 longitude: -67.57252
 postcode: ""
 city: Maracay
-street: "Calle Juan Vicente Gonzalez"
-housenumber: #34
-phone: "+58 424-3613744"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.facebook.com/anceautomotrizca/?ref=bookmarks"
+street: Calle Juan Vicente Gonzalez
+housenumber: '#34'
+phone: +58 424-3613744
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.facebook.com/anceautomotrizca/?ref=bookmarks

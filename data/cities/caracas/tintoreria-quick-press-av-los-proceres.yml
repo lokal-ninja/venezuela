@@ -4,8 +4,9 @@ latitude: 10.51476
 longitude: -66.89737
 postcode: "1010"
 city: Caracas
-street: "Av. Los Próceres"
-housenumber: 
-phone: "+58-212-5503555"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Los Próceres
+housenumber: ""
+phone: +58-212-5503555
+opening_hours: Mo-Fr 08:00-12:00, 14:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

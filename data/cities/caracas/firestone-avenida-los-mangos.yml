@@ -1,11 +1,11 @@
 id: 985181057
-type: way
+type: node
 latitude: 10.50805
 longitude: -66.87239
 postcode: "1050"
 city: Caracas
-street: "Avenida Los Mangos"
-housenumber: 
-phone: "+58-424-9068076"
+street: Avenida Los Mangos
+housenumber: ""
+phone: +58-424-9068076
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 119877120
-type: way
+type: node
 latitude: 10.50083
 longitude: -66.83347
 postcode: "1071"
 city: Caracas
-street: "Av. Sucre Los Dos Caminos"
-housenumber: 
+street: Av. Sucre Los Dos Caminos
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 06:30-12:30"
+opening_hours: Mo-Sa 06:00-21:00; Su 06:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 855261911
-type: way
+type: node
 latitude: 10.47578
 longitude: -64.18585
 postcode: ""
 city: Cumaná
-street: "Avenida Perimetral"
-housenumber: 
+street: Avenida Perimetral
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

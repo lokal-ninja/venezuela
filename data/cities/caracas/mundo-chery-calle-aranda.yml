@@ -4,8 +4,9 @@ latitude: 10.48221
 longitude: -66.89034
 postcode: "1040"
 city: Caracas
-street: "Calle Aranda"
-housenumber: 
-phone: "+58-412-???"
-opening_hours: "Mo-Fr 08:30-16:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Calle Aranda
+housenumber: ""
+phone: +58-412-???
+opening_hours: Mo-Fr 08:30-16:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

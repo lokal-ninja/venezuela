@@ -1,11 +1,12 @@
 id: 111877856
-type: way
+type: node
 latitude: 10.49138
 longitude: -66.86951
 postcode: "1050"
 city: Caracas
-street: "Boulevard de Sabana Grande"
-housenumber: 
+street: Boulevard de Sabana Grande
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-24:00; Su 08:00-19:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-19:00"
+opening_hours: Mo-Sa 08:00-24:00; Su 08:00-19:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-19:00
 website: ""

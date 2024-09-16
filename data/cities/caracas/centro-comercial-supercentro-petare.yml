@@ -1,11 +1,11 @@
 id: 252211007
-type: way
+type: node
 latitude: 10.47909
 longitude: -66.80747
 postcode: "1073"
 city: Caracas
-street: "Av. Principal de La Urbina"
-housenumber: 
+street: Av. Principal de La Urbina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

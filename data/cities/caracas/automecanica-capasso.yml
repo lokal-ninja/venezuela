@@ -1,11 +1,11 @@
 id: 256498998
-type: way
+type: node
 latitude: 10.48049
 longitude: -66.83226
 postcode: "1071"
 city: Caracas
-street: "Av. Milán"
-housenumber: 
+street: Av. Milán
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 293106929
-type: way
+type: node
 latitude: 10.48392
 longitude: -66.96366
 postcode: "1000"
 city: Caracas
-street: "Av. García González Da Silva"
-housenumber: 
+street: Av. García González Da Silva
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 07:45-15:45;Fr 07:45-16:45"
+opening_hours: Mo-Th 07:45-15:45;Fr 07:45-16:45
 website: ""

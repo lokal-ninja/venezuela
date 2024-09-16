@@ -1,11 +1,11 @@
 id: 1077149859
-type: way
+type: node
 latitude: 10.48586
 longitude: -66.94905
 postcode: "1000"
 city: Caracas
-street: "Av. Intercomunal de Antímano"
-housenumber: 
+street: Av. Intercomunal de Antímano
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-18:00"
+opening_hours: Mo-Su 06:00-18:00
 website: ""

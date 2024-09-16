@@ -1,11 +1,11 @@
 id: 276331983
-type: way
+type: node
 latitude: 10.3433
 longitude: -67.02996
 postcode: ""
 city: Los Teques
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

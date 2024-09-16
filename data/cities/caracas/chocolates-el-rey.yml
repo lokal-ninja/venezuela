@@ -1,11 +1,12 @@
 id: 712192933
-type: way
+type: node
 latitude: 10.49269
 longitude: -66.80775
 postcode: "1073"
 city: Caracas
-street: "Calle 7 de La Urbina"
-housenumber: 
-phone: "+58-212-2427738"
-opening_hours: "Mo-Fr 08:00-13:00; Jan 01, Apr 19, May 01, Jun 24, Jul 05, Jul 24, Oct 12, Dec 24, Dec 25, Dec 31 off"
-website: "https://www.vepol.com.ve/"
+street: Calle 7 de La Urbina
+housenumber: ""
+phone: +58-212-2427738
+opening_hours: Mo-Fr 08:00-13:00; Jan 01, Apr 19, May 01, Jun 24, Jul 05, Jul 24,
+    Oct 12, Dec 24, Dec 25, Dec 31 off
+website: https://www.vepol.com.ve/

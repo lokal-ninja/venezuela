@@ -1,11 +1,11 @@
 id: 1178757451
-type: way
+type: node
 latitude: 10.59467
 longitude: -66.99281
 postcode: "1162"
 city: Catia La Mar
-street: "Av. La Armada"
-housenumber: 
-phone: "+58-212-2004302"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.makro.com.ve/"
+street: Av. La Armada
+housenumber: ""
+phone: +58-212-2004302
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.makro.com.ve/

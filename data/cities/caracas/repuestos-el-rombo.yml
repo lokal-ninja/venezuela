@@ -4,8 +4,9 @@ latitude: 10.48153
 longitude: -66.91047
 postcode: "1040"
 city: Caracas
-street: "Av. Capitán Felipe Esteves"
-housenumber: 
-phone: "+58-212--6311278"
-opening_hours: "Mo-Sa 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Capitán Felipe Esteves
+housenumber: ""
+phone: +58-212--6311278
+opening_hours: Mo-Sa 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

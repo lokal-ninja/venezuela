@@ -4,8 +4,9 @@ latitude: 10.51512
 longitude: -66.93474
 postcode: "1030"
 city: Caracas
-street: "Av. Sucre"
-housenumber: 
-phone: "+58-212-8619532"
-opening_hours: "Mo-Fr 07:30-12:30,13:30-16:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Sucre
+housenumber: ""
+phone: +58-212-8619532
+opening_hours: Mo-Fr 07:30-12:30,13:30-16:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

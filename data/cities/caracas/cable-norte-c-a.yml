@@ -1,11 +1,11 @@
 id: 1080673429
-type: way
+type: node
 latitude: 10.46872
 longitude: -66.76573
 postcode: "1073"
 city: Caracas
-street: "Avenida La Línea"
-housenumber: 
+street: Avenida La Línea
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 712538362
-type: way
+type: node
 latitude: 10.41342
 longitude: -66.82124
 postcode: "1083"
 city: Caracas
-street: "Carretera: La Unión"
-housenumber: 
-phone: "+58-212-6358629"
-opening_hours: "We-Su 07:00-01:00"
+street: 'Carretera: La Unión'
+housenumber: ""
+phone: +58-212-6358629
+opening_hours: We-Su 07:00-01:00
 website: ""

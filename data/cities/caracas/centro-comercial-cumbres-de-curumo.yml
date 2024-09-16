@@ -1,11 +1,11 @@
 id: 238795628
-type: way
+type: node
 latitude: 10.46148
 longitude: -66.88514
 postcode: "1080"
 city: Caracas
-street: "Av. Lago de Valencia"
-housenumber: 
+street: Av. Lago de Valencia
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

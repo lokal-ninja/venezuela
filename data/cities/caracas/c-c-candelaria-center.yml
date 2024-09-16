@@ -1,11 +1,11 @@
 id: 702946357
-type: way
+type: node
 latitude: 10.50464
 longitude: -66.9046
 postcode: "1010"
 city: Caracas
-street: "Av. Este"
-housenumber: 
+street: Av. Este
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

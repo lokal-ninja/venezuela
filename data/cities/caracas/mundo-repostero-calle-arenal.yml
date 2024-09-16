@@ -4,8 +4,9 @@ latitude: 10.4353
 longitude: -66.86438
 postcode: "1080"
 city: Caracas
-street: "Calle Arenal"
-housenumber: 
-phone: "+58-414-2496182"
-opening_hours: "Mo-Fr 08:30-16:30; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.instagram.com/mundorepostero11/?hl=en"
+street: Calle Arenal
+housenumber: ""
+phone: +58-414-2496182
+opening_hours: Mo-Fr 08:30-16:30; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://www.instagram.com/mundorepostero11/?hl=en

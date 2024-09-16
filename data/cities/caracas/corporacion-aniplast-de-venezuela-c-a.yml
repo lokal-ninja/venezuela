@@ -1,11 +1,11 @@
 id: 1060142366
-type: way
+type: node
 latitude: 10.47743
 longitude: -66.76961
 postcode: "1071"
 city: Caracas
-street: "Calle 1"
-housenumber: 
+street: Calle 1
+housenumber: ""
 phone: "02125321466"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.coranven.com"
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.coranven.com

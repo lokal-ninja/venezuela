@@ -4,8 +4,8 @@ latitude: 10.59757
 longitude: -67.00167
 postcode: "1162"
 city: Catia La Mar
-street: "Vìa: Embarque y Desembarque del Terminal Nacional"
-housenumber: 
+street: 'Vìa: Embarque y Desembarque del Terminal Nacional'
+housenumber: ""
 phone: "0501788222"
-opening_hours: "Mo-Su 07:00-17:00"
-website: "https://www.flyrutaca.com/"
+opening_hours: Mo-Su 07:00-17:00
+website: https://www.flyrutaca.com/

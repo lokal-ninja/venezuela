@@ -1,11 +1,11 @@
 id: 493910234
-type: way
+type: node
 latitude: 7.52916
 longitude: -71.96068
 postcode: ""
 city: El Piñal
-street: "calle 4"
-housenumber: 3
+street: calle 4
+housenumber: "3"
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

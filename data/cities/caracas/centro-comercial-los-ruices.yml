@@ -1,11 +1,11 @@
 id: 154352160
-type: way
+type: node
 latitude: 10.49343
 longitude: -66.82924
 postcode: "1071"
 city: Caracas
-street: "Av. Principal de Los Ruices"
-housenumber: 
+street: Av. Principal de Los Ruices
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

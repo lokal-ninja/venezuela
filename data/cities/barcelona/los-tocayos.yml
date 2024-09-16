@@ -4,8 +4,8 @@ latitude: 10.15241
 longitude: -64.67024
 postcode: "6001"
 city: Barcelona
-street: "Avenida 2"
-housenumber: 
+street: Avenida 2
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

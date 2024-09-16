@@ -1,11 +1,11 @@
 id: 718169642
-type: way
+type: node
 latitude: 10.46903
 longitude: -66.85981
 postcode: "1061"
 city: Caracas
-street: "Calle A Santa Rosa de Lima"
-housenumber: 
+street: Calle A Santa Rosa de Lima
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

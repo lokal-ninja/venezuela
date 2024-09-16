@@ -1,11 +1,11 @@
 id: 1079827512
-type: way
+type: node
 latitude: 10.20036
 longitude: -64.67505
 postcode: "6016"
 city: Lechería
-street: "Avenida Américo Vespucio"
-housenumber: 
+street: Avenida Américo Vespucio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

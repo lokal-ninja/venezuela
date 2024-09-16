@@ -1,11 +1,11 @@
 id: 484907523
-type: way
+type: node
 latitude: 10.07421
 longitude: -69.35339
 postcode: "3001"
 city: Barquisimeto
-street: "Calle 30"
-housenumber: 
+street: Calle 30
+housenumber: ""
 phone: "02512372628"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.rbproducciones.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.rbproducciones.com/

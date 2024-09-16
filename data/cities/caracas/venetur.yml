@@ -4,8 +4,9 @@ latitude: 10.49971
 longitude: -66.89925
 postcode: "1010"
 city: Caracas
-street: "Sur 25"
-housenumber: 
-phone: "+58-212-5034359"
-opening_hours: "Mo-Fr 08:00-12:30, 13:30-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31, off"
-website: "http://www.venetur.gob.ve/index.php/Oficinas-Comerciales/oficinas-comerciales.html"
+street: Sur 25
+housenumber: ""
+phone: +58-212-5034359
+opening_hours: Mo-Fr 08:00-12:30, 13:30-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31, off
+website: http://www.venetur.gob.ve/index.php/Oficinas-Comerciales/oficinas-comerciales.html

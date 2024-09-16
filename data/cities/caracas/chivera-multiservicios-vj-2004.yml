@@ -1,11 +1,12 @@
 id: 1075168488
-type: way
+type: node
 latitude: 10.51494
 longitude: -66.93049
 postcode: "1030"
 city: Caracas
-street: "Calle La Ceiba"
+street: Calle La Ceiba
 housenumber: Local 72-10
-phone: "+58-212-8628894"
-opening_hours: "Mo-Fr 08:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+phone: +58-212-8628894
+opening_hours: Mo-Fr 08:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

@@ -1,11 +1,11 @@
 id: 266745077
-type: way
+type: node
 latitude: 8.87505
 longitude: -64.24637
 postcode: "6050"
 city: El Tigre
-street: "Av. Rotaria"
-housenumber: 
+street: Av. Rotaria
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa-Su 12:00-20:00"
+opening_hours: Mo-Fr 11:00-20:00; Sa-Su 12:00-20:00
 website: ""

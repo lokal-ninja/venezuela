@@ -1,11 +1,11 @@
 id: 642652864
-type: way
+type: node
 latitude: 10.6693
 longitude: -71.60733
 postcode: "4002"
 city: Maracaibo
-street: "Avenida 3Y"
-housenumber: 
+street: Avenida 3Y
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

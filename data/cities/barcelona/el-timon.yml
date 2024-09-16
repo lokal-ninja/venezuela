@@ -4,8 +4,8 @@ latitude: 10.17275
 longitude: -64.68306
 postcode: "6001"
 city: Barcelona
-street: "Calle 13"
-housenumber: 
+street: Calle 13
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

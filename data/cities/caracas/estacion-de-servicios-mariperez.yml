@@ -1,11 +1,11 @@
 id: 1079910948
-type: way
+type: node
 latitude: 10.50419
 longitude: -66.88746
 postcode: "1050"
 city: Caracas
-street: "Av. Andrés Bello"
-housenumber: 
+street: Av. Andrés Bello
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

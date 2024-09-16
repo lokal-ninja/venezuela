@@ -1,11 +1,11 @@
 id: 1060148201
-type: way
+type: node
 latitude: 10.47657
 longitude: -66.77283
 postcode: "1071"
 city: Caracas
-street: "Calle 1"
-housenumber: 
-phone: "+58-412-3086066"
+street: Calle 1
+housenumber: ""
+phone: +58-412-3086066
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 277463513
-type: way
+type: node
 latitude: 10.4637
 longitude: -66.84
 postcode: "1061"
 city: Caracas
-street: "Av. Circunvalación del Sol"
-housenumber: 
+street: Av. Circunvalación del Sol
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

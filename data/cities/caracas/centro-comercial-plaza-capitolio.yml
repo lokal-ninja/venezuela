@@ -1,11 +1,11 @@
 id: 348344108
-type: way
+type: node
 latitude: 10.50512
 longitude: -66.91657
 postcode: "1010"
 city: Caracas
-street: "Av. Sur 4"
-housenumber: 
+street: Av. Sur 4
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

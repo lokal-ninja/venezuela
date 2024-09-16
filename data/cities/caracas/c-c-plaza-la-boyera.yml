@@ -1,11 +1,11 @@
 id: 530720943
-type: way
+type: node
 latitude: 10.42815
 longitude: -66.83985
 postcode: "1081"
 city: Caracas
-street: "Av. Principal de El Hatillo"
-housenumber: 
+street: Av. Principal de El Hatillo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

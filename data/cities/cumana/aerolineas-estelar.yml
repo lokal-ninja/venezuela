@@ -4,8 +4,9 @@ latitude: 10.45247
 longitude: -64.13381
 postcode: "6101"
 city: Cumaná
-street: "Av. Rotaria"
-housenumber: 
-phone: "+58-293-??"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,24,Oct 12,Dec 24,25,31 off"
+street: Av. Rotaria
+housenumber: ""
+phone: +58-293-??
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,24,Oct 12,Dec 24,25,31 off
 website: ""

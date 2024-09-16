@@ -1,11 +1,11 @@
 id: 235515221
-type: way
+type: node
 latitude: 10.49284
 longitude: -66.87736
 postcode: "1050"
 city: Caracas
-street: "Av. Casanova"
-housenumber: 
-phone: "+58-412-6080349"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://home.traki.com/"
+street: Av. Casanova
+housenumber: ""
+phone: +58-412-6080349
+opening_hours: Mo-Su 08:00-21:00
+website: https://home.traki.com/

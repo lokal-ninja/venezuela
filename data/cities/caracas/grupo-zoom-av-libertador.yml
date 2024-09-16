@@ -4,8 +4,9 @@ latitude: 10.49089
 longitude: -66.85381
 postcode: "1060"
 city: Caracas
-street: "Av. Libertador"
-housenumber: 
-phone: "+58-212-2678865"
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-17:30; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.zoomenvios.com/"
+street: Av. Libertador
+housenumber: ""
+phone: +58-212-2678865
+opening_hours: Mo-Fr 09:30-12:00, 14:00-17:30; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://www.zoomenvios.com/

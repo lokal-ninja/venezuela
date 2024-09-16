@@ -1,11 +1,11 @@
 id: 1080384956
-type: way
+type: node
 latitude: 10.18945
 longitude: -64.68872
 postcode: "6016"
 city: Lechería
-street: "Av. Bolivar"
-housenumber: 
+street: Av. Bolivar
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

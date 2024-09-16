@@ -4,8 +4,9 @@ latitude: 10.4905
 longitude: -66.92517
 postcode: "1020"
 city: Caracas
-street: "Madariaga"
-housenumber: 
-phone: "+58-212-4812771"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.retoucherieamerica.com"
+street: Madariaga
+housenumber: ""
+phone: +58-212-4812771
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-18:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://www.retoucherieamerica.com

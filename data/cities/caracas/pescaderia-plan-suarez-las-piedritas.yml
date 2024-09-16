@@ -1,11 +1,12 @@
 id: 713728166
-type: way
+type: node
 latitude: 10.43741
 longitude: -66.8659
 postcode: "1080"
 city: Caracas
-street: "Las Piedritas"
-housenumber: 
-phone: "+58-212-9435857"
-opening_hours: "Mo-Sa 07:30-19:30; Su 08:00-16:30; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-16:30"
-website: "http://www.plansuarez.com.ve/web/"
+street: Las Piedritas
+housenumber: ""
+phone: +58-212-9435857
+opening_hours: Mo-Sa 07:30-19:30; Su 08:00-16:30; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-16:30
+website: http://www.plansuarez.com.ve/web/

@@ -1,11 +1,11 @@
 id: 791612215
-type: way
+type: node
 latitude: 10.48584
 longitude: -66.86387
 postcode: "1060"
 city: Caracas
-street: "Av. Rio de Janeiro"
-housenumber: 
+street: Av. Rio de Janeiro
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:30-21:00; Fr-Sa 08:30-23:00; Su 08:30-21:00"
-website: "https://rio-cake-bistro.negocio.site/?utm_source=gmb&utm_medium=referral"
+opening_hours: Mo-Th 08:30-21:00; Fr-Sa 08:30-23:00; Su 08:30-21:00
+website: https://rio-cake-bistro.negocio.site/?utm_source=gmb&utm_medium=referral

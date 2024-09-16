@@ -1,11 +1,11 @@
 id: 223358273
-type: way
+type: node
 latitude: 10.14817
 longitude: -64.6953
 postcode: "6001"
 city: Barcelona
-street: "Avenida Centurión"
-housenumber: 
+street: Avenida Centurión
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

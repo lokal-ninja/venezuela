@@ -1,11 +1,11 @@
 id: 1077574503
-type: way
+type: node
 latitude: 10.49393
 longitude: -66.91647
 postcode: "1010"
 city: Caracas
-street: "Av. Sur"
-housenumber: 
+street: Av. Sur
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-18:00"
+opening_hours: Mo-Su 06:00-18:00
 website: ""

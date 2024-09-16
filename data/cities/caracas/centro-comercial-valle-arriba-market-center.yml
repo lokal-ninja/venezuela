@@ -1,11 +1,11 @@
 id: 251562714
-type: way
+type: node
 latitude: 10.46713
 longitude: -66.86597
 postcode: "1083"
 city: Caracas
-street: "Av. Sur"
-housenumber: 
+street: Av. Sur
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

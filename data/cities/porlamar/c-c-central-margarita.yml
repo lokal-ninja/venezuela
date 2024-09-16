@@ -1,11 +1,11 @@
 id: 161635769
-type: way
+type: node
 latitude: 10.96719
 longitude: -63.82288
 postcode: ""
 city: Porlamar
-street: "Avenida Bolívar"
-housenumber: 
+street: Avenida Bolívar
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Su 08:00-15:00;Sa 08:00-12:00"
+opening_hours: Tu-Su 08:00-15:00;Sa 08:00-12:00
 website: ""

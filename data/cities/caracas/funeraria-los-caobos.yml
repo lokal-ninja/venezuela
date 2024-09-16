@@ -1,11 +1,11 @@
 id: 239110199
-type: way
+type: node
 latitude: 10.49947
 longitude: -66.88368
 postcode: "1050"
 city: Caracas
-street: "Av. Libertador"
-housenumber: 
+street: Av. Libertador
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

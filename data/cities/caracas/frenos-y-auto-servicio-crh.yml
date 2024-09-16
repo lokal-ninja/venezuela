@@ -1,11 +1,11 @@
 id: 998710154
-type: way
+type: node
 latitude: 10.50464
 longitude: -66.94898
 postcode: ""
 city: Caracas
-street: "Calle El Atlántico"
-housenumber: 160
-phone: "+58 212-8703702;+58 212-8705601"
+street: Calle El Atlántico
+housenumber: "160"
+phone: +58 212-8703702;+58 212-8705601
 opening_hours: ""
 website: ""

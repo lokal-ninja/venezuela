@@ -1,11 +1,11 @@
 id: 373299156
-type: way
+type: node
 latitude: 10.49288
 longitude: -66.87798
 postcode: "1050"
 city: Caracas
-street: "Av. Casanova"
-housenumber: 
+street: Av. Casanova
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

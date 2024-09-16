@@ -1,11 +1,11 @@
 id: 642196694
-type: way
+type: node
 latitude: 10.49267
 longitude: -66.80327
 postcode: "1073"
 city: Caracas
-street: "Calle 3-B de La Urbina"
-housenumber: 
+street: Calle 3-B de La Urbina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

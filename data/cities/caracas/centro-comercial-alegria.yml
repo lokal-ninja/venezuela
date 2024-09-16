@@ -1,11 +1,11 @@
 id: 525272327
-type: way
+type: node
 latitude: 10.5026
 longitude: -66.8202
 postcode: "1071"
 city: Caracas
-street: "Av. El Rosario"
-housenumber: 
+street: Av. El Rosario
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

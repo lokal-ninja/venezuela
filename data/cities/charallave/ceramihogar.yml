@@ -1,11 +1,12 @@
 id: 342806349
-type: way
+type: node
 latitude: 10.21616
 longitude: -66.87144
 postcode: ""
 city: Charallave
-street: "Carretera Charallave - Cua"
-housenumber: 
-phone: "+58-239-2481210"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-15:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://ceramihogar.com.ve/"
+street: Carretera Charallave - Cua
+housenumber: ""
+phone: +58-239-2481210
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-15:00; Jan 1,Apr 19,May 1,Jun
+    24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off
+website: https://ceramihogar.com.ve/

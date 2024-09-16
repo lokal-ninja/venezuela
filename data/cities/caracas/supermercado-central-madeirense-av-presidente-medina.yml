@@ -1,11 +1,11 @@
 id: 449022703
-type: way
+type: node
 latitude: 10.48527
 longitude: -66.90111
 postcode: "1040"
 city: Caracas
-street: "Av. Presidente Medina"
-housenumber: 
-phone: "+58-212-6330201"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-14:00"
-website: "http://www.centralmadeirense.com.ve/"
+street: Av. Presidente Medina
+housenumber: ""
+phone: +58-212-6330201
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-14:00
+website: http://www.centralmadeirense.com.ve/

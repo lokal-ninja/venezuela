@@ -1,11 +1,11 @@
 id: 998757405
-type: way
+type: node
 latitude: 10.50663
 longitude: -66.94767
 postcode: "1030"
 city: Caracas
-street: "Calle Colombia"
-housenumber: 
+street: Calle Colombia
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-18:00"
+opening_hours: Mo-Su 06:00-18:00
 website: ""

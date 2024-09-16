@@ -1,11 +1,11 @@
 id: 374101139
-type: way
+type: node
 latitude: 10.48314
 longitude: -66.86111
 postcode: "1060"
 city: Caracas
-street: "París"
-housenumber: 
-phone: "+58-212-9927231"
-opening_hours: "24/7"
-website: "https://excelsiorgama.com/"
+street: París
+housenumber: ""
+phone: +58-212-9927231
+opening_hours: 24/7
+website: https://excelsiorgama.com/

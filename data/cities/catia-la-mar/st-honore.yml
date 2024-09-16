@@ -4,8 +4,9 @@ latitude: 10.59791
 longitude: -66.99932
 postcode: "1162"
 city: Catia La Mar
-street: "Vìa: Embarque y Desembarque del Terminal Nacional"
-housenumber: 
-phone: "+58-212-???"
-opening_hours: "Mo-Sa 08:00-21:30; Su 08:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-20:00"
+street: 'Vìa: Embarque y Desembarque del Terminal Nacional'
+housenumber: ""
+phone: +58-212-???
+opening_hours: Mo-Sa 08:00-21:30; Su 08:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-20:00
 website: ""

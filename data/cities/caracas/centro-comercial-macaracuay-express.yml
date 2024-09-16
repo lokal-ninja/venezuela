@@ -1,11 +1,12 @@
 id: 280843227
-type: way
+type: node
 latitude: 10.4563
 longitude: -66.81679
 postcode: "1071"
 city: Caracas
-street: "Av. Luís de Camoes"
-housenumber: 
-phone: "+58-212-"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-20:00"
+street: Av. Luís de Camoes
+housenumber: ""
+phone: +58-212-
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-20:00
 website: ""

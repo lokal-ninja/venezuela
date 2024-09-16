@@ -1,11 +1,11 @@
 id: 273151510
-type: way
+type: node
 latitude: 10.34107
 longitude: -67.03895
 postcode: "1201"
 city: Los Teques
-street: "Av. Independencia"
-housenumber: 
+street: Av. Independencia
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 946943377
-type: way
+type: node
 latitude: 10.08779
 longitude: -69.32651
 postcode: "3001"
 city: Barquisimeto
-street: "carrera 4 entre calles 2 y 3"
-housenumber: 
+street: carrera 4 entre calles 2 y 3
+housenumber: ""
 phone: "+584166519954"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.instagram.com/distribuidora_casamayorgimenez/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.instagram.com/distribuidora_casamayorgimenez/

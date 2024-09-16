@@ -1,11 +1,11 @@
 id: 549060018
-type: way
+type: node
 latitude: 10.48568
 longitude: -66.87608
 postcode: "1050"
 city: Caracas
-street: "Av. Neverí"
-housenumber: 
+street: Av. Neverí
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

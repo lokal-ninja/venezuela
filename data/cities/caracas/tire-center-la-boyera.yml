@@ -1,11 +1,11 @@
 id: 817951909
-type: way
+type: node
 latitude: 10.42624
 longitude: -66.83617
 postcode: "1081"
 city: Caracas
-street: "Av. Principal de El Hatillo"
-housenumber: 
+street: Av. Principal de El Hatillo
+housenumber: ""
 phone: "+582129631865"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-14:00"
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-14:00
 website: ""

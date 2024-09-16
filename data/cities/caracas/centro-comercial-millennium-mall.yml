@@ -1,11 +1,12 @@
 id: 119762499
-type: way
+type: node
 latitude: 10.49577
 longitude: -66.83376
 postcode: "1071"
 city: Caracas
-street: "Av. Rómulo Gallegos"
-housenumber: 
+street: Av. Rómulo Gallegos
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-20:00"
-website: "http://www.millenniummall.com/"
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-20:00
+website: http://www.millenniummall.com/

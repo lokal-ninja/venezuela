@@ -1,11 +1,11 @@
 id: 517625979
-type: way
+type: node
 latitude: 10.43137
 longitude: -66.85049
 postcode: "1080"
 city: Caracas
-street: "Av. Principal de El Hatillo"
-housenumber: 
+street: Av. Principal de El Hatillo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

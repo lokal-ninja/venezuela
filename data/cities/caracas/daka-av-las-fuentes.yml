@@ -1,11 +1,11 @@
 id: 909448580
-type: way
+type: node
 latitude: 10.48537
 longitude: -66.93959
 postcode: "1020"
 city: Caracas
-street: "Av. Las Fuentes"
-housenumber: 
+street: Av. Las Fuentes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.tiendasdaka.com/"
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.tiendasdaka.com/

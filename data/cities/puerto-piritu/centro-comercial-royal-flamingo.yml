@@ -1,11 +1,11 @@
 id: 1195045661
-type: way
+type: node
 latitude: 10.06262
 longitude: -65.04612
 postcode: "6022"
 city: Puerto Píritu
-street: "Paseo de los Pescadores"
-housenumber: 
+street: Paseo de los Pescadores
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

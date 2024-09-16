@@ -1,11 +1,11 @@
 id: 950097142
-type: way
+type: node
 latitude: 10.43609
 longitude: -66.99479
 postcode: "1000"
 city: Caracas
-street: "Av. Principal de Ruíz Pineda"
-housenumber: 
+street: Av. Principal de Ruíz Pineda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

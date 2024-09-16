@@ -4,8 +4,9 @@ latitude: 10.50523
 longitude: -66.90118
 postcode: "1010"
 city: Caracas
-street: "Av. Vollmer"
-housenumber: 
-phone: "+58-424-2723773"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-21:00"
-website: "https://pandetata.com/"
+street: Av. Vollmer
+housenumber: ""
+phone: +58-424-2723773
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-20:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 12:00-21:00
+website: https://pandetata.com/

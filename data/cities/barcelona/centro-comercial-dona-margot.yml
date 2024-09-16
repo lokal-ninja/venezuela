@@ -1,11 +1,11 @@
 id: 1113159132
-type: way
+type: node
 latitude: 10.12644
 longitude: -64.68243
 postcode: "6001"
 city: Barcelona
-street: "Calle Nicolas Rolando"
-housenumber: 
+street: Calle Nicolas Rolando
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

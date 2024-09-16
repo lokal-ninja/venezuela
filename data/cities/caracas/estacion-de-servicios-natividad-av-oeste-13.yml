@@ -1,11 +1,11 @@
 id: 1077849999
-type: way
+type: node
 latitude: 10.51646
 longitude: -66.92111
 postcode: "1010"
 city: Caracas
-street: "Av. Oeste 13"
-housenumber: 
+street: Av. Oeste 13
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-18:00"
+opening_hours: Mo-Su 06:00-18:00
 website: ""

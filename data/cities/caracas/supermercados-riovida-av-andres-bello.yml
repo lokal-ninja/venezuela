@@ -1,11 +1,11 @@
 id: 233332274
-type: way
+type: node
 latitude: 10.50396
 longitude: -66.88424
 postcode: "1050"
 city: Caracas
-street: "Av. Andrés Bello"
-housenumber: 
-phone: "+58-424-2651167"
-opening_hours: "Mo-Su 08:00-20:00"
+street: Av. Andrés Bello
+housenumber: ""
+phone: +58-424-2651167
+opening_hours: Mo-Su 08:00-20:00
 website: ""

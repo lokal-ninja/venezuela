@@ -1,11 +1,11 @@
 id: 782730275
-type: way
+type: node
 latitude: 10.06391
 longitude: -69.28938
 postcode: "3001"
 city: Barquisimeto
-street: "Av. Lara"
-housenumber: 
+street: Av. Lara
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

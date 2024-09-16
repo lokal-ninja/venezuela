@@ -1,11 +1,11 @@
 id: 912235604
-type: way
+type: node
 latitude: 10.15047
 longitude: -64.68455
 postcode: "6001"
 city: Barcelona
-street: "Avenida Centurión"
-housenumber: 
+street: Avenida Centurión
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

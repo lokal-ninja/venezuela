@@ -1,11 +1,11 @@
 id: 1102703473
-type: way
+type: node
 latitude: 10.13405
 longitude: -64.68579
 postcode: "6001"
 city: Barcelona
-street: "Boulevard 5 de  julio"
-housenumber: 
+street: Boulevard 5 de  julio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

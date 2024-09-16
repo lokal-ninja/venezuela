@@ -1,11 +1,11 @@
 id: 706147623
-type: way
+type: node
 latitude: 10.67906
 longitude: -71.60415
 postcode: "40001"
 city: Maracaibo
-street: "Avenida 3F"
-housenumber: 65
+street: Avenida 3F
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

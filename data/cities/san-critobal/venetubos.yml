@@ -1,11 +1,11 @@
 id: 247179114
-type: way
+type: node
 latitude: 7.80715
 longitude: -72.23063
 postcode: "5001"
 city: San Critóbal
-street: "Autopista: San Cristóbal - La Fría"
-housenumber: 
+street: 'Autopista: San Cristóbal - La Fría'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

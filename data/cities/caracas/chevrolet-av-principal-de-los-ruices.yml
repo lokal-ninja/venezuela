@@ -1,11 +1,11 @@
 id: 244107330
-type: way
+type: node
 latitude: 10.48679
 longitude: -66.83019
 postcode: "1071"
 city: Caracas
-street: "Av. Principal de Los Ruices"
-housenumber: 
+street: Av. Principal de Los Ruices
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

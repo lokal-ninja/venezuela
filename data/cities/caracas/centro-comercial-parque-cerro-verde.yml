@@ -1,11 +1,11 @@
 id: 313501224
-type: way
+type: node
 latitude: 10.4488
 longitude: -66.8314
 postcode: "1061"
 city: Caracas
-street: "Av. Rómulo Betancourt"
-housenumber: 
+street: Av. Rómulo Betancourt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
+opening_hours: Mo-Su 11:00-19:00
 website: ""

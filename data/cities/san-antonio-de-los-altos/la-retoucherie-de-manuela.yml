@@ -4,8 +4,8 @@ latitude: 10.37412
 longitude: -66.97096
 postcode: "1204"
 city: San Antonio de los Altos
-street: "Carretera: Panamericana"
-housenumber: 
-phone: "+58-212-3729419"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.retoucherieamerica.com"
+street: 'Carretera: Panamericana'
+housenumber: ""
+phone: +58-212-3729419
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.retoucherieamerica.com

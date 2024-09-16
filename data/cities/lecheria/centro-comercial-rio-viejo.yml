@@ -1,11 +1,11 @@
 id: 1082196577
-type: way
+type: node
 latitude: 10.17962
 longitude: -64.69142
 postcode: "6016"
 city: Lechería
-street: "Calle Cajigal"
-housenumber: 
+street: Calle Cajigal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

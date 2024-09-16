@@ -1,11 +1,12 @@
 id: 1301870821
-type: way
+type: node
 latitude: 10.48016
 longitude: -66.83554
 postcode: "1071"
 city: Caracas
-street: "Av. Rio de Janeiro"
-housenumber: 
+street: Av. Rio de Janeiro
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://jacvenezuela.com/"
+opening_hours: Mo-Fr 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
+website: https://jacvenezuela.com/

@@ -1,11 +1,11 @@
 id: 428314277
-type: way
+type: node
 latitude: 10.43659
 longitude: -66.86615
 postcode: "1080"
 city: Caracas
-street: "Luis de Canoens"
-housenumber: 
-phone: "+58-414-1426493"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://www.tiendasdaka.com/"
+street: Luis de Canoens
+housenumber: ""
+phone: +58-414-1426493
+opening_hours: Mo-Su 08:00-17:00
+website: https://www.tiendasdaka.com/

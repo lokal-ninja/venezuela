@@ -4,8 +4,8 @@ latitude: 10.12417
 longitude: -64.67942
 postcode: "6001"
 city: Barcelona
-street: "calle san Carlos"
-housenumber: 
+street: calle san Carlos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

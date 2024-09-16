@@ -1,11 +1,11 @@
 id: 889234690
-type: way
+type: node
 latitude: 8.25657
 longitude: -62.78243
 postcode: ""
 city: Ciudad Guayana (Puerto Ordaz)
-street: "Calle Ventuari"
-housenumber: 13
+street: Calle Ventuari
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

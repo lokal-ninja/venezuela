@@ -1,11 +1,11 @@
 id: 213012205
-type: way
+type: node
 latitude: 10.48728
 longitude: -66.946
 postcode: "1020"
 city: Caracas
-street: "Av. La Paz"
-housenumber: 
+street: Av. La Paz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

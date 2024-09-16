@@ -1,11 +1,11 @@
 id: 712893763
-type: way
+type: node
 latitude: 10.43699
 longitude: -66.85703
 postcode: "1080"
 city: Caracas
-street: "Calle La Solera"
-housenumber: 
+street: Calle La Solera
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

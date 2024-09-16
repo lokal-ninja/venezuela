@@ -1,11 +1,11 @@
 id: 1079902895
-type: way
+type: node
 latitude: 10.48683
 longitude: -66.86954
 postcode: "1050"
 city: Caracas
-street: "Harward"
-housenumber: 
+street: Harward
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

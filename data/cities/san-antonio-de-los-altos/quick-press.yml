@@ -4,8 +4,9 @@ latitude: 10.36999
 longitude: -66.98286
 postcode: "1204"
 city: San Antonio de Los Altos
-street: "Carretera: Panamericana"
-housenumber: 
-phone: "+58-212-3727722"
-opening_hours: "Mo-Sa 08:00-19:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: 'Carretera: Panamericana'
+housenumber: ""
+phone: +58-212-3727722
+opening_hours: Mo-Sa 08:00-19:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

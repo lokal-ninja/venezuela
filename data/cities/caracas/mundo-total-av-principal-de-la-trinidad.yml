@@ -1,11 +1,11 @@
 id: 432771827
-type: way
+type: node
 latitude: 10.43421
 longitude: -66.86521
 postcode: "1080"
 city: Caracas
-street: "Av. Principal de La Trinidad"
-housenumber: 
-phone: "+58-412-6182234"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://tumundototal.com/"
+street: Av. Principal de La Trinidad
+housenumber: ""
+phone: +58-412-6182234
+opening_hours: Mo-Su 08:00-18:00
+website: https://tumundototal.com/

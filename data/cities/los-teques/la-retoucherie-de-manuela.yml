@@ -4,8 +4,8 @@ latitude: 10.35061
 longitude: -67.01429
 postcode: "1201"
 city: Los Teques
-street: "Carretera: Panamericana"
-housenumber: 
-phone: "+58-212-5170243"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30, ; Su 10:30-15:00"
-website: "https://www.retoucherieamerica.com"
+street: 'Carretera: Panamericana'
+housenumber: ""
+phone: +58-212-5170243
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30, ; Su 10:30-15:00
+website: https://www.retoucherieamerica.com

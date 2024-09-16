@@ -1,11 +1,11 @@
 id: 1087346358
-type: way
+type: node
 latitude: 10.15265
 longitude: -64.69654
 postcode: "6001"
 city: Barcelona
-street: "Avenida El Ejercito"
-housenumber: 
+street: Avenida El Ejercito
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1227689309
-type: way
+type: node
 latitude: 10.49037
 longitude: -66.92695
 postcode: "1020"
 city: Caracas
-street: "Av. José Antonio Páez"
-housenumber: 
-phone: "+58-212-4725526"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-18:00"
-website: "https://www.elplazas.com/"
+street: Av. José Antonio Páez
+housenumber: ""
+phone: +58-212-4725526
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-18:00
+website: https://www.elplazas.com/

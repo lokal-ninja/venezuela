@@ -1,11 +1,12 @@
 id: 294886770
-type: way
+type: node
 latitude: 10.48295
 longitude: -66.86122
 postcode: "1060"
 city: Caracas
-street: "París"
-housenumber: 
-phone: "+58-212-9910411"
-opening_hours: "Mo-Sa 10:00-19:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "https://www.iskia.com/"
+street: París
+housenumber: ""
+phone: +58-212-9910411
+opening_hours: Mo-Sa 10:00-19:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
+website: https://www.iskia.com/

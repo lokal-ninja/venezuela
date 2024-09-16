@@ -1,11 +1,11 @@
 id: 791522195
-type: way
+type: node
 latitude: 10.48401
 longitude: -66.86399
 postcode: "1060"
 city: Caracas
-street: "Av. Principal de Las Mercedes"
-housenumber: 
+street: Av. Principal de Las Mercedes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

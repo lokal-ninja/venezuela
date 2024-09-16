@@ -1,11 +1,11 @@
 id: 490704895
-type: way
+type: node
 latitude: 11.69294
 longitude: -70.20836
 postcode: "4102"
 city: Punto fijo
-street: "Calle Ecuador"
-housenumber: 
+street: Calle Ecuador
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1190043830
-type: way
+type: node
 latitude: 10.961
 longitude: -71.7303
 postcode: "4044"
 city: San Rafael del Moján
-street: "Avenida 3"
-housenumber: 
+street: Avenida 3
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

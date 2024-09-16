@@ -4,8 +4,10 @@ latitude: 10.49276
 longitude: -66.91347
 postcode: "1010"
 city: Caracas
-street: "Av. 2 de Las Flores"
-housenumber: 
-phone: "+58-212-5433875"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
-website: "http://www.electricosmatch.com/index.html"
+street: Avenida 2
+housenumber: ""
+phone: +58 212-5433875
+opening_hours: Mo-Fr 08:00-17:00; Jan 01-Jan 01,Apr 19-Apr 19,May 01-May 01,Jun 24-Jun
+    24,Jul 05-Jul 05,Jul 24-Jul 24,Oct 12-Oct 12,Dec 24-Dec 24,Dec 25-Dec 25,Dec 31-Dec
+    31 closed "Día de Fiesta Nacional"
+website: http://www.electricosmatch.com/index.html

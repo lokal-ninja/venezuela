@@ -1,11 +1,11 @@
 id: 1052452479
-type: way
+type: node
 latitude: 10.49033
 longitude: -66.86139
 postcode: "1060"
 city: Caracas
-street: "Avenida Venezuela"
-housenumber: 
-phone: "+58-424-2635684"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://home.traki.com/"
+street: Avenida Venezuela
+housenumber: ""
+phone: +58-424-2635684
+opening_hours: Mo-Su 08:00-21:00
+website: https://home.traki.com/

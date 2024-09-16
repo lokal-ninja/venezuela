@@ -1,11 +1,11 @@
 id: 374104117
-type: way
+type: node
 latitude: 10.48593
 longitude: -66.86538
 postcode: "1060"
 city: Caracas
-street: "Av. Principal de Las Mercedes"
-housenumber: 
+street: Av. Principal de Las Mercedes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 684279156
-type: way
+type: node
 latitude: 7.75807
 longitude: -72.22994
 postcode: "5001"
 city: San Cristóbal
-street: "Carrera 10"
-housenumber: 
+street: Carrera 10
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

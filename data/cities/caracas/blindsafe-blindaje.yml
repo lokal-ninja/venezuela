@@ -1,11 +1,11 @@
 id: 256499019
-type: way
+type: node
 latitude: 10.47894
 longitude: -66.83104
 postcode: "1071"
 city: Caracas
-street: "Av. Trieste"
-housenumber: 
+street: Av. Trieste
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

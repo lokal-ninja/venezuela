@@ -1,11 +1,11 @@
 id: 712536662
-type: way
+type: node
 latitude: 10.42119
 longitude: -66.80272
 postcode: "1083"
 city: Caracas
-street: "Av. Las Lomas"
-housenumber: 
+street: Av. Las Lomas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

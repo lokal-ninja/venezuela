@@ -1,11 +1,11 @@
 id: 1075161224
-type: way
+type: node
 latitude: 10.48358
 longitude: -66.95177
 postcode: "1000"
 city: Caracas
-street: "Comercio"
-housenumber: 
+street: Comercio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

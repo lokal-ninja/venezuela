@@ -1,11 +1,11 @@
 id: 903203933
-type: way
+type: node
 latitude: 8.28682
 longitude: -62.7518
 postcode: ""
 city: Ciudad Guayana (Puerto Ordaz)
-street: "Calle Neverí"
-housenumber: 03
-phone: "+58 286-7178266"
-opening_hours: "Mo-Su 07:30-11:00"
+street: Calle Neverí
+housenumber: "03"
+phone: +58 286-7178266
+opening_hours: Mo-Su 07:30-11:00
 website: ""

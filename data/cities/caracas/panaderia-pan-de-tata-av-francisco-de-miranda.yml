@@ -1,11 +1,11 @@
 id: 797712236
-type: way
+type: node
 latitude: 10.49474
 longitude: -66.8505
 postcode: "1060"
 city: Caracas
-street: "Av. Francisco de Miranda"
-housenumber: 
-phone: "+58-424-2723773"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-15:00"
-website: "https://www.instagram.com/pandetata/?hl=es-la"
+street: Av. Francisco de Miranda
+housenumber: ""
+phone: +58-424-2723773
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-15:00
+website: https://www.instagram.com/pandetata/?hl=es-la

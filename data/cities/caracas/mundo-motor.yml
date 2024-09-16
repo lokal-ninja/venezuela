@@ -1,11 +1,11 @@
 id: 538763908
-type: way
+type: node
 latitude: 10.4885
 longitude: -66.88244
 postcode: "1050"
 city: Caracas
-street: "Av. Leonardo Da Vinci"
-housenumber: 
+street: Av. Leonardo Da Vinci
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

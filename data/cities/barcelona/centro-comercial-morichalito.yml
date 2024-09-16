@@ -1,11 +1,11 @@
 id: 1104799328
-type: way
+type: node
 latitude: 10.15737
 longitude: -64.6893
 postcode: "6001"
 city: Barcelona
-street: "Av. Fuerzas Armadas"
-housenumber: 
+street: Av. Fuerzas Armadas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

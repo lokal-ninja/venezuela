@@ -1,11 +1,11 @@
 id: 1220333227
-type: way
+type: node
 latitude: 10.46628
 longitude: -66.9728
 postcode: "1020"
 city: Caracas
-street: "Avenida Teherán"
-housenumber: 
+street: Avenida Teherán
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

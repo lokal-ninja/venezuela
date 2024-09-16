@@ -4,8 +4,8 @@ latitude: 10.15839
 longitude: -64.6872
 postcode: "6001"
 city: Barcelona
-street: "Calle principal"
-housenumber: 
+street: Calle principal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

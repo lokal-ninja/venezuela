@@ -1,11 +1,11 @@
 id: 230479551
-type: way
+type: node
 latitude: 10.50426
 longitude: -66.91188
 postcode: "1010"
 city: Caracas
-street: "Av. Sur 3"
-housenumber: 
+street: Av. Sur 3
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

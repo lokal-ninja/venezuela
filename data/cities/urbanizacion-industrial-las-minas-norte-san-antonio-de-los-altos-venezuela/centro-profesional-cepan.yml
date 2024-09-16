@@ -1,11 +1,11 @@
 id: 104628861
-type: way
+type: node
 latitude: 10.37476
 longitude: -66.97058
 postcode: ""
 city: Urbanización Industrial Las Minas Norte, San Antonio de Los Altos, Venezuela
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1084131718
-type: way
+type: node
 latitude: 10.49207
 longitude: -66.81888
 postcode: "1071"
 city: Caracas
-street: "Av. Rómulo Gallegos"
-housenumber: 
+street: Av. Rómulo Gallegos
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

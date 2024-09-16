@@ -1,11 +1,11 @@
 id: 153854058
-type: way
+type: node
 latitude: 10.48338
 longitude: -66.82719
 postcode: "1071"
 city: Caracas
-street: "Av. Principal Los Cortijos"
-housenumber: 
+street: Av. Principal Los Cortijos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

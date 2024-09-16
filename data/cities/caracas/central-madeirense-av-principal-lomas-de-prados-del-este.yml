@@ -1,11 +1,11 @@
 id: 529067102
-type: way
+type: node
 latitude: 10.43407
 longitude: -66.88407
 postcode: "1080"
 city: Caracas
-street: "Av. Principal Lomas de Prados del Este"
-housenumber: 
-phone: "+58-212-9440612"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "http://www.centralmadeirense.com.ve/"
+street: Av. Principal Lomas de Prados del Este
+housenumber: ""
+phone: +58-212-9440612
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: http://www.centralmadeirense.com.ve/

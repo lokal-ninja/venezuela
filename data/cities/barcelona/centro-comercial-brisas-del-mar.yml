@@ -1,11 +1,11 @@
 id: 1087387639
-type: way
+type: node
 latitude: 10.16035
 longitude: -64.68445
 postcode: "6001"
 city: Barcelona
-street: "Avenida Intercomunal Andrés Bello"
-housenumber: 
+street: Avenida Intercomunal Andrés Bello
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

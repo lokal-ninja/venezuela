@@ -4,8 +4,9 @@ latitude: 10.48863
 longitude: -66.92269
 postcode: "1020"
 city: Caracas
-street: "Cota 905"
-housenumber: 
-phone: "0212-4846726"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Cota 905
+housenumber: ""
+phone: 0212-4846726
+opening_hours: Mo-Fr 08:00-12:00,14:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

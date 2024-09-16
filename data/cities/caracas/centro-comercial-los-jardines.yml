@@ -1,11 +1,11 @@
 id: 918473291
-type: way
+type: node
 latitude: 10.48272
 longitude: -66.80689
 postcode: "1073"
 city: Caracas
-street: "Av. Principal de La Urbina"
-housenumber: 
+street: Av. Principal de La Urbina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

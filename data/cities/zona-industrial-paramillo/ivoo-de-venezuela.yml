@@ -1,11 +1,11 @@
 id: 247172595
-type: way
+type: node
 latitude: 7.80141
 longitude: -72.20689
 postcode: "5001"
 city: Zona Industrial Paramillo
-street: "Avenida 4"
-housenumber: 
+street: Avenida 4
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

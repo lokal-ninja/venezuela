@@ -4,8 +4,9 @@ latitude: 10.47214
 longitude: -66.96003
 postcode: "1020"
 city: Caracas
-street: "2ª Av. de Montalbán"
-housenumber: 
+street: 2ª Av. de Montalbán
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:30-20:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+opening_hours: Mo-Su 07:30-20:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

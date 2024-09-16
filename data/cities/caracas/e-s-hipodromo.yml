@@ -4,8 +4,8 @@ latitude: 10.43612
 longitude: -66.92541
 postcode: "1090"
 city: Caracas
-street: "Autopista: Regional del Centro"
-housenumber: 
+street: 'Autopista: Regional del Centro'
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

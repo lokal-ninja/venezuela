@@ -4,8 +4,8 @@ latitude: 10.42113
 longitude: -66.95266
 postcode: "1204"
 city: Caracas
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

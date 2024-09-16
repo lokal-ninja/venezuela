@@ -1,11 +1,11 @@
 id: 232072820
-type: way
+type: node
 latitude: 10.50805
 longitude: -66.90199
 postcode: "1010"
 city: Caracas
-street: "Av. La Estrella"
-housenumber: 
+street: Av. La Estrella
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

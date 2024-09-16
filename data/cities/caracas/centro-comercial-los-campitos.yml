@@ -1,11 +1,11 @@
 id: 161882244
-type: way
+type: node
 latitude: 10.45743
 longitude: -66.86903
 postcode: "1080"
 city: Caracas
-street: "Ruta Central Los Campitos"
-housenumber: 
+street: Ruta Central Los Campitos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 401050190
-type: way
+type: node
 latitude: 10.49533
 longitude: -66.91606
 postcode: "1010"
 city: Caracas
-street: "Av. Este 18"
-housenumber: 
-phone: "+58-212-5418791"
-opening_hours: "Mo-Fr 08:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. Este 18
+housenumber: ""
+phone: +58-212-5418791
+opening_hours: Mo-Fr 08:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

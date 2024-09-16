@@ -1,11 +1,11 @@
 id: 512043543
-type: way
+type: node
 latitude: 10.18288
 longitude: -67.98013
 postcode: "2006"
 city: San Diego
-street: "Autopista: Regional del Centro"
-housenumber: 
+street: 'Autopista: Regional del Centro'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

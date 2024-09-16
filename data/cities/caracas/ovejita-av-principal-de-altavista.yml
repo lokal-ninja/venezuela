@@ -1,11 +1,11 @@
 id: 237436453
-type: way
+type: node
 latitude: 10.51685
 longitude: -66.94206
 postcode: "1030"
 city: Caracas
-street: "Av. Principal de Altavista"
-housenumber: 
+street: Av. Principal de Altavista
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

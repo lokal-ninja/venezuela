@@ -1,11 +1,11 @@
 id: 226125270
-type: way
+type: node
 latitude: 10.43393
 longitude: -67.0016
 postcode: "1000"
 city: Caracas
-street: "Calle C de Ruíz Pineda"
-housenumber: 
+street: Calle C de Ruíz Pineda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

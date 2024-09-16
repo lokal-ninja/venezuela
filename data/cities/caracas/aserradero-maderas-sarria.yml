@@ -4,8 +4,9 @@ latitude: 10.51131
 longitude: -66.89427
 postcode: "1050"
 city: Caracas
-street: "Real de Sarría"
-housenumber: 
-phone: "+58-212-5731879"
-opening_hours: "Mo-Fr 07:30-12:30,13:30-16:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Real de Sarría
+housenumber: ""
+phone: +58-212-5731879
+opening_hours: Mo-Fr 07:30-12:30,13:30-16:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

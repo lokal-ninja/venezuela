@@ -1,11 +1,11 @@
 id: 258944010
-type: way
+type: node
 latitude: 10.49518
 longitude: -66.81162
 postcode: "1071"
 city: Caracas
-street: "Av. Rómulo Gallegos"
-housenumber: 
-phone: "+58-212-2430586"
-opening_hours: "Mo-Sa 08:00-16:00"
-website: "https://www.chevrolet.com.ve/"
+street: Av. Rómulo Gallegos
+housenumber: ""
+phone: +58-212-2430586
+opening_hours: Mo-Sa 08:00-16:00
+website: https://www.chevrolet.com.ve/

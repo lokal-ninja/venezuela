@@ -1,11 +1,11 @@
 id: 771143946
-type: way
+type: node
 latitude: 10.44741
 longitude: -66.81172
 postcode: "1083"
 city: Caracas
-street: "Calle Cementerio"
-housenumber: 
+street: Calle Cementerio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

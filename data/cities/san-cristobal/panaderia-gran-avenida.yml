@@ -1,11 +1,11 @@
 id: 356891459
-type: way
+type: node
 latitude: 7.78167
 longitude: -72.21264
 postcode: "5001"
 city: San Cristóbal
-street: "Avenida España"
-housenumber: 
+street: Avenida España
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

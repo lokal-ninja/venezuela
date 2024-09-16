@@ -4,8 +4,9 @@ latitude: 10.49158
 longitude: -66.80844
 postcode: "1073"
 city: Caracas
-street: "Calle 9 de La Urbina"
-housenumber: 
-phone: "+58-412-6161744"
-opening_hours: "Mo-Fr 09:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31, off"
+street: Calle 9 de La Urbina
+housenumber: ""
+phone: +58-412-6161744
+opening_hours: Mo-Fr 09:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31, off
 website: ""

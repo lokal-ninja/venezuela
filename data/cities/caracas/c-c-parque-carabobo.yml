@@ -1,11 +1,11 @@
 id: 230477396
-type: way
+type: node
 latitude: 10.50241
 longitude: -66.90645
 postcode: "1010"
 city: Caracas
-street: "Av. Universidad"
-housenumber: 
+street: Av. Universidad
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

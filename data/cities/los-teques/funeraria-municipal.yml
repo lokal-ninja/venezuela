@@ -1,11 +1,11 @@
 id: 533530005
-type: way
+type: node
 latitude: 10.35472
 longitude: -67.03739
 postcode: "1201"
 city: Los Teques
-street: "Avenida Bicentenaria"
-housenumber: 
+street: Avenida Bicentenaria
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

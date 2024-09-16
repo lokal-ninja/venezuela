@@ -4,8 +4,9 @@ latitude: 10.33326
 longitude: -67.04149
 postcode: "1201"
 city: Los Teques
-street: "Carretera Panamericana"
-housenumber: 
-phone: "+58-212-3234893"
-opening_hours: "Mo-Fr 08:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Carretera Panamericana
+housenumber: ""
+phone: +58-212-3234893
+opening_hours: Mo-Fr 08:00-16:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""

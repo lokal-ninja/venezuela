@@ -1,11 +1,11 @@
 id: 1192555821
-type: way
+type: node
 latitude: 10.50077
 longitude: -66.8479
 postcode: "1060"
 city: Caracas
-street: "3ª Transversal de Los Palos Grandes"
-housenumber: 26
-phone: "+58-412-6182234"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://tumundototal.com/"
+street: 3ª Transversal de Los Palos Grandes
+housenumber: "26"
+phone: +58-412-6182234
+opening_hours: Mo-Su 08:00-18:00
+website: https://tumundototal.com/

@@ -1,11 +1,11 @@
 id: 185322193
-type: way
+type: node
 latitude: 10.46997
 longitude: -66.58229
 postcode: "1221"
 city: Guatire
-street: "Av. Intercomunal Guarenas - Guatire"
-housenumber: 
-phone: "+58-212-3811129"
-opening_hours: "Mo-Sa 06:30-19:00; Su 08:00-18:00"
-website: "https://www.makro.com.ve/"
+street: Av. Intercomunal Guarenas - Guatire
+housenumber: ""
+phone: +58-212-3811129
+opening_hours: Mo-Sa 06:30-19:00; Su 08:00-18:00
+website: https://www.makro.com.ve/

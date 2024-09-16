@@ -1,11 +1,11 @@
 id: 1227162088
-type: way
+type: node
 latitude: 10.43168
 longitude: -66.98219
 postcode: "1000"
 city: Caracas
-street: "Calle 2,  Caricuao, Bloque 21"
-housenumber: 
+street: Calle 2,  Caricuao, Bloque 21
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

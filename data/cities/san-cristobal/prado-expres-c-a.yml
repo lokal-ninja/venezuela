@@ -1,11 +1,11 @@
 id: 1202106879
-type: way
+type: node
 latitude: 7.77242
 longitude: -72.21956
 postcode: "5001"
 city: San Cristóbal
-street: "Carrera 21"
-housenumber: 
+street: Carrera 21
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

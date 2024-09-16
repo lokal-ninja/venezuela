@@ -1,11 +1,11 @@
 id: 242622815
-type: way
+type: node
 latitude: 10.45806
 longitude: -66.8427
 postcode: "1080"
 city: Caracas
-street: "Av. La Guairita"
-housenumber: 
+street: Av. La Guairita
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00"
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

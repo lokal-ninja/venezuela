@@ -1,11 +1,11 @@
 id: 110163165
-type: way
+type: node
 latitude: 10.49832
 longitude: -66.84098
 postcode: "1071"
 city: Caracas
-street: "Av. Rómulo Gallegos"
-housenumber: 
-phone: "+58-212-2858552"
-opening_hours: "24/7"
-website: "https://excelsiorgama.com/"
+street: Av. Rómulo Gallegos
+housenumber: ""
+phone: +58-212-2858552
+opening_hours: 24/7
+website: https://excelsiorgama.com/

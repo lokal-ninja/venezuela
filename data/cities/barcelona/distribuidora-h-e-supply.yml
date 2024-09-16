@@ -4,8 +4,8 @@ latitude: 10.14356
 longitude: -64.68151
 postcode: "6001"
 city: Barcelona
-street: "Calle El Progreso"
-housenumber: 
+street: Calle El Progreso
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

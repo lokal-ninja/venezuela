@@ -1,11 +1,11 @@
 id: 247179125
-type: way
+type: node
 latitude: 7.79641
 longitude: -72.23326
 postcode: "5001"
 city: San Cristóbal
-street: "Avenida Libertador"
-housenumber: 
+street: Avenida Libertador
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

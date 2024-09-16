@@ -1,11 +1,11 @@
 id: 229952191
-type: way
+type: node
 latitude: 10.43269
 longitude: -66.96586
 postcode: "1000"
 city: Caracas
-street: "Av. Principal de La Hacienda"
-housenumber: 
+street: Av. Principal de La Hacienda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

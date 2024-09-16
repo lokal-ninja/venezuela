@@ -4,8 +4,9 @@ latitude: 10.69149
 longitude: -71.62507
 postcode: "4002"
 city: Maracaibo
-street: "Av. 15 Delicias"
-housenumber: 
-phone: "+58-414-6528227"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"
+street: Av. 15 Delicias
+housenumber: ""
+phone: +58-414-6528227
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: ""

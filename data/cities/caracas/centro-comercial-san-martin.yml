@@ -1,11 +1,11 @@
 id: 216634559
-type: way
+type: node
 latitude: 10.49142
 longitude: -66.9401
 postcode: "1020"
 city: Caracas
-street: "Av. San Martín"
-housenumber: 
+street: Av. San Martín
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

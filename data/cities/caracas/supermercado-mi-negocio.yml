@@ -1,11 +1,11 @@
 id: 369574578
-type: way
+type: node
 latitude: 10.50841
 longitude: -66.86935
 postcode: "1050"
 city: Caracas
-street: "Av. Del Ávila"
-housenumber: 
+street: Av. Del Ávila
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

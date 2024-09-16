@@ -4,8 +4,8 @@ latitude: 10.38078
 longitude: -66.96429
 postcode: "1204"
 city: San Antonio de Los Altos
-street: "Carretera: Panamericana"
-housenumber: 
+street: 'Carretera: Panamericana'
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""
