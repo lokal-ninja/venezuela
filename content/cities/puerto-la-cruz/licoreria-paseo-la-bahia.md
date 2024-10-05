@@ -1,5 +1,5 @@
 ---
-title: "licorería paseo la bahía"
+title: "Licorería Paseo la Bahía"
 url: /puerto-la-cruz/licoreria-paseo-la-bahia/
 shop: alcohol
 ---

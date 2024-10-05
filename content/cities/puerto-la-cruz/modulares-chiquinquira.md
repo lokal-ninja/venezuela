@@ -1,5 +1,5 @@
 ---
-title: "Modulares Chiquinquira"
+title: "Modulares Chiquinquirá"
 url: /puerto-la-cruz/modulares-chiquinquira/
 shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Licoreria Curametoño"
+title: "Licorería Curametoño"
 url: /los-teques/licoreria-curametono/
 shop: alcohol
 ---
