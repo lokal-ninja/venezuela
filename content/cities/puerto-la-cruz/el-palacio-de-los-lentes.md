@@ -1,5 +1,5 @@
 ---
-title: "El palacio de los lentes"
+title: "El Palacio de los Lentes"
 url: /puerto-la-cruz/el-palacio-de-los-lentes/
 shop: tienda de variedades
 ---

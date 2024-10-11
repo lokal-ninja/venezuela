@@ -1,5 +1,5 @@
 ---
-title: "La bella dama"
+title: "La Bella Dama"
 url: /puerto-la-cruz/la-bella-dama/
 shop: ropa
 ---

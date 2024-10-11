@@ -1,5 +1,5 @@
 ---
-title: "Barberia estrellas"
+title: "Barberia Estrellas"
 url: /puerto-la-cruz/barberia-estrellas/
 shop: peluquería
 ---

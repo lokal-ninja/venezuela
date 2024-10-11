@@ -1,5 +1,5 @@
 ---
-title: "ferretería caribe 88"
+title: "Ferretería Caribe 88"
 url: /puerto-la-cruz/ferreteria-caribe-88/
 shop: hardware
 ---

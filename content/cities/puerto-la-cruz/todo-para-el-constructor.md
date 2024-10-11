@@ -1,5 +1,5 @@
 ---
-title: "todo para el constructor"
+title: "Todo para el Constructor"
 url: /puerto-la-cruz/todo-para-el-constructor/
-shop: hágalo usted mismo
+shop: hardware
 ---
