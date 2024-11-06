@@ -1,6 +1,6 @@
 ---
 title: Mérida
 url: /merida/
-latitude: 8.595
-longitude: -71.148
+latitude: 8.599
+longitude: -71.141
 ---
