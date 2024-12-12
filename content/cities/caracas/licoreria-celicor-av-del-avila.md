@@ -1,5 +1,5 @@
 ---
 title: "Licorería Celicor"
-url: /caracas/licoreria-celicor-2-deg-avenida/
+url: /caracas/licoreria-celicor-av-del-avila/
 shop: alcohol
 ---
