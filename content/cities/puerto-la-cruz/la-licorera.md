@@ -1,5 +1,5 @@
 ---
-title: "La licorera"
+title: "La Licorera"
 url: /puerto-la-cruz/la-licorera/
 shop: alcohol
 ---
