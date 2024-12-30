@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Duncan"
-url: /caracas/servicentro-duncan-avenida-jose-felix-sosa/
+url: /caracas/servicentro-duncan-av-los-bucares/
 shop: piezas de automóviles
 ---

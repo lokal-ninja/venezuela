@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
-url: /barquisimeto/laser-airlines-avenida-lara/
+url: /barquisimeto/laser-airlines-av-la-salle/
 shop: agencia de viajes
 ---
