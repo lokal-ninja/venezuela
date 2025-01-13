@@ -1,6 +1,6 @@
 ---
 title: Ciudad Guayana (Puerto Ordaz)
 url: /ciudad-guayana-puerto-ordaz/
-latitude: 8.282
-longitude: -62.751
+latitude: 8.286
+longitude: -62.723
 ---
