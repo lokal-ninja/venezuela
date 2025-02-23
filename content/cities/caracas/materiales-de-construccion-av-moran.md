@@ -1,5 +1,5 @@
 ---
 title: "Materiales de Construcción"
-url: /caracas/materiales-de-construccion-avenida-moran/
+url: /caracas/materiales-de-construccion-av-moran/
 shop: comercio
 ---
