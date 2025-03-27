@@ -1,5 +1,5 @@
 ---
-title: "Licomarket"
+title: "LicoMarket"
 url: /puerto-la-cruz/licomarket/
-shop: alcohol
+shop: bebidas
 ---
