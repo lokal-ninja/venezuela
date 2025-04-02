@@ -1,6 +1,6 @@
 ---
 title: Coro
 url: /coro/
-latitude: 11.413
-longitude: -69.667
+latitude: 11.403
+longitude: -69.675
 ---
