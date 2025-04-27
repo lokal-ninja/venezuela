@@ -1,5 +1,5 @@
 ---
 title: "Panadería Venezuela"
-url: /caracas/panaderia-venezuela-av-andres-bello/
+url: /caracas/panaderia-venezuela-real-de-sarria/
 shop: panadería
 ---

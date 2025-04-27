@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
-url: /barquisimeto/laser-airlines-avenida-lara/
+url: /valencia/laser-airlines-av-diego-iribarren/
 shop: agencia de viajes
 ---
