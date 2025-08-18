@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
-url: /san-cristobal/laser-airlines-calle-10/
+url: /porlamar/laser-airlines-av-bolivar/
 shop: agencia de viajes
 ---
