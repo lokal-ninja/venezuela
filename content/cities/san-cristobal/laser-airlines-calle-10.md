@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
-url: /caracas/laser-airlines-av-jose-antonio-paez/
+url: /san-cristobal/laser-airlines-calle-10/
 shop: agencia de viajes
 ---
