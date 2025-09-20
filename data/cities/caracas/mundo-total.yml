@@ -1,11 +1,12 @@
-id: 11084821590
+id: 11165557541
 type: node
-latitude: 10.49505
-longitude: -66.87889
-postcode: "1050"
+latitude: 10.51368
+longitude: -66.94678
+postcode: "1030"
 city: Caracas
-street: Bulevar de Sabana Grande
+street: Bulevar de Catia
 housenumber: ""
 phone: +58-412-6182234
-opening_hours: Mo-Su 08:00-18:00
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-14:00; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul
+    24,Oct 12,Dec 24,Dec 25,Dec 31 off
 website: https://tumundototal.com/
