@@ -1,6 +1,6 @@
 ---
 title: Las Tunitas
 url: /las-tunitas/
-latitude: 10.586
-longitude: -67.066
+latitude: 10.587
+longitude: -67.064
 ---
