@@ -1,5 +1,5 @@
 ---
 title: "EPA"
 url: /caracas/epa/
-shop: hardware
+shop: hágalo usted mismo
 ---

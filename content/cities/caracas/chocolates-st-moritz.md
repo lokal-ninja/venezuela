@@ -1,5 +1,5 @@
 ---
-title: "Chocolates St.Moritz"
+title: "Chocolates St. Moritz"
 url: /caracas/chocolates-st-moritz/
 shop: chocolate
 ---

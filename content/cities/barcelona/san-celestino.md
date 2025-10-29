@@ -1,5 +1,5 @@
 ---
-title: "San Celestino"
+title: "san celestino"
 url: /barcelona/san-celestino/
-shop: comodidad
+shop: piezas de automóviles
 ---
