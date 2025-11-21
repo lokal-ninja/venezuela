@@ -1,5 +1,5 @@
 ---
-title: "Justo y bueno"
+title: "Justo y Bueno"
 url: /lecheria/justo-y-bueno/
 shop: supermercado
 ---
