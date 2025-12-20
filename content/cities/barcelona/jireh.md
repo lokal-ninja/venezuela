@@ -1,5 +1,5 @@
 ---
-title: "jireh"
+title: "Jireh"
 url: /barcelona/jireh/
-shop: frutería
+shop: comodidad
 ---

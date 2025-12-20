@@ -1,6 +1,6 @@
 ---
 title: Queniquea
 url: /queniquea/
-latitude: 7.916
-longitude: -72.014
+latitude: 7.918
+longitude: -72.016
 ---
