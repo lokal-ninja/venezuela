@@ -1,5 +1,5 @@
 ---
-title: "Kalathos Librería & Café"
+title: "Kalathos Librería y Café"
 url: /caracas/kalathos-libreria-y-cafe/
 shop: libros
 ---
