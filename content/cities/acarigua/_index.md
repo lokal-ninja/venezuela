@@ -1,6 +1,6 @@
 ---
-title: Acarigua
+title: acarigua
 url: /acarigua/
-latitude: 9.571
-longitude: -69.202
+latitude: 9.563
+longitude: -69.201
 ---
