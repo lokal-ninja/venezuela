@@ -1,6 +1,6 @@
 ---
 title: Puerto Ayacucho
 url: /puerto-ayacucho/
-latitude: 10.104
-longitude: -64.683
+latitude: 5.628
+longitude: -67.604
 ---
