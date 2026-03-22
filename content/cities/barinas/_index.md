@@ -1,6 +1,6 @@
 ---
 title: Barinas
 url: /barinas/
-latitude: 8.621
-longitude: -70.228
+latitude: 8.62
+longitude: -70.231
 ---
