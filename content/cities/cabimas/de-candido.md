@@ -1,5 +1,5 @@
 ---
-title: "De Candido"
+title: "De Cándido"
 url: /cabimas/de-candido/
 shop: supermercado
 ---
