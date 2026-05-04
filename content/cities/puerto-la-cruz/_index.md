@@ -1,6 +1,6 @@
 ---
 title: Puerto La Cruz
 url: /puerto-la-cruz/
-latitude: 10.219
-longitude: -64.636
+latitude: 10.218
+longitude: -64.634
 ---
