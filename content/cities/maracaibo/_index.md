@@ -1,6 +1,6 @@
 ---
 title: Maracaibo
 url: /maracaibo/
-latitude: 10.63
-longitude: -71.639
+latitude: 10.633
+longitude: -71.619
 ---

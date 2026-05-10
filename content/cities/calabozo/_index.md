@@ -1,6 +1,6 @@
 ---
 title: Calabozo
 url: /calabozo/
-latitude: 8.895
-longitude: -67.44
+latitude: 8.898
+longitude: -67.432
 ---
