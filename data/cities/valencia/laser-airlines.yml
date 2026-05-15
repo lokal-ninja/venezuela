@@ -1,11 +1,12 @@
-id: 7333713885
+id: 7307365431
 type: node
-latitude: 10.15392
-longitude: -67.92232
-postcode: "2011"
+latitude: 10.23424
+longitude: -68.00555
+postcode: "2001"
 city: Valencia
-street: Av. Diego Iribarren
+street: Avenida Salvador Feo La Cruz
 housenumber: ""
-phone: +58-286-???
-opening_hours: Mo-Fr 08:00-17:00
+phone: +58-241-8948811
+opening_hours: Mo-Fr 08:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec
+    24,Dec 25,Dec 31 off
 website: ""
