@@ -1,5 +1,5 @@
 ---
-title: "El original"
+title: "el original"
 url: /barcelona/el-original/
-shop: ropa
+shop: reparación de automóviles
 ---
