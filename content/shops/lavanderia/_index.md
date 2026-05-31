@@ -1,5 +1,5 @@
 ---
 title: lavandería
 url: /lavanderia/
-icon: other
+icon: laundry
 ---

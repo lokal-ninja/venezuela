@@ -1,6 +1,6 @@
 ---
 title: Maturín
 url: /maturin/
-latitude: 9.762
-longitude: -63.145
+latitude: 9.78
+longitude: -63.196
 ---
