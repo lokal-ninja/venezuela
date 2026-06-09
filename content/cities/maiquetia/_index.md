@@ -1,6 +1,6 @@
 ---
-title: Maiquetia
+title: Maiquetía
 url: /maiquetia/
-latitude: 10.592
-longitude: -66.991
+latitude: 10.597
+longitude: -67.006
 ---

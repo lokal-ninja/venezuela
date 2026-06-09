@@ -1,5 +1,5 @@
 ---
-title: "Centro comercial los angles"
+title: "Centro Comercial Los Angles"
 url: /barcelona/centro-comercial-los-angles/
 shop: centro comercial
 ---
