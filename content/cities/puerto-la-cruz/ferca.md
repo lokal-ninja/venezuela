@@ -1,5 +1,5 @@
 ---
-title: "ferca"
+title: "Ferca"
 url: /puerto-la-cruz/ferca/
-shop: hágalo usted mismo
+shop: hardware
 ---
