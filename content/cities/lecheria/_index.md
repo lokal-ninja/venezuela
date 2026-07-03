@@ -1,6 +1,6 @@
 ---
 title: Lechería
 url: /lecheria/
-latitude: 10.194
-longitude: -64.69
+latitude: 10.2
+longitude: -64.692
 ---
