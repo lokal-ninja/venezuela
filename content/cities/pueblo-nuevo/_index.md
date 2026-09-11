@@ -1,6 +1,6 @@
 ---
 title: Pueblo Nuevo
 url: /pueblo-nuevo/
-latitude: 8.961
-longitude: -71.605
+latitude: 8.957
+longitude: -71.613
 ---
