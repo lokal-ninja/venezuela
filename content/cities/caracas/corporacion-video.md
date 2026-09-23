@@ -1,5 +1,5 @@
 ---
-title: "Corporacion video"
+title: "Corporación video"
 url: /caracas/corporacion-video/
 shop: electrónica
 ---

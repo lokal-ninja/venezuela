@@ -1,5 +1,5 @@
 ---
-title: "Refrigeracion Segura,SRL"
+title: "Refrigeración Segura,SRL"
 url: /caracas/refrigeracion-segura-srl/
 shop: comercio
 ---
