@@ -1,6 +1,6 @@
 ---
 title: Ocumare del tuy
 url: /ocumare-del-tuy/
-latitude: 10.112
-longitude: -66.775
+latitude: 10.119
+longitude: -66.782
 ---
